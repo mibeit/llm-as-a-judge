@@ -1,0 +1,129 @@
+Proposal number: 1334083
+
+Proposal: Agricultural Use of Nitrapyrin to Mitigate Nitrous Oxide Emissions from Soil
+
+Summary
+One of the potential approaches to mitigate (or reduce) nitrous oxide (N2O) emissions from agricultural soils is the use of Nitrapyrin, which inhibits soil nitrification process. The use of nitrification inhibitor (NI) is more effective in those agricultural system where urea containing fertilizers are broadcasted- most common practice in Nepal due to the nature of traditional and subsistence farming. Such NI either reduce or slow down the loss of nitrogen (N) from soil when used together with urea ammonical fertilizers and/or with animal manures. It delays the nitrification process by inhibiting Nitrosomonas spp. bacteria that typically convert ammonia to nitrite, thus preventing the loss of soil N through leaching, runoff or gaseous emissions. In addition, it has a potential to increase efficiency of crop production.
+
+To measure N2O gaseous emissions from irrigated corn, an experiment will be conducted in farmer’s field at Kavreplanchowk district of Nepal from April to August 2018. Treatment combinations will include two rates of N fertilizer, two rates of application timing, and use and exclusion of nitrapyrin. The study location is also considered as pocket area for corn and vegetable production. Farmers in these areas have been using excess amount chemical fertilizers and pesticides to increase productivity, which is higher than the recommended doses, ultimately leading to N2O emissions.
+
+Understanding N2O emissions from agricultural soils in such areas are necessary to improve our knowledge of global terrestrial N2O losses. Furthermore, findings from this study will be helpful to understand more about the extent and rate of nutrient depletion for better adoption of N fertilizer management strategies in corn dominated cropping system in Nepal. It can also possibly bring indirect benefits such as reduction of cost incurred to purchase fertilizers, and promotion of a sustainable production system by improving soil ecosystem.
+ 
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+Agriculture is the main anthropogenic source of N2O emissions, of which 92% is attributable to soil management practices such as N fertilizer and manure application (Decock, 2014). Emissions of N2O from soils occur mainly from microbial processes in nitrification of ammonium (NH4+) and denitrification of nitrate (NO3-), and are controlled by carbon and N availability, oxygen or soil moisture content availability, and soil pH (Misselbrook, 2014; Panday and Nkongolo, 2015). Emissions of N2O in corn cropping system ranges from 1.3% to 2% of N fertilizer applied to soils (Bronson and Mosier, 1993; Panday and Nkongolo, 2016). Based on this background information, management action to mitigate N2O loss needs proper understanding of potential N losses from the soil-plant system in form of NH4+ volatilization and NO3- leaching (Maharjan et al. 2014).
+
+One of the potential approaches to mitigate N2O emissions from agricultural soils is the use of Nitrapyrin. Chemically, nitrapyrin is a 2-chloro-6-(trichloromethyl) pyridine and used as one of the NIs and soil bactericide, and which inhibits soil nitrification process (Liu et al. 2017) and thus prevents the possible loss of soil N through leaching, runoff or gaseous emissions. Available data indicate that nitrapyrin hydrolyzes and photodegrades rapidly, and hence should not persist in most environments. Yet, there are no studies about the effects of nitrapyrin on microbial function related to nitrogen processing in aquatic systems (Woodward et al. 2016). However, the Environmental Protection Agency has classified nitrapyrin as “likely to be a human carcinogen."
+
+Of the many global estimates of greenhouse gases, only a few field measurements are reported from South Asia. Among them, a study evaluated the performance of NIs such as biochar, calcium carbide for mitigation of N2O emissions in rice field in Bangladesh, and suggests that N2O emissions was decreased by 36–40% and 26–30% under continuous and intermittent irrigations, respectively (Ali et al. 2013). While there are no studies on the use of nitrapyrin and N2O fluxes in South Asia from agricultural systems, Sahrawat and Mukerjee (2008) looked into the use of NIs such as karanjin and nitrapyrin along with ammonium sulfate and urea nitrogen (150 kg ha-1) on grain yield of agricultural crops.
+
+The fact is that Nepal is still struggling to produce an adequate supply of food for its citizens. Farmers have limited access to improved seeds, new technologies, and market opportunities. Adaptation to climate change has added a further challenge for agricultural development. In this context, the challenge for agricultural development is that how to expand emerging sustainable practices by using industrial inputs. Many studies have already shown than nitrapyrin is not only to reduce N2O emissions, but also for increasing N use efficiency in soil-plant system, and for increasing crop production. For these reasons, this experiment would provide useful information that could contribute to the debate on the future of Nepalese agriculture. 
+
+Therefore, our study will be the first experiment in Nepal to explore the use of nitrapyrin along with urea fertilizer to mitigate N2O emissions from soil and help in N fertilizer management in corn field. The specific objectives of the proposed experiment are
+
+To quantify N2O fluxes from irrigated corn under the use of nitrapyrin along with urea fertilizer.
+To investigate the relationship between N2O fluxes and soil physio-chemical properties and environmental parameters.
+To evaluate the effect of nitrapyrin on soil physio-chemical properties and corn yield.
+Site and Experimental Design
+
+A field experiment will be conducted in Kalchhebesi, Dhulikhel-11, Kavreplanchowk district (in the Araniko Highway corridor) of Nepal. The elevation of the study area is 968 m, where the climate is subtropical with hot humid climate during summer and moderately high rainfall during monsoon (annual average is 1400 mm), and soil type is sandy clay loam with slightly acidic pH in nature. The annual maximum and minimum temperatures in the area are 32.4°C and 4.3°C respectively (ADB, 2009). The reasons for choosing this area are due to the representative of corn acreages in the region or country and of course, the good partnering opportunity with a willing grower.
+
+
+
+
+
+The experiment will comprise 9 treatment combinations arranged in a randomized complete block design, with three treatment factors and three replications. These treatment factors are N rate (160 kg N ha-1 and 240 kg N ha-1), fertilizer application timing (pre-emergence and pre-emergence + side dress at V6 stage), and nitrapyrin (use i.e., at the rate of 0.5 kg a.i. ha-1 and exclusion), along with a control (no N rate, no fertilization application timing and no nitrapyrin). Treatment rates are based on recommended dose for hybrid corn in Nepal. The amount of urea fertilizer for pre-emergence + side dress will be split as ½ dose for pre-emergence and another ½ dose for side dress at V6 stage of corn. The individual plot size will be of 6 m long by 4.5 m (six rows) wide. Corn variety ‘Rampur Hybrid 2’ will be sown in about second week of April 2018.
+
+
+
+Measurement of Gas Samples, Soil and Environmental Parameters
+
+The chamber based method will be used for measuring N2O gas fluxes from the soil surface. This is still a dominant method of gas measurement for small-holder farming condition due to its adaptability, portability, cost effectiveness and flexibility to diverse production environments (Sapkota et al. 2014). A set of chamber includes base/anchor (dimension: 30 cm height and 20 cm diameter) and head (dimension: 20 cm height and 20 cm diameter), in which the anchor of chamber is permanently placed in the soil and head is placed and sealed onto the anchor at the time of gas sampling.
+
+The anchors will be installed approximately 10 cm deep into the soil perpendicular to the corn rows throughout the growing season. Gas sampling activities will start after 10 days from corn sowing date and ends after three weeks from silk emergence where frequency of collection will be one time per week. Three gas samples will be collected in 10 mL sample vials at 15-min intervals between 0 and 30 min at the time of gas sampling from each plot. At the same time, soil water content and temperature will be measured from 0 to 10 cm depth in the vicinity of each anchor. Those sample vials will be analyzed in gas chromatograph at Nepal Academy of Science and Technology Laboratory, and analyzed data will be converted in to N2O fluxes value.
+
+For the determination of bulk density, pH, organic matter (OM), total N (NH4+-N and NO3--N), phosphorus (P), potassium (K), and electrical conductivity (EC), soil samples will be collected two times (before planting and after the harvesting of corn) from 0 to 15 cm depth. This depth is selected due largely to shallow root depth of corn and higher spatial variation in nutrient dynamics, microbial activities and soil physio-chemical properties. The collected soil samples will be analyzed at Soil Science Division Laboratory of Nepal Agricultural Research Council, Nepal. Corn grain yield will be measured by harvesting the center two rows of every plot.
+
+
+
+Who will take these actions?
+During the pilot project phase, our team include researchers, government personnel, development worker and farmer.
+
+Farmer (Mrs. Bimala Bajgain) from Kalchhebesi, Dhulikhel-11, Kavreplanchowk district who will offer land for our experimentation.
+
+Mr. Roshan Subedi is working as Project Coordinator for Climate Smart Village at Center for Environment and Agricultural Policy Research, Extension and Development, Nepal. He will take lead role to manage farmer’s field suitability for experimentation, arrangement of field supplies, and to maintain sound relation with farmer and other team members.
+
+Dr. Amit Prasad Timilsina is an Agronomy Scientist (S1) at Nepal Agricultural Research Council, Lalitpur, Nepal. His areas of interest are greenhouse gas emissions, climate change and field crops management. He will take lead role for experimental set up and data collection during the entire study period.  
+
+Dr. Bharat Sharma Acharya is an Expert in Natural Resource Ecology and Management, based in United States. He has previously worked on greenhouse gas emissions, ecohydrology, hydrogeophysics, and soil physics under agriculture, grassland and forest ecosystems. He will provide technical support in designing and implementation of project. Moreover, he will be actively involved in writing manuscripts and extension articles.
+
+Mr. Dinesh Panday is a Doctoral Graduate Research Assistant in Soil Fertility and Nitrogen Management at University of Nebraska-Lincoln, United States. He will be working as Team Leader for this project. He will be involved in collection, analysis and interpretation of data, and writing manuscripts and extension articles.
+
+Where will these actions be taken?
+Farmer’s field in Kalchhebesi, Dhulikhel-11, Kavreplanchowk district, Nepal.
+
+In addition, specify the country or countries where these actions will be taken.
+Nepal
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+Intergovernmental Panel on Climate Change states that N2O emissions from agricultural soil is 296 times stronger than CO2 (IPCC, 2013). Some of the previous studies on vegetable (8-24% N2O reductions at the rates 200, 300 and 400 kg N ha-1), rice (50% N2O reductions at the rates of 180 and 240 kg N ha-1), and corn (43-71% N2O reductions at the rate of 218 kg N ha-1) have shown that use of nitrapyrin along with urea fertilizer can reduce N losses and promote crop productivity, and thus achieving a higher N use efficiency (about 10.7%) and lower yield scaled N2O emissions.
+
+Therefore, controlling N2O release from the application nitrapyrin and N fertilizer will contribute to the reduction of annual N2O emissions. Furthermore, the results of this experimentation will generate data to justify a field research at larger scale and also for corn-rice-wheat cropping systems.
+
+What are other key benefits?
+This project is novel and has broader socio-economic and environmental implications. This will be the first time when nitrapyrin will be used to explore its environmental and soil fertility benefits in agricultural systems.
+Opens door for further research activities to combat against changing climate and brings attention of concerned researchers, institutions in to national priorities.
+Participation of local communities and helps in technology transfer and enhance farmer resilience to changing climates.
+Improves soil and promotes a sustainable production system.
+Costs/Challenges
+What are the proposal’s projected costs?
+Salaries and wages: $2000
+Field supplies: $1500
+Laboratory analysis: $1088
+Gas sample analysis: $3888
+Transportation and communications: $1200
+Farm rent: $150
+Contingencies (5%): $491
+         Total: $10317 USD
+
+Narrative Projected Costs
+
+Salaries and wages: $2000 is requested to cover the costs of a research technician (for 5 months, $300 per month) and other agricultural operations (field preparation, sowing, weeding, harvesting, etc.).
+
+Field supplies: $1500 is requested to cover the costs of stuffs, such as static vented chambers, gas vials, gas sampling tool box, seeds, fertilizers, nitrapyrin, irrigation pipes, etc.
+
+Laboratory analysis: $1088 is requested to cover the costs of soil chemical properties analysis before and after the experimentation (36 soil samples, 2 times, 7 soil chemical parameters at $2 per parameter). Soil chemical parameters include pH, OM, N (NH4+-N and NO3--N), P, K, and EC.
+
+Gas sample analysis: $3888 is requested to cover the costs of greenhouse gas (N2O) samples using Gas Chromatograph (9 treatments, 3 replications, 3 vials per treatment per time/ week, 12 time/ week collections at $4 per sample).
+
+Transportation and communications: $1500 is requested to cover the costs of transportation and communications during the entire period of study for all associated stakeholders.
+
+Farm rent: $300 is requested to cover the costs of farmer’s field (at least 972 m2 or approx. 3 katha) for experimentation.
+
+Note: The proposal’s projected costs >$10000 will be arranged from other sources.
+
+ 
+
+Challenges (to the proposed measurements and ways to overcome them)
+
+Nitrapyrin [2-Chloro-6-(trichloromethyl) pyridine] is not available in Nepal. It will be imported from India during study period.
+
+Similar to other field-based projects, this experiment may suffer from uncertain weather and extreme events.
+
+Timeline

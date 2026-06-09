@@ -1,0 +1,67 @@
+Proposal number: 1333983
+
+Proposal: Eco-Friendly MOGS
+
+Summary
+There is current global need for clean & renewable
+energy source. As we know the solar energy is highly
+efficient & more feasible alternative source for rural
+electrification. But still the common question is; what
+about night time…?! The eco-friendly MOGS
+systems itself suggest solution, its combination of
+standalone solar power plant with battery back.
+In simple words it’s an electricity network which can
+intelligently integrate whole system work with cost
+effective SPV system infrastructure, battery
+management system and hybrid inverter with prepaid
+energy meter for individual homes.
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+Let us discuss about MOGS solution. Its simple SPV off grid system with few smart technology; to increase energy efficiency, reduce T&D Losses,increase reliability of power supply with highest level of safety precautions. The simple SLD is as followed.
+
+ PV Array - Combiner Cabinet -  smart Battery management controller (BMS) - Hybrid Inverter - Prepaid energy meter - Load distribution.
+
+Here we are Using Prepaid Energy meter which have credit and debit base input supply for consumer. with attractive Incentives as per consumptions if they used energy efficient appliances, it's not only help us to reduce peak load demand but also help us to saving energy as well as Technoeconomical Losses.
+
+Who will take these actions?
+Firs NGOs and Individual Organization play Importent role to implement this ideas because it's proposed for those area where no electricity is available.
+
+The main role is Site survey and providing demand based viable solutions.
+
+Where will these actions be taken?
+The action is Suitable for Individual Village of 100 - 5000 peoples in those area where no Electricity available.
+
+In addition, specify the country or countries where these actions will be taken.
+India
+
+Country 2
+Ghana
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+What are other key benefits?
+Reduce the dependency on grid
+Long term reliable power supply.
+Prepaid meter – pay as you consumed,possibility of energy conservation and no theft.
+Simple infrastructure and Reduce T&D and conversion losses as power is consumed at the point of generation
+Availability of online data & Low maintenance cost
+Costs/Challenges
+What are the proposal’s projected costs?
+The cost depends upon the No of Village, Home & Peoples.
+
+Approximately for basic requirement like 3 LED Bulb - 8W,1 Energy efficient Fan - 30W & 1 Pumps - 1Hp. for 50 individual Home. Approx Cost 5,00,000 INR.  
+
+Timeline
+As it's Solar off grid system, the impact is Short time. 

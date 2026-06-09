@@ -1,0 +1,137 @@
+Proposal number: 1333979
+
+Proposal: Climate Stories Project
+
+Catalyze the sharing of climate change stories through educational forums and shape stories into artistic pieces to change public attitudes.
+
+Summary
+We are accustomed to thinking about climate change as future sea level rise, future melting glaciers, and future extreme weather. However, more and more of us are realizing that climate change is having real and significant effects on ourselves, our families, and our communities in the present day. Within the span of a few years, people have begun to shift from seeing climate change as an abstract possibility to seeing it as the present reality. Some of us already think about climate change daily. Some of us are experiencing the effects of climate change but don’t understand yet how they fit into the stories of our own lives. Some of us have never thought of climate change before, or have experienced climate change effects but for various personal, political, or ideological reasons resist connecting the dots. Unfortunately, our culture and institutions largely lack the language and conversational space to connect the dots between our industrial civilization, rapid environmental change, and the growing impacts of climate change on our lives (see Marshall 2014). What we need is a forum to speak openly and honestly about our experience with, and reactions to climate change.
+
+Climate Stories Project (CSP) creates such a forum. This project is an educational and artistic forum where individuals, students, and communities can share stories of their personal experience with climate change and the emotional impact these changes are having.
+
+In order to foster collective action on climate change, CSP engages in three approaches: 1) CSP solicits and shares stories about positive changes that people and communities are making in order to combat climate change. 2) CSP facilitates educational workshops in which students interview community members about personal responses to the changing climate, 3) CSP integrates recorded climate narratives into artistic formats, leveraging the power of art to reach diverse audiences and change attitudes about climate change.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+Storytelling is how we develop individual and collective identities that define the ends we seek... Storytelling is how we access the emotional, or moral, resources for the motivation to act on those ends.
+
+      - Marshall Ganz, The Power of Story in Social Movements 
+
+Climate change is a story, or rather billions of interlinked personal stories. For the most part, however, we distance ourselves from climate change through the buffers of scientific data or political battles. As a result, many people relate to climate change only in the abstract, if at all. In order to change public attitudes, we need to tell the stories of people around the world for whom climate change is a present-day reality. 
+
+Climate Stories Project has several approaches:
+
+1) Collecting and Showcasing Diverse Climate Change Stories
+
+As part of Climate Stories Project, contributors from around the world share their spoken, visual, and written stories about the effects of climate change on themselves, their families, their communities, and their environment. Participants also share stories about how they are reducing their carbon footprint, installing renewable energy, and engaging community members to respond proactively to climate change. By creating a conversational space to share personal, honest, and proactive responses to climate change, CSP reinforces social norms to engage with climate change directly and openly. 
+
+Visitors to climatestoriesproject.org are able to connect stories based on common experiences, such as drought, extreme weather, community adaptation, and emotional reactions to climate change. During the following year, stories will be will be tagged and visitors will be able to search for themes such as "flooding" or "resilience." Visitors are able to connect through common places, as the website also includes an interactive world map, where visitors can click on stories from around the world and listen to a "human geography" of climate change. Users are able to visualize the connection between, say, a story from Santa Barbara, California, and a story from the city of Male in the Maldives. The map will developed to allow users to easily search locations, upload their own local stories, and embed social media links and other media such as video. The map will integrate with ESRI's Story Map application.
+
+Visitors are also able to share their stories and read articles connected to climate stories at the Climate Stories Project Facebook page. CSP will be integrated with Instagram and Twitter as well.
+
+The content of the climate stories and interviews is wide-ranging. CSP encourages visitors to speak of their observations of climatic and environmental changes in their community and environment, their emotional reactions to climate change, ways that their family or community is adapting to climate change, and actions they are taking in their communities to combat climate change. Furthermore, the website includes various interactive steps to guide visitors through the process of conceptualizing, telling, and recording their own climate change stories. These steps includes prompts and instructions that are similar to the questions that are asked during a live or telephone climate stories interview, such as the following:
+
+1) Who are you and where do you live?
+
+2) What specific changes have you seen or experienced in the places you care about?  For example, you could consider changes such as shifting seasons, disappearing—or newly appearing—plants and animal species, or rising water levels. Or you could consider transformations in your community such as new groups or businesses, new events or rituals, or new opportunities for social change.  
+
+3) How has climate change affected the places you care about? How has it affected your community? Your family? Your own identity?
+
+4) How do you feel about climate change?  Describe your emotional responses to climate change as you think about yourself, your family, and your community.
+
+5) How do you imagine the future?  What kind of world would you like to see in terms of the relationship between different groups of humans, between humans and the natural world, between humans and the climate?   
+
+6) What changes are you making in your own life and in your community to combat climate change?
+
+By providing such guidance, we are not trying to dictate what stories people tell, but rather to give people various tools for reflecting on their own lives and for “connecting the climate change dots.”
+
+In addition to the stories that visitors to the site upload, Climate Stories Project solicits stories from communities around the world that are most directly facing the impacts and risks of climate change. In fall 2015 I traveled to Shishmaref, Alaska, a Iñupiat community that recently voted to relocate their village away from a barrier island to the mainland due to severe erosion from sea level rise and sea ice melt. In Shishmaref I worked with Iñupiat high school students who conducted and recorded interviews with their elders and other community members about the dramatic impacts of climate change on the village.
+
+An important goal of Climate Stories Project is to capture stories from diverse locales and perspectives. Some participants are active politically; some are farmers; others are teachers; some are scientific researchers. Some are skeptical of the reality of climate change, and some are even benefiting from climate change. For example, farmers in the U.S. Southwest may speak of their challenges growing food with less rainfall and higher temperatures, while farmers in Greenland may speak of their positive experiences with growing crops and herding sheep in a warming climate. The goal of showcasing these climate stories is to give individuals around the world a direct voice to share their climate change experiences. Or in other words, the Climate Change Stories Project will function as an archive of testimonials, a space where individuals can share their own “witness stories.”
+
+As a project to change public attitudes about climate change, Climate Stories Project also engages audiences who may be antagonistic, apathetic, or unconvinced about the reality of human-caused climate change. The approach of the interviews is to encourage participants to speak of their emotional attachments to their local natural environments and then speak about some of the changes they are observing in weather patterns, temperatures, or wildlife. In this way, Climate Stories Project facilitates speaking directly about the climate-related changes that are happening all around us and bypassing the political and scientific filters that keep us from having an open and healthy conversational space about climate change.
+
+An important facet of Climate Stories Project is to share stories of personal, community, and emotional adaptation to climate change. People and communities around the world are adapting to the reality of climate change in a wide variety of creative ways, such as changing agricultural practices, developing new forms of housing, and investing in local economic systems. The project showcases stories about the diverse array of these adaptive strategies. In addition, Climate Stories Project features stories about emotional responses and adaptations to climate change, such as a parent’s fear for their child’s future or a long-time residents' hope for a renewed connection to her local environment and community. Showcasing stories about adaptation and emotional responses is important, as most climate change communication focuses only on impersonal, scientific,or political frameworks.
+
+2) Integrating Climate Stories Into Educational Curriculum
+
+Climate Stories Project carries out and leads educational workshops in which high school and college students learn interview skills, then conduct, record, edit and share interviews with local community members, or people in frontline climate change communities (such as survivors of Hurricane Irma) about their responses to the changing climate. Rather than only teaching about the scientific and policy aspects of climate change, Climate Stories Project teaches about the diverse ways in which people around the world are responding and adapting to climate change. Students studying, creating, and recording climate interviews benefit by developing a deeper understanding of the human dimension of climate change, and by building empathy and connection with people around the world. The project makes climate change education more engaging and effective by illustrating the direct relationships between climate change, communities, people around the world, and the students themselves.
+
+CSP has facilitated climate interview workshops with high school and college students at Chewonki Semester School in Maine; Common Ground School in Connecticut; University of Massachusetts, Lowell; University of Oregon; Shishmaref High School in Alaska; Hastings on Hudson High School and Paul Smith's College in New York; and with graduate students at the National University of Niger. In all schools, students honed their interview skills and then interviewed participants in person or over Skype about personal and community responses to climate change. Participating students benefited greatly by developing communication and empathy skills and learning to relate to climate change as a personal and community issue.
+
+3) Creating and Presenting Artistic Works Based on Climate Stories
+
+Climate Stories Project also has a major artistic outreach component. As a musician and composer, I am using parts of recorded climate stories as the basis for composed and improvised music. I am developing musical and soundscape pieces that use the power of first-person spoken narrative to create emotional empathy with personal and community responses to climate change. I have recorded and performed several pieces, John Sinnok, Resting Storm, Mingan Stories, and Inuit Music for Solo Double Bass, which demonstrate my approach to creating music from climate stories. In John Sinnok, Iñupiat elder Sinnok speaks about how the sound of people walking on snow in Shishmaref Alaska has changed as the snow has softened with the changing climate:
+
+There are also many other potential methods of creating and sharing artistic works around climate stories and Climate Stories Project encourages artists to develop their own pieces based on the recorded narratives.
+
+By placing climate change narratives in a novel artistic format, Climate Stories Project is able to bypass the scientific, political, and environmental filters that keep many people from engaging with the issue of climate change. In other words, this project engages those who may be unmoved by a PowerPoint presentation, UN report, or policy proposal, but may readily respond to the combined power of music and personal climate change narratives. In this way, I expect Climate Stories Project to to change public attitudes by encouraging improved dialogue and understanding about the effects of climate change on people's lives.
+
+4) Partnering with organizations working on similar projects
+
+CSP has been working with Climate Reality Project Canada by providing a story-sharing platform for their Community Climate Hubs network. To further expand the educational outreach of CSP, I am exploring other partnerships such as with Climate Reality Leadership Corps and CREW. I am seeking out partnerships with other CoLab projects, such as ClimateX (to include real-time stories from hurricane survivors and others responding to climate change), and Augmented Spaces/Sustainable Behavior (to use augmented reality or similar technology to make climate stories more vivid for audiences).
+
+Who will take these actions?
+The primary participants in Climate Stories Project are the people contributing their stories about their response to climate change. Following the paradigm of "storyteller directed" narratives, the project gives a voice for people to speak about their personal reaction to important life events (Willox et al. 2013). In addition, many others are able to access climatestoriesproject.org in order to forge a more direct connection with the effects of climate change on people, communities, and the natural world. Listening to and sharing climate stories can be a powerful and life-changing experience for students, activists, politicians, businesspeople, community leaders, families, and global citizens. 
+
+High school and college students are also key participants in the project, and a core goal of Climate Stories Project is to strengthen and deepen climate change education. Climate Stories Project has worked with high school and college students in Massachusetts, Connecticut, New York, Alaska, Oregon, and West Africa. The students have learned how to conduct interviews and have carried out climate change interviews with members of their communities as well as frontline climate change communities in Alaska (via Skype). In the process of crafting interview questions, learning interview skills, and carrying out interviews with local and remote community members, the participating students developed empathy skills and gained a deeper understanding and appreciation of climate change as a vital social issue.
+
+I feature sections of recorded climate stories integrated into composed and improvised music. Through recordings and performances of this climate narrative-based music, I am reaching a wide and diverse audience including families, children, politicians, journalists, and other artists. The novel artistic approach of Climate Stories Project will allow for widespread participation of new audiences who may be currently unengaged with climate change. These audiences who are moved by hearing the artistic presentations of climate change stories may be inspired to record their own stories, interview friends, family, or colleagues, and engage in action to mitigate or adapt to climate change. I am also working to engage other musicians, composers, and artists to create and present works based around climate stories, as demonstrated in my participation in the Creative Climate Awards in New York in October 2017.
+
+Where will these actions be taken?
+My goal is for Climate Stories Project to reach individuals, schools, communities, and countries around the world. I began the project as an EE Capacity Community Climate Change Education Fellow, and have conducted climate story interviews with many of the other fellows, most of whom work as environmental educators in large and small communities in the United States, Canada, and Mexico. CSP education workshops have been carried out in the US (Massachusetts, Connecticut, Maine, New York, Alaska, and Oregon) and West Africa. I am currently organizing CSP workshops in Canada in a partnership with Climate Reality Project Canada. Building on a CSP workshop at the Common Ground School in New Haven, CT, in which students interviewed students and elders in Shishmaref, AK, I am planning on facilitating workshops in which students from the US and Canada can interview, via Skype, students in countries and regions already facing dramatic climate change impacts such as coastal Alaska and small island nations. Eventually CSP will foster a worldwide network of stories and storytellers from a very diverse array of developing and developed countries. 
+
+In addition, specify the country or countries where these actions will be taken.
+United States
+
+Country 2
+Canada
+
+Country 3
+Niger
+
+Country 4
+Philippines
+
+Country 5
+Bangladesh
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+The novel educational and artistic forum of Climate Stories Project is a vital resource for shifting the polarized dialogue around climate change into more productive and proactive terrain. The positive evaluations received from educational workshops and artistic presentations of climate stories have proven that CSP has the potential to help students and project participants to radically deepen their identification with, and understanding of climate change as a pressing human issue. Some of the responses that I have received from students who participated in workshops include:
+
+"I got a sense for how I could see climate change happening around me."
+
+"I was surprised that people have such different ideas about climate change."
+
+"It was the first time I spoke to anyone about climate change."
+
+I do not believe it is possible to make a detailed analysis of the amount of GHG reductions engendered by Climate Stories Project. However, I do believe that CSP is having a growing impact on the narrative around our relationships to the changing climate. By both speaking about and listening to personal and community responses to climate change, participants become directly engaged with climate change as a present-day reality, rather than as only an abstract scientific concept. This shift in perspective is vital in promoting widespread societal participation in addressing climate change, without which climate change will remain an environmental issue of primary relevance only to activists and climate scientists. 
+
+What are other key benefits?
+Climate Stories Project solicits and shares stories which highlight proactive behavior being taken in order to mitigate and adapt to climate change, such as reducing personal carbon footprints, creating community climate action plans, and building resilient community infrastructure. A great deal of research has demonstrated the power of fostering positive social norms in motivating social behavior change (see Stern 2014). There is tremendous potential to harness the power of storytelling and story-sharing to generate proactive responses to climate change (Cunsolo Willox et al., 2013). In addition, there is a huge need to give voice to the personal and emotional reactions to climate change, which are often suppressed or seen as of lesser importance than the scientific, political, and economic facets of climate change (Doherty and Clayton, 2011). Climate Stories Project is facilitating an important shift in our understanding of climate change and is also helping people to psychologically process the change, loss, and opportunities that climate change presents.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Climate Stories Project is a growing project and will need increased funding in order to allow it to reach its full potential. CSP has received some funding through EE Capacity, an EPA-funded organization which promotes innovative approaches to environmental education. The CSP educational workshop model was developed through participation in the EE Capacity Community Climate Change Fellowship Program. Funding has also been provided by schools for which I have facilitated CSP education workshops. Funding is currently being sought from several foundation grants and other sources.
+
+Going forward, here are the priorities for which funding will be required:
+
+1) Development of a mobile app with which members of the public and participants in CSP education workshops can record and submit interviewees' or their own climate stories. The basic structure for the app will be similar to that of Storycorps, which allows users to enter interview questions, take pictures, record interview audio, and then share the interviews on an online archive. Estimated cost: $40,000
+
+2) One-year salaries for two part-time interns who will outreach to schools and community centers, lead CSP education workshops, build CSP's social media presence, research and apply for grant funding, solicit, record, edit, and share stories, organize and improve website organization (story tagging, development of map, etc.), write, solicit, and edit blog posts, and build partnerships with organizations. Estimated cost: $30,000 
+
+3) Limited paid social media advertising to increase project reach to schools, community centers, and environmental organizations. This strategy will help build the CSP "brand," grow submissions, and encourage the widespread adoption of educational workshop model. Estimated one-year cost: $2,000
+
+One advantage of the present project is that it utilizes existing online platforms such as Soundcloud, and therefore can scale easily without requiring the development of costly stand-alone architecture. 
+
+Total estimated cost for app development, one-year intern salaries, and one-year social media marketing: $72,000
+
+Timeline
+2017-2025: Climate Stories Project is developed into a dynamic educational curriculum for formal and informal settings. Through the project, climate change education becomes focused on adaptation and community response to climate change rather than just the scientific and political dimensions of climate change. CSP becomes a well-regarded component of climate change education in high schools and colleges. Alongside with creation and dissemination of artistic works featuring climate stories, the workshops contribute to a large-scale societal shift of responding to climate change in a direct and engaged manner.
+
+2025-2050: The project grows into an interactive and self-sustaining network of community members, storytellers, educators, and artists sharing their responses to climate change. Community members and students around the world are trained to conduct and record climate story interviews. Through the sharing of climate stories from around the world, public attitudes shift from understanding climate change as an abstract phenomenon to a present-day reality to which communities are directly responding.
+
+2050-2100: Climate Stories Project contributes to a full-scale renegotiation of humanity's relationship with the climate, in which the story of climate change and the stories of people, communities, regions, countries become inseparable. 

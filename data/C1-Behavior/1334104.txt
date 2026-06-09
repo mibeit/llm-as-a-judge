@@ -1,0 +1,297 @@
+Proposal number: 1334104
+
+Proposal: MOSSpod: empowering the urban workforce to reduce localised air pollution
+
+Summary
+The global urban population has increased from 0.7 billion people in 1950 to 3.9 billion in 2014. This is expected to further increase by an additional 60% by 2050, at which time 6.3 billion people are projected to live in urban areas [1]. This increasing population density is leading to a great increase in air pollution, which causes 3.7 million premature deaths annually [2]. The impact of this increase air pollution is felt across cities and societies in terms of health costs, impaired quality of life, lost productivity and missed economic opportunities.
+
+At Modular Offices for Sustainable Spaces (MOSS), we believe that cities could be so much more: greener, cleaner and more relaxing. In order to achieve this transformation, we aim to empower the urban workforce to shift to a more sustainable livelihood. Our key criteria is this should be a “business-as-usual” (BAU) solution - the smoother the transition to environmental care, the faster we can solve air pollution in cities.
+
+The daily hassle of fast-paced city life still leads to a lot of stress for modern day professionals. This is compounded by the loss of green spaces in urban areas, removing our connection to nature. In addition, the air quality in semi-enclosed train stations, through which  many commute, is worse than standing next to the side of the motorway [3].
+
+In order to simultaneously increase the wellbeing of the urban population, the productivity of on-the-go professionals, and to reduce air pollution, we have developed the MOSSpod. MOSSpod is an enclosed, two-person workspace, covered in air-purifying moss. The pods are modular, creating the option to combine into a larger workspace. These pods can be reserved by users who need to escape from the hustle and bustle of city life in order to get some work done, or have a quiet conversation without interruption. Concurrently, any customer using the MOSSpod will be reducing local air pollution and so contributing to tackling environmental change. 
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+Product Purpose
+
+The MOSSpod is a moss-covered structure which can be placed in public or semi-public areas to serve as a flexible working space. The MOSSpod creates an inspiring work environment whilst simultaneously capturing air pollutants such as nitrogen dioxide (NO2), thus contributing to better air quality. Globally, densely populated cities are failing to maintain a healthy level of air quality for their inhabitants.  The other main purpose of the product is to provide private and quiet working spaces at high-traffic locations. Although floor space in such locations is scarce, the pod is serving a double function by both adding a new business model for these square meters and at the same time enhancing the space with a green feel.
+
+ 
+
+
+
+Product specifications & Cost
+
+Minimum Viable Product: Indoor MOSSpod
+
+The MOSSpod has a dimension of 2.20m length x 1m width x 1.90m height, leading to a modular footprint of 2.20m2 (excluding space to be reserved for entering and exiting the pod). It contains two benches (90cm wide) to sit on, with a table in between (also 90cm wide). The main structure is made from bamboo beams with bamboo plate covering, produced in two individual single production cycles.
+
+
+
+The pod can be closed by pulling down a curtain-like sheet of cloth, which has high sound absorption properties. The inner layer of the sheet is felt, while the outer layer is PPSS (slash-proof) [4]. 
+
+
+
+The pod is covered in moss on the roof and the sides. Soil in which the moss is planted is monitored with a simple system that measures humidity of the soil and informs the water tank whether the moss needs irrigation. When water in the tank is running low, a maintenance service will be alerted to refill the water tank. The water tank is located at the bottom of the pod. Tubes connect the water tank to the moss panels applied to both sides and the top of the outer shell. The moss panels contain sensors, providing information on the water quality, watering cycles and nutrition level of the soil.  Electric wiring connects the interior lighting, the sockets, the access-sensor and the vegetation-sensors to the energy grid. For the larger version of the pod where two are connected to one meeting space for four people, each pod has a click-in system installed.
+
+The total cost for one pod is estimated at €9,000 for the first line of production in the first and second year. This calculation divides into materials at the cost of €2,000, production and assembly cost of €6,000, and €1,000 for the pin-protected door lock, the water tank, tubes and others. We expect the cost for production and materials to lower from year three onward to around € 7,000, due to the increasing number of pods ordered. For the sake of simplicity, our financial model assumes a uniform price of €9,000 per pod.
+
+For future tailoring options, such as for outdoor usage, we plan space for a heating module and additional tubing. The moss panel applied to the top surface of the pod will then be replaced with a solar panel. The space used for tubes connecting the technology in the pod to the energy grid will then be used to connect to the solar panel and will make the pod self-sufficient in terms of energy.
+
+Future Models
+
+After the first five year period of product establishment, we will start offering larger pods with a higher number of seats, according to the market demand and customer needs. Tailored models equipped with larger solar panels or higher durability can also be developed.
+
+ 
+
+Customers
+
+We will initially market to railway operators wishing to improve the experience of their travellers and attract more business travellers to take the train instead of the car. These will be companies such as Great Western Railway and Southern Rail, which have dedicated CSR projects. Southern Rail currently have a bad image due to constant strike action; we will target them and outline how our product can improve their CSR image to the public. 
+
+We will lease out our MOSSpods to railway operators for €1100 per month per MOSSpod. This will be our main revenue stream. In addition, we will take 20% of the income from the hourly rental cost. This will cover our expenses in managing and maintaining the booking system, while the remaining 80% will go to the railway operator in order to cover the expense of leasing the MOSSpod. Assuming each MOSSpod is rented out for 200 hours per month (or 6.5 hours per day), the railway operator will earn €1900 per month per MOSSpod. With this booking rate, the railway operator will be able to more than cover the expenses of leasing the pod.
+
+ 
+
+
+
+ 
+
+In addition to increasing the comfort of their customers, this also gives railway operators the possibility to further enhance their modern and sustainable image, and contribute to their CSR activities. The MOSSpods will increase the air quality, while making their stations greener and Improving the experience of people passing through the station. The MOSSpods will also contain space for the railway operators to communicate with their customers on their sustainability priorities in a new way.
+
+ 
+
+Unique Selling Points
+
+As our MOSSpod is delivering different values to different stakeholders, we will first elaborate on the needs the pod addresses.
+
+USP from the customer’s perspective (CSR) - Air Pollution in European Cities:
+
+The first USP of our value proposition is the moss covering on the product, which acts as a means for urban reforestation. This leads to enhancement of a green experience of the space. The moss has a secondary function of cleaning the air within highly polluted urban regions. The annual limit for nitrogen dioxide (NO2) was widely exceeded across Europe in 2014, and 94% of all values above the annual limit [5]. 
+
+In 2000-2014, NO2 concentrations tended to decrease on average at all types of stations, especially at traffic stations. Nevertheless, if these trends continued until 2020, 7% of urban areas will still have concentrations above the annual limit value [6]. This calls for additional efforts to reach the EU limit value. For this reason, we find it very important to develop a product that cleans the air in cities and believe that this USP is in the best interest of all of our stakeholders.
+
+USP from the end user’s perspective (business traveller) - Flexible working space:
+
+Another important USP of our value proposition is to provide a private working space for the flexible workforce that commute primarily by public transport or those that can be persuaded to do so if we provide the service. This is in the form of a MOSSpod in a public space.
+
+The accessibility of private working spaces is limited for business travellers. Often a lot of time is lost in waiting during the transfer to another train or to other means of public transport. Currently, people choose to compensate and work in public workspaces provided by various competitors, such as local cafes or restaurants.
+
+However, pains we have identified in such public spaces include security (for personal items, such as laptop) and privacy (for phone calls or meetings). This is combined with the need for cleanliness, a quiet workspace to focus, strong and private WiFi signal and other utilities such as coffee and a restroom. With the provision of private working pods, the business traveller can now book a room on the go, solving the inconvenience of an inefficient workday.
+
+ 
+
+Booking Service
+
+We are also developing the MOSSpod app, through which railway passengers can reserve time in a MOSSpod at a specific location, receive a code to unlock the MOSSpod, and automatically process the payment.  
+
+ 
+
+
+
+Reservation
+
+When first opening the app, you see an overview of all pod locations and their availability. You can then reserve the MOSSpod in 15 minute segments (for example from 16:15 to 16:30). A pod can be reserved instantly (assuming it is available) or up to five days in advance in order to ensure that it is available when you need it. If you would like to extend your time in the MOSSpod by one or more 15 minute segments, this is also possible (assuming it has not been reserved by someone else). Reservations can be cancelled without charge up to an hour in advance.  
+
+Unlocking
+
+When you arrive at the MOSSpod at the reserved timeslot, you can request a code to open it through the app. Once you have entered the MOSSpod, the app will ask you to rate the cleanliness of the pod. You will also receive information on the closest bathrooms and the best places to get coffee.
+
+Payment
+
+After leaving the pod, you will be billed for the number of 15 minute segments you reserved. This can be done automatically through your (company) credit card or another payment method.
+
+Maintenance
+
+The quality of the working experience is guaranteed through high quality maintenance. As the individual customer checks into the MOSSpod using the app interface, they are asked to quickly rate the level of hygiene. We will also include sustainable hygiene wipes in the pod, so that it is easier for people to clean up after themselves. For example, if they spill their coffee, this can easily be wiped up. We will make clear agreements with the railway company on the level of cleanliness needed in order to maintain a monthly occupancy of 200 hours.
+
+MOSSpod will outsource people to clean the pods and foster the moss, check each of the pods once a day and additionally perform emergency runs when the hygiene of a pod is rated insufficient.
+
+Who will take these actions?
+The MOSS team will develop and market the MOSSpod product, whilst the app development will be outsourced to a known associate. Our key activities include building partnerships customers, designing and producing the pods, building and developing the booking app, managing supplier relationships, and customer service. The team hope to be accepted into a cleantech accelerator such as the Climate KIC Accelerator in order to have knowledge and financial support during the crucial first year of business. We have been asked by the Climate KIC team to apply for the pre-incubator, which is the stage before the accelerator. The team has also been awarded a place on WE Innovate @ Imperial. This is Imperial College's flagship entrepreneurship programme with the opportunity to win one of two £10,000 prizes at an annual showcase in front of 400 people and London press. In addition, the MOSS team has applied for the London Mayor's Entrepreneur 2018 competition. This is in order to try and win a £20,000 cash prize funded by Citi, the multinational investment bank, and pitch to Sadiq Khan (London mayor) and leading investors/entrepreneurs such as Deborah Meaden and Richard Reed. These competitions will increase our brand awareness to key figures who may invest in our product. 
+
+Our primary partner will be the railway operators, via a twofold distribution channel. Our primary distribution channel is selling to our customers, the railways operator. This will be achieved by direct sales to the railway operator via business meetings. The MOSSpod will then be advertised by the railways operators to the end users via their own communication lines (social media and online community) and also via the app.
+
+MOSSpod will have very low advertising costs due to the extremely high visibility of even one pod in a railway station. This public visibility will act as a ‘free’ CSR branding strategy. This may additionally attract a sponsor such as Santander, who currently sponsor the cycle scheme in London in a £43.75m deal. In addition to this, MOSSpod will create a low cost branding video to share on social media sites to reach a larger audience.
+
+We will then expand our marketing to other businesses. We have defined several different types of customers, which are:
+
+Additional public transport companies (buses/ ferries)
+Airports
+Private businesses (corporates like PWC, Google, Tesla, Amazon, Apple or others)
+Cities, Municipalities
+Real estate owners (high incentive for CSR)
+Universities
+Conferences/Fairs
+ 
+
+Important partners are our suppliers for sustainably sourced bamboo, the slash proof PPSS fabric, and other integrated systems (such as private wifi) and materials. We will also find partner companies to do the assembly and the logistics of transporting the pod. These expenses have been included in the production cost of the pod.  
+
+Where will these actions be taken?
+Several locations were considered. Our beachhead market within Europe will be London, as it is currently the most polluted and most concerned with air quality [7]. 
+
+In 2017, London breached its annual air pollution limit (hourly levels of toxic nitrogen dioxide must not be more than 200 micrograms per cubic meter (µg/m3) more than 18 times in a whole year) in just five days, surpassing Beijing [8]. The most dangerous pollutants include nitrogen dioxides (NO2) and microscopic particulates, blamed for more than 40,000 deaths in the UK annually. The map below outlines the NO2 levels in London and the locations of the stations with the greatest number of annual travellers.
+
+
+
+After our initial entry into the London market, in the first five years we will target railway stations with more than 100,000 passengers per day (36.5 million/year). This amounts to 30 stations within Europe alone, with a total yearly volume of 2.2 billion passengers [9]. 
+
+Furthermore, we will expand the target market to include airports with more than 4 million passengers per year in Europe. This amounts to 24 airports with a total yearly volume of 516 million passengers [10].
+
+We will then target Asian countries such as China as they have huge pollution problems and a large budget to spend on remedying this. 
+
+It is important to highlight that not all people visiting train stations and airports are business travellers (who are most likely to use our pods). In Germany there are approximately 800.000 business passengers per day in train stations [11]. Extrapolating this number to the UK, this leads to a total of 1.15 million passengers/day in the rail market.
+
+In addition, a study by Frankfurt airport shows that roughly 40 percent of travellers in airports are business travellers [12]. Using this percentage as a guideline, we will be targeting a further 565,000 potential customers in airports per day when we expand.       
+
+In summary, we have a total of 1.66 million potential customers in our target market (business travellers in airport and train stations) per day as well as another 5.72 million/day that would have access to the pod.
+
+A potential second market is the municipalities of these countries. Our installations are large, beautiful and impactful. Wherever they are located, they become a topic of conversation. A partnership between MOSS and the municipality will create a visual representation of the city’s green initiative, raising awareness of air pollution and the measures that the municipality is taking to mitigate this.
+
+A third market that could be explored is the private sector. Leasing the MOSSpod to multinational businesses would be an easy route to expand globally quickly. The MOSSpod could sit either within an office or on privately owned land outside, doubly functioning as extra meeting space and a visual representation of the company’s CSR initiative.
+
+In addition, specify the country or countries where these actions will be taken.
+United Kingdom
+
+Country 2
+Germany
+
+Country 3
+Hong Kong
+
+Country 4
+China
+
+Country 5
+United States
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+In order to determine the climate impact of the MOSSpod, we used a Life-cycle assessment (LCA) tool. Our functional unit is a square meter of work space per year.
+
+Production Phase
+
+We will construct the MOSSpods using bamboo instead of traditional construction materials. We will use 100kg of bamboo for each m2 of workspace. This will lead to a reduction of  approximately 92.4 kg of CO2-equivalent per m2 of workspace in a MOSSpod (compared to a m2 of workspace in a traditional office building).
+
+Use Phase
+
+The MOSSpod will lead to fewer journeys made by car due to the added convenience which will attract business travellers who would otherwise take the car to go from meeting to meeting.
+
+The average distance for a business trip in London is 17.5km, approximately 35km return trip [13]. With an occupancy of 6.5 hours per day, we estimate that we will have approximately 10 different customers per day. If only two of these customers decide to take the train instead of the car, this will save approximately 70km of car travel per MOSSpod per day. This will lead to a reduction of 2301 kg of CO2-equivalent per m2 of workspace in a MOSSpod.   
+
+End of Life
+
+We retain ownership of the MOSSpods due to the leasing business model, enabling us to repurpose the MOSSpods at the end of life. Therefore the materials will not be incinerated or placed into a landfill. In the LCA tool, this does not lead to a significant reduction in CO2. However, since we will reuse and repurpose the MOSSpods for as long as possible, the bamboo will serve as a type of carbon sink (see below, Carbon Sink).  
+
+Total Carbon Reduction
+
+Taking all different phases of the LCA into account, our total carbon footprint reduction will be 2409 kg of CO2-equivalent per m2 of workspace in a MOSSpod. In our first year, when we have 10 MOSSpods, this will lead to a total reduction of 53,000 kg of CO2-equivalent. This is comparable to driving a car around the world 7 times. In year 5, when we have 333 pods, this will add up to a reduction of 1,764,833 kg of CO2-equivalent.      
+
+Carbon Sink
+
+In addition to the reduced CO2 emissions during the lifecycle of the MOSSpod, the moss we use can absorb 200 metric tons of CO2 per year [14]. This adds to an increase in air quality, and simultaneously serves as a carbon sink. Every two years the moss will be harvested and used as an insulation material in buildings [15]. Because it will not be burnt or left to rot, this CO2 will stay out of the atmosphere for the lifetime of the building it will be insulating.
+
+Another carbon sink is the bamboo used for the structure of the pod. Bamboo grows at a rate of 1m a day, making it highly sustainable – one hectare of bamboo takes an estimated 62,000kg of CO2 out of atmosphere and releases 35% more oxygen than a similar area of hardwood. After the harvest the CO2 is retained in the bamboo fibres [16]. We will be repurposing and recycling the bamboo used in our pod for as long as possible (up to 80 years).
+
+What are other key benefits?
+In addition to quantifying the climate impact of the MOSSpod, it is important to highlight the social impact of the installations.
+
+London is experiencing dangerous levels of air pollution. London mayor Sadiq Khan stated that the capital’s ‘filthy air’ is now a ‘health crisis’. He highlighted that the air quality was becoming so toxic that 360 primary schools in London are in areas breaching legal pollution limits, with some schools banning children from playing outdoors.  
+
+“Every child deserves the right to breathe clean air in London” [17]
+
+The mayor recently pledged to spend £3 billion to combat the air pollution problem in London, in which children are particularly vulnerable to its toxic effects [18]. This is in addition to pledging that London will be a no-carbon city by 2050, with new sales of diesel and petrol vehicles banned from 2040 [19]. MOSS aims to leverage the mayor's position to make London our primary target city.  
+
+MOSSpod empowers cities to tackle air pollution, which at UK railway stations (our market entry) particulate matter, sulphur dioxide and NO2 concentrations are higher than on main roads located nearby [20].
+
+In order to tackle urban air pollution, MOSSpod is covered by three species of moss, which acclimatise well to open and dry urban sites by forming a dense vegetative carpet with a large surface area (more than 10 times greater than conventional plants per m2) [21]. This large surface area captures high levels of air pollutants. We estimate that the moss covering on the MOSSpod will absorb 60g/yr of fine particulate matter, and will absorb up to 200 metric tonnes of CO2 annually [22].
+
+Moreover, the bamboo frame is made using responsibly sourced wood from Africa. By sourcing our bamboo from Africa rather than China, MOSS can help support a trade which offers a practical and rapid solution for some of the natural resource and poverty challenges facing many African countries today [23].
+
+In addition to cleaning the air, the MOSSpod will bolster the creativity, productivity and innovation of its users. In 2008 the University of Michigan explored the cognitive benefits of interacting with nature, finding that workplaces designed with nature in mind improved memory and attention, increased productivity and reduced employee sick leave [24].
+
+Another advantageous social impact that MOSSpod facilitates is the education experience. Our MOSSpods are a visual display, increasing awareness of climate change, air pollution, and the measures that can be taken to mitigate this. In addition, it has been found that using green buildings as sustainability education tools are an effective way to teach local communities about sustainability and foster behaviour change [25]. Our installations will have permanent displays outlining the technology and materials that have gone into the production of the MOSSpod workspace. This storyboard will help to ensure our product is an education tool in addition to a climate impact tool.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Pod production costs
+
+Production of the units are estimated at at €9,000. 
+
+ 
+
+Revenue streams
+
+Pods will initially be leased to railways, then scaled up to other customers. These will be leased to railways for €1,100 per month, or €13,200 per year. For this €1,100, the service of maintenance and WiFi are included, but bathroom access and electricity will be provided by the railway themselves.
+
+People using the pods will pay a rate of €12 per hour (€3 per 15 minutes). Of this €12, 80% will go to the customer (e.g. the railway operator) and 20% will go to us for the service of managing the online reservation and payment system.
+
+Assuming that the pods will be occupied 6.5 hours a day (approximately 10 paying customers), this means that the customer will receive €22,778 per year, which is more than the cost to lease the pod.
+
+ 
+
+Growth
+
+The cumulative projected number of MOSSpods deployed in train stations and airports are as follows:
+
+Year 1 - 10 pods
+Year 2 - 30 pods
+Year 3 - 100 pods
+Year 4 - 200 pods
+Year 5 - 333 pods
+ 
+
+We project that one in 500 passengers on a business trip will use our pod in a train station or in an airport. In year five we want to be present in 54 locations with 1.67 million passengers on a business trip per day. Assuming ten paying customers per pod each day, we will provide 333 pods to meet the demand.
+
+The pods will be fully depreciated after 5 years (although the lifetime of the pods will be longer).  
+
+ 
+
+Investment strategy
+
+We need €233,000 to start the business, in order to produce the first 10 pods and to develop the app. Of this, €58,000 is cash for operational purposes (cost of operation in first three months).
+
+We will raise €69,900 (30% of needed money) on our own (through a combination of seed investors, accelerator programs and crowdsourcing). For the remaining €163,100 we expect to be able to get a bank loan, especially if we have a lease agreement with our first launching customer.
+
+Our costings are as follows (total €233,000): 
+
+MOSSpod production & delivery (€90,000)
+App and website development (€75,000)
+Office equipment (€10,000)
+Cash for operations (€58,000)
+ 
+
+In year two and three we will need an additional investment of €300,000 and €600,000, respectively, to build new pods.
+
+ 
+
+Income Statement
+
+The income statement below shows that our business is profitable from the second year.
+
+ 
+
+
+
+ 
+
+Cost of sales are estimated at €1.01 per hour of rental. Fixed costs amount to €208,000 in the first year and will increase as shown in the table below.
+
+
+
+ 
+
+Cash Flow Statement
+
+The cash flow statement shows the additional capital expenditures for new MOSSpods in every year. Furthermore, it displays the needed equity in the first three years to pay for new MOSSpods before we can finance them ourselves in the following years.
+
+
+
+Timeline
+In the short term (1-15), there will be an immediate impact. As soon as the first MOSSpod is fully functional, it will be deployed across London and will begin filtering the air. This will be initially in train stations, then to a wider customer base including airports, the municipality, and private busineses. This will realise a BAU change in the daily routine of the urban workforce, shifting to a more environmentally aware lifestyle. As seen in our financial forecast, we hope to have over 300 MOSSpods manufactured and on lease by the end of Year 5. In terms of climate impact, this will add up to a reduction of 1,764,833 kg of CO2-equivalent, and have an additional impact of educating the urban workforce on being more environmentally aware. There will also be a marked social impact via the purchasing of responsibly sourced bamboo from Africa, supporting local businesses.
+
+In the medium term (15-50 years), we hope to have a greater number of MOSSpods globally, contributing to combating the air pollution problem. We hope that by this time, the use of MOSSpods is something that is a natural part of the daily life of the urban workforce, and even beyond - we hope that everyone living in a city uses our product. The MOSSpods will have created a societal change via a BAU model, facilitating an easy way to combat climate change. By making climate change mitigation and adaption an easy option, we are empowering city residents to make a difference in their community.
+
+In the long-term (50-100 years), we hope that our successful business model inspires others to create a product that helps to move urban societies to an environmentally friendly lifestyle. Additionally we retain ownership of the MOSSpods due to our leasing model, so as the products start to enter the “end of life phase” we can upcycle or repurpose them, avoiding any landfill and keeping the CO2 stored within the bamboo frame.

@@ -1,0 +1,129 @@
+Proposal number: 1334112
+
+Proposal: Intelligent Forest Fire Extinguishing System
+
+Summary
+
+
+Due to global warming, the number of forest fires in various parts of the world increased, scale, seriously endanger human life, property safety and ecological environment. In recent years, due to climate change led to intermittent drought intensified, California forest fires growing, the proposal advocates to establish a set of detection and fire fighting based on things the network system.
+
+ Laying underground carbon dioxide in the flammable forest area, connecting the main channel of the carbon dioxide storage tank and the North American carbon trunk line.
+
+ Classifying the isolation zone according to the geographical characteristics of the partition, the isolation zone laying carbon dioxide pipeline and carbon dioxide injection side.
+
+Each carbon dioxide injection terminal has a pyrotechnic induction device, and connected by the Internet of things
+
+ Control center trigger carbon dioxide spray around the fire area to prevent the fire area  from diffusing
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+1, California fire status
+
+ Forest fire fighting is carried out passively..
+
+ There are many plots of firefighting difficulties.
+
+ Firefighting method is simple and inefficient.
+
+2, This project
+
+Carbon dioxide nozzle
+
+Omnidirectional nozzle, circumference nozzle, isolated nozzle, upward nozzle
+
+4. Deployment Method
+
+5. Control Network
+
+6. Carbon Dioxide Supply System
+
+Note: Additional sustained release enhanced CO2 absorption system.
+
+7, Management and Maintenance
+
+Fire extinguishing terminal based on Internet of things can achieve fast automatic fire, high efficiency, good effect. Isolation fire and extinguishing are in the initial phase.
+
+ 
+
+Who will take these actions?
+The federal government of the United States
+
+California government
+
+California Fire Services Authority: management of the project in the future.
+
+Where will these actions be taken?
+calilfonia? The U S A 
+
+Due to the unique geographical location, California formed a particularly conducive to the occurrence and spread of the mountain fires. This Is unique on the earth. Therefore, the only application area of this project is ------ California. And only California has the technical and economic strength to complement such a huge construction of the forest automatic fire extinguishing system.
+
+
+
+In addition, specify the country or countries where these actions will be taken.
+No country selected
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+1, reducing the combustion release CO2.
+
+2, increasing the maintenance of forest absorption CO2.
+
+3, For maintaining the California environment Ecosystem.
+
+4, increased the CO2 absorption and slow release system, increasing CO2 concentration in the forest area.
+
+What are other key benefits?
+1. For protecting the lives of forest residents:
+
+
+
+2, For protecting the resident’s property:
+
+
+
+3, For protecting the public forest property
+
+
+
+4, saving fire resources:
+
+
+
+5, For protecting the lives of firefighters
+
+
+
+6, Preventing air pollution
+
+
+
+7. Protecting Wild Animals
+
+
+
+8. Preventing man-made damage: as the soft underbelly of California, more and more mountain volcano caused or deliberately destroyed.
+
+9. Keeping the wine flavor: It has been reported that California fires have led to a decline in California wine quality.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+ It is economically worthwhile to build the system, given the current fire losses ($ 200 million).
+
+Timeline
+1. Research argument: 6months
+
+2. Development and design: 6months

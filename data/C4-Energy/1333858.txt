@@ -1,0 +1,57 @@
+Proposal number: 1333858
+
+Proposal: Space-elevator-based power plant
+
+Summary
+A "space elevator" is an orbiting object tethered to the earth. Most power plants use heat to create steam for power generation. Various alternatives exists for power plants in space.
+
+An orbiting power plant might use solar energy. However either solar panels could be used as a power source or direct solar energy could be used to cycle water through the liquid/vapor cycle. One side of the plant facing the sun would always be able to boil and the other side away from the sun would always be able to condense. A space elevator-based orbit is high enough that it is never in the earth's shadow.
+
+A nuclear power plant in such an orbit poses little threat and cannot contaminate the atmosphere. In the event of a malfunction the plant can be released into space eventually falling into the nuclear power plant that is the sun. We are after all completely dependent on nuclear power from the sun.
+
+Other advantages include a much wider range of plant sizes due to minimal exterior requirements like cooling for a space based plant. The minimum plant size could be quite small.
+
+A carbon nano-tube tether could double as a power transmission line further reducing size/weight requirements.
+
+Space based nuclear or direct absorption steam power can be shielded unlike solar panels which must remain exposed to be useful.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+A consortium of interested parties could coordinate research and design efforts most importantly in tethering technology and carbon nano-tube development. Design efforts could develop a prototype with a minimum footprint.
+
+Who will take these actions?
+A consortium of interested parties including governments and industry participants.
+
+Where will these actions be taken?
+An international consortium could take advantage of internet based collaboration and focus teams could manufacture individual parts and systems, locations based on convenience.
+
+In addition, specify the country or countries where these actions will be taken.
+No country selected
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+Space based power plants could eventually supply all energy requirements eliminating the need for land based carbon emissions.
+
+What are other key benefits?
+Tethering technology could put other polluting industries in space as well.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Most required technologies are already being researched and developed. Costs depend on ideal prototype size yet to be determined.
+
+Timeline
+Projected implementation depends on tethering technology development which might well be shortened by international collaboration.

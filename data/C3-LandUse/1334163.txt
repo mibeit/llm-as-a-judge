@@ -1,0 +1,146 @@
+Proposal number: 1334163
+
+Proposal: Assam Fuelwood Decision Support System (AFDSS)
+
+Summary
+Unsustainable fuelwood extraction is one of the key drivers of forest degradation and deforestation in India. A large part of this fuelwood is directed towards meeting household cooking needs [1].
+
+This is particularly true in the Indian State of Assam, with nearly 24 million people, i.e. 75% of the State’s population is dependent on fuelwood [2]. Approx. 22% of this fuelwood demand, i.e. 2.49 million tonnes, is met from the state’s forests [3]. This dependence is unsustainable is leading to degradation of its natural resources (India State of Forest Report 2015).
+
+To reduce this unsustainable dependence on fuelwood, it is essential for Assam to design a holistic approach that:
+
+Provides a sustainable supply of fuelwood (supply-side management) and
+Ensures efficient fuelwood consumption (demand-side management)
+Maintaining a sustainable supply of fuelwood would require a clear understanding of the renewable biomass stock from forests for meeting fuelwood demands over time as well as the potential for dedicated fuelwood plantations. While for achieving higher efficiency in fuelwood consumption, there are several alternative energy sources and technologies available which can cater to the varying consumer needs. Examples include improved cookstove, drier, biogas, LPG, electricity and many others.
+
+Sustainable fuelwood management can be achieved through a balanced mix of these supply and demand side management options which are able to effectively sustainably meet the varying needs and patterns of fuelwood consuming regions and communities in Assam. To this end, a planning tool which can analyse, assess and prioritize the plausible interventions at a sub-regional level in Assam is required. This tool will help in designing scientifically planned investments for sustainable fuelwood management at a sub-regional level in the state for producing highly contextual investment strategies for fuelwood plantations and fuelwood saving technologies.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+The AFDSS will serve as an objective, scientific planning tool to:
+
+Assess sustainability of existing demand-supply scenario for fuelwood through a visual representation of its impact on the state’s forest resources in the coming years.
+Choose from a list of criteria that can be used for building a sustainable fuelwood management strategy such as human health benefits, cost-effective measures, measures with high GHG abatement potential, user preferences etc.
+Identify the most suitable solutions to address the unsustainable extraction of fuelwood through a mix of supply side (through dedicated fuelwood plantations) and demand side (fuelwood saving technology deployment) measures. These will be based on the final selection of the aforementioned criteria by the decision makers.
+Based on the recommended measures by the AFDSS, highly contextual investment strategies for sustainable fuelwood management at a sub-regional level can be designed. A pilot demonstration of one such investment scenario benefitting 500 households would be undertaken as part of this project following the development of the AFDSS.
+
+The AFDSS will use a whole systems based approach to effectively address the issues of unsustainable extraction of fuelwood from forests and low dispersion of fuelwood saving technologies in Assam through the use of system dynamics modelling. It will take into account two core systems, the forest resource system and the end user system. There are many sub-systems within these two systems. Further there are dynamic interactions within the systems and sub-systems. Some of these parameters are generic in nature, while others can be more site-specific. The AFDSS will be developed with the generic parameters in-built into its model and allow customization of the certain parameters based on the site/region-specific context.
+
+This System will be based on the existing India’s Forest Resource Decision Support Tool (iFoReST) which has been developed by IORA Ecological Solutions under the Innovations in Ecosystem Management & Conservation (IEMaC) Program, supported by the United States Agency for International Development (USAID) under their Innovations for Forest Resources Management (INFoRM) Program.
+
+iFoReST [4] has been developed on Stella Architect, a model building and simulation software developed by isee systems. This tool empirically studies the causal relationship between stocks and flows, their drivers and dynamics in Social-Ecological Systems. It considers a given set of indicators and parameters as inputs (forest stocks and growth, fuelwood uses, presence of clean technologies, alternative livelihood options, etc.) in a highly dynamic setup to illustrate different scenarios of fuelwood use and predict the sustainability of fuelwood extraction and forest regeneration within an area under different time-periods. The tool has been tested and proven in two landscapes in India, namely Sirsi (Karnataka) and Mandla (Madhya Pradesh); and gives a sound basis for investment decision making with regards to technological, ecological and policy interventions for sustainable fuelwood management thereby reducing unsustainable extractions from forests.
+
+Development Process
+
+Building on the existing iFoReST, AFDSS will be developed by following the process outlined below:
+
+Stratification of fuelwood consumers in Assam: As highlighted earlier, Assam is an ethno-culturally diverse state with varying needs and behavioural patterns for fuelwood consumption. Therefore, the first step would be identifying the various fuelwood consumer segments based on their needs and response to marketing or communication strategies relevant to sustainable fuelwood management. Information such as the consumer’s demographic (age, gender, family size, ethnicity, income, education level), geography (their place of residence and work) and behavioural (purchasing power, consumption, usage including for commercial sectors and desired benefits) tendencies will be taken into account while determining the fuelwood consumption strata 
+Collection of detailed socio-economic and ecological data to determine the current fuelwood consumption dynamics in Assam: Collect data for the AFDSS supply side system (ecological parameters, land availability for dedicated plantations) and demand side system (socio-economic parameters to assess the existing fuelwood consumption patterns and usage for each of the identified fuelwood consumption stratum i.e. extraction quantity, extraction techniques, end user’s demand and socio-economic factors influencing demand).
+Simulation of business-as-usual (BAU) scenario in the AFDSS: Model the causal relationship between the two core systems, the forest resource system and the end user system, and within their sub-systems to simulate the baseline scenario of fuelwood resource use in Assam for each of the fuelwood consumption stratum.
+Identification of potential interventions for sustainable fuelwood management: Create an inventory of fuelwood management interventions, including fuelwood species for plantations and fuelwood saving technologies by their types and models.
+Generation of stratum specific investment scenarios for Assam: Generate stratum specific investment scenarios for the optimum deployment of fuelwood plantations and fuelwood saving technologies across Assam.
+Pilot highly contextual investment strategies for sustainable fuelwood management which benefit at least 500 households spread across 5 tea estates and 5 forest villages. This would include deployment of clean technologies among these households based on the optimal scenario identified by the AFDSS.
+Apart from supporting the development of the AFDSS tool, this project would also serve as a pilot to demonstrate readiness for a “Nationally Appropriate Mitigation Actions” (NAMA) concept for large scale implementation. Since the submission of this proposal, the team has been able to raise financial support from GIZ India to pilot the deployment of clean technology using the AFDSS. This would serve as a pilot demonstration of India’s Forestry NAMA in Assam under the BMUB IKI Project ‘Development and Management of NAMA in India’.
+
+ 
+
+ 
+
+ 
+
+Who will take these actions?
+IORA Ecological Solutions will play the lead role in developing the AFDSS. IORA will work with the Assam Forest Department as the AFDSS will aim to use the data available with the Forest Departments which is collected on a regular basis. 
+
+A designated agency will be responsible for hosting and operating the AFDSS; utilizing it for designing appropriate investment strategies; and coordinating with the relevant public and private entities for implementing the investment strategies developed. This will ensure ownership and long term sustainability of the AFDSS as an investment planning tool for sustainable fuelwood management in the state.
+
+IORA Ecological Solutions Pvt. Ltd. (IORA) has been engaged in the selection and development of the NAMA concept for the forestry sector in India. We followed a rigorous process, involving research and extensive stakeholder consultations, to develop the feasibility study and a full-fledged NAMA concept including MRV structure, capacity development strategy and financing approach.
+
+The NAMA pilot programme which is to be carried out using the AFDSS is based on the stakeholder consultations and feedback received specifically from the Assam DoEF and NAMA Facility. The objective of the pilot is to demonstrate the practicability of the NAMA concept developed and its readiness to be scaled up/ replicated. Effective implementation of the NAMA concept can potentially unlock significant private investments and international climate finance given its multiple benefits. Especially international finance could help address the barriers which have impeded the success of past initiatives on sustainable fuelwood management by government and private sector.
+
+Where will these actions be taken?
+The Decision Support System will be developed based on a few pilot sites such that it can be used anywhere for the State of Assam in India. IORA has also secured a project from GIZ India in September 2017, whereby the AFDSS will be used in a pilot to deploy clean technology in 500 households in 5 tea estates and 5 forest villages across Sonitpur and Nagaon districts. The pilot is in close partnership with the Assam Government. Post the pilot the government will seek to replicate the process of analysis and deployment state-wide.
+
+Assam has an undulating topography comprising of both hills and plains with temperatures varying from 6 degree C to 38 degree C. This North-Eastern Indian State is ethno-culturally diverse with a population covering 26 Scheduled Tribes, 22 Scheduled Castes and several religious groups. It is also rich in forest resources and is a part of the Himalaya biodiversity hotspot.
+
+In addition, specify the country or countries where these actions will be taken.
+India
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+AFDSS will simulate and visualize numerous emissions reduction investment scenarios. The investment decision making can be based on a wide-range of priorities set by the decision maker. Following are some examples of the investment decision making with regards to technological, ecological and policy interventions:
+
+Technological: This essentially involves simulating different technology mix investment scenarios and their corresponding effect on biomass, carbon stocks, clean energy diffusion, etc. Then choosing the least and maximum benefit scenario or any goal-based optimization selected scenario. The goal could be to focus on conserving biomass/carbon stock or increasing clean technology adoption.
+Ecological: Forest ecology related scenarios and their effect over time on augmenting forest resources. These include new tree plantations, assisted natural regeneration or gap plantations.
+Policy: Such as imposing limitations on extractions for a certain period to allow the forest to regenerate.
+As we can see, each of the interventions leads to reduction in emissions or enhancement of carbon stocks. AFDSS would help optimize the investments by helping the decision maker choose the most favourable investment scenario.
+
+In this pilot 500 households would be provided with wood-saving cooking devices, following are the calculation for emission reductions for this scenario:
+
+Net calorific value of fuelwood = 0.015 TJ/Tonne
+CO2 emissions factor for fuelwood = 109.6 tCO2/TJ
+Daily fuelwood consumption in Naogaon district = 9.37 (kg/day/household) [5]
+Daily fuelwood consumption in Sonitpur district = 5.28 (kg/day/household) [5]
+Daily fuelwood consumption (average of Naogaon & Sonitpur districts) = 7.325 (kg/day/household)
+Annual fuelwood consumption by 500 households = 1,336.8 tonnes/year
+
+Annual CO2 emissions for 500 households = 1336.8 x 0.015 x 109.6 = 2,197.7 tCO2/year
+
+Assuming 50% reduction in fuelwood consumption as a result of wood-saving technologies deployed (taking average of various wood-saving devices being considered), CO2 mitigation = 1098.9 tCO2/year
+
+ 
+
+What are other key benefits?
+Based on the recommended measures by the AFDSS, highly contextual investment strategies for sustainable fuelwood management at a sub-regional level can be designed. The specific outputs of the AFDSS are as follows:
+
+Understanding of the extent and impact of fuelwood extraction on Assam’s forest stock in different scenarios
+Improved forest management and conservation strategy of the state
+Monitoring of fuelwood consumption
+Investment decision support for planning sustainable fuelwood scenarios
+INR amount per biomass saved
+Climate change mitigation and adaptation in the state
+Result in carbon stock enhancement against the baseline
+Enhance resilience of forest dependent communities through long term energy supply
+Promote fuelwood saving technologies
+ 
+
+ 
+
+ 
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Following are the proposal projected costs for various activities part of which will be provided by IORA from their own funds. Since the submission of this proposal, the team has been able to raise financial support from GIZ India to pilot the deployment of clean technology using the AFDSS. This would serve as a pilot demonstration of India’s Forestry NAMA in Assam under the BMUB IKI Project ‘Development and Management of NAMA in India’. Hence, the project cost related to clean technology deployment for 500 households has been leveraged through this support. 
+
+System Dynamics Modelling & User Interface development software with cloud sharing capabilities (Stella Architect) - USD 3,000
+Ecological assessment - USD 3,000
+Socio-economic assessment - USD 1,500
+RS & GIS analysis - USD 1,000
+Deployment of wood-saving technologies and/or fuelwood plantations (500 beneficiaries @ INR 1,000/household) – INR 500,000 (USD 7,800) (by GIZ India)
+Air/train travel (15 trips @ INR 12,000/trip) - INR 180,000 (USD 2,800)
+Local travel (90 days @ INR 4,000/day) - INR 360,000 (USD 5,600)
+Field accommodation (90 days @ INR 2,000/day) - INR 180,000 (USD 2,800)
+Personnel cost - by IORA
+Timeline
+The total duration of the project is 12 months. Following is the timeline of activities:
+
+Identify cluster of tea estates & forest villages for pilot & RS/GIS mapping - Months 1 to 2
+Stratification of fuelwood consumers in Assam - Months 2 to 3
+Collection of detailed socio-economic and ecological data to determine the current fuelwood consumption dynamics in Assam - Months 2 to 6
+Simulation of business-as-usual (BAU) scenario in the AFDSS - Months 7 to 8
+Identify potential interventions for sustainable fuelwood management - Months 8 to 9
+Generation of stratum specific investment scenarios for Assam - Months 9-11
+Stakeholder consulation to present final DSS - Month 12

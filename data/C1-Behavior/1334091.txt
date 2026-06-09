@@ -1,0 +1,80 @@
+Proposal number: 1334091
+
+Proposal: NRG Tour
+
+Summary
+The object is to visit as many low GHG energy generation sites, with as small a Carbon Footprint as possible; the objective is to gain NRG Tour points. Players score higher the lower the GHG they emit. For example walking, using a wheelchair, biking or riding in an EV to a home with solar panels gains more points than driving in a gas powered car. Local Feed In Tariff  (FIT) or self-declared MicroFIT sites, will illustrate their low GHG emission status by posting a plaque at their location which includes a Quick Response Code (QR). This is scanned by a smartphone (Android or IOS) which registers the participant's visit, adds to point totals, posts information on social media and shares information on the GHG measure implemented at the site. Leaderboards allows participants to see how they rank and gives their point levels. Points translate into status and awards. Program success is measured by direct participation rates; calculation of GHG saved and redemption of GHG results in related coupons plus analytics on participant data.
+
+We are proposing an app aimed at motivating behavior change in Ontario residents. (Gamification) Sample sites include hydroelectric power stations, wind turbine, geothermal heating/cooling plant and could include a neighborhood homes with solar panels on the roof. Participants scan QR codes bringing up GHG information and its impact on Climate Change (Actionable information). Learning about small scale energy reduction or renewable generation removes barriers to GHG reduction. Points are allotted for each site visited and a Provincial leaderboard and Local/Group leaderboards are available (Feedback and Competition). These tools are directed at teachers, clubs and service groups. Levels are introduced to acknowledge the player’s participation (Recognition and Goal Setting).  Prizes are awarded in the form of coupons, discounts at and prizes from contributing businesses which results in a further incentive to participate.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+Project Priority:
+
+Visiting sites such as homes or businesses that have already implemented GHG reducing technology addresses the Lack of Information at a key point and Social or Cultural Norms. If a player sees someone whose situation and interest is similar to their own, who has installed a solar hot water heater, the shared experience goes a long way to creating a greater understanding about reducing GHG. We believe that this will effect behavioral change in Energy Use in Buildings and Transportation. Emission sources affected will be electricity, gasoline, and various other sources. As indicated the app will utilize Actionable Information (released when a site is scanned), Competition, Goal Setting, Recognition and Social Norms and most importantly Gamification as tools.
+
+Objectives:
+
+NRG Tour complements existing groups such as the Pembina Institute, Evergreen and Greenpeace which work at changing attitudes to GHG reduction. Currently many organizations have outreach programs for school-aged children including Earth Rangers and TREC Education. NRG Tour expands the reach of these beyond books or online learning by allowing participants to experience firsthand what GHG reduction technology looks like, and by including parents who also learn what they can do. If participants can earn more points by walking or biking, it makes participants self-reflect: do they really need that second car? To paraphrase the quote, “Think Global GHG reduction - Act Locally”.  
+
+Potential Partner Organizations: 
+
+IESO
+Plugn’Drive Ontario, EV charging networks, Transit companies
+Local Distribution Companies (LDC), Enbridge/Union Gas
+Ministry of Education
+Retailers such as Mountain Equipment Co-op (MEC), Lowes, Home Depot, Canadian Tire
+ 
+
+Rationale/Need: 
+
+World-wide thinking consumers search the Internet for ratings and personal experience before visiting a restaurant, choosing a hotel or buying a product (YELP etc.).  Using this same concept, homeowners, farmers, businesses and NRG Tour Ontario participants become marketing advocates by sharing their GHG reduction story with other members of the public.  The software has built in connections to social media with the potential to quickly become a province-wide phenomenon. NRG Tour appeals to Millennials who already enjoy group challenges and games including escape rooms. Today’s children are hugely influential within the family and a group activity like NRG Tour Ontario can readily change parents’ habits and norms.
+
+Project Beneficiaries:
+
+The target audience will be young couples, families and homeowners who will visit other homeowner sites. They are most likely already invested in GHG reduction and more motivated to GHG reduction activity. As indicated previously, families may decide to abandon the second car, install solar panels or think twice about creating extra GHG through their daily actions.   
+
+Program Evaluation:
+
+NRG Tour Ontario is ideal for generating participation statistics. Instantaneous metrics include the number of participants, number of visits, and calculation of GHG saved by participants. NRG Tour Ontario is a living app; locations may be readily added. Participants may be asked challenging questions for bonus points:—“What have you done this week to reduce your carbon footprint”, — and questions involving GHG trivia. Each participant profile adds to analytics based on age, sex and location within province. The software can be customized and reports can be tailored to the needs of the Ministry of Energy.
+
+Who will take these actions?
+We estimate that three tiers of project outcome may be achieved. On the low range there will be 2500 participants reducing car travel 250 km each over the course of the summer by using public transit, by bicycling and by walking, resulting in a direct savings of 145 tons of GHG. The mid-range success will be 10,000 participants saving 581 tons of GHG and the highest tier would be 100,000 players saving 5810 tons of carbon. Indirect outcome anticipates using an adoption rate of 1% for GHG reduction technology corresponding to an additional 25, 100 and 1000 new MicroFIT, solar Hot Water or Geothermal installations.
+
+Where will these actions be taken?
+NRG Tour is planned for rollout in the Province of Ontario Canada. However it is applicable throughoutNorth America.
+
+In addition, specify the country or countries where these actions will be taken.
+Canada
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+We estimate that three tiers of project outcome may be achieved. On the low range there will be 2500 participants reducing car travel 250 km each over the course of the summer by using public transit, by bicycling and by walking, resulting in a direct savings of 145 tons of GHG. The mid-range success will be 10,000 participants saving 581 tons of GHG and the highest tier would be 100,000 players saving 5810 tons of carbon. Indirect outcome anticipates using an adoption rate of 1% for GHG reduction technology corresponding to an additional 25, 100 and 1000 new MicroFIT, solar Hot Water or Geothermal installations.
+
+What are other key benefits?
+Project Outcomes:
+
+We estimate that three tiers of project outcome may be achieved. On the low range there will be 2500 participants reducing car travel 250 km each over the course of the summer by using public transit, by bicycling and by walking, resulting in a direct savings of 145 tons of GHG. The mid-range success will be 10,000 participants saving 581 tons of GHG and the highest tier would be 100,000 players saving 5810 tons of carbon. Indirect outcome anticipates using an adoption rate of 1% for GHG reduction technology corresponding to an additional 25, 100 and 1000 new MicroFIT, solar Hot Water or Geothermal installations.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Rttisk Assessment and Management:
+
+There are three risk pinch? points for NRG Tour Ontario: Software, Locations and Participants. NRG Tour Ontario is based on private-labeling and modifying an existing Ontario-developed product called Social Scavenger. This world-class program is used internationally by corporate clients such as Capital One, Red Bull, Intel and NASA. Locations of major renewable energy sites are public knowledge through the IESO and other Ministry of Energy related organizations. NRG Tour Ontario will work with the Ministry to obtain post QR codes at these sites. Potential participants will be reached by social media events where politicians and local celebrities participate in NRG Tour Ontario. Outreach to schools and retail partners will be done on an ongoing basis.
+
+Timeline
+The proposal is geared towed a 9 to 12 month cycle.

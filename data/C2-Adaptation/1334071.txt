@@ -1,0 +1,196 @@
+Proposal number: 1334071
+
+Proposal: Building climate responsive homes in Lesotho, Africa
+
+Summary
+Summary
+
+People living in poorer and colder regions of the world have homes that have little or no heating during winter months, unless they are wealthy. Most homes rely on fossil fuels, and/ or non-renewable energy sources, for heating and cooling. Living in unheated homes, besides being uncomfortable, during winter is a health risk for children and the elderly.  We have built a climate responsive demonstration home in 2015 in Lesotho - a country which experiences freezing temperatures in winter. The home is warm in winter (naturally heated) and cool in summer. It has seen two winters with almost no fossil fuel or electric heating. 
+
+The key characteristics of our home, built for four elderly ladies, are:
+
+An envelope (walls, roof and floor) that is insulated
+A heat source which is non-fossil fuel based
+Floors and Wall have thermal mass 
+Solar PV as primary electric source
+A structure insulated using recycled waste 
+A rain water harvesting roof system
+A structure built by students and villagers after training
+The home has a low carbon footprint, utilizes solar hot water (SHW) for heating - via perimeter baseboard and radiant floor heating (hydronic). The roof mounted SHW also provides hot water for a shower, and an under floor insulated hot water (HW) tank - a heat exchanger (UHE). The walls are insulated with waste rigid Styrofoam (EPS) lunch boxes (LB) , sandwiched between two layers of poured in situ concrete wall. The EPS LB typically go to landfills, or are burnt producing toxic fumes and greenhouse gasses (GHG). Electricity is provided with solar PV (SPV) - which charge 12v rechargeable batteries and LED bulbs. The home was built using reusable forms, two people can lift it, which can be used to build hundreds of homes - and pays for itself after construction of a few homes.
+
+
+
+ 
+
+ 
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+Local contractors, architects, engineers, and the Government in Lesotho are very interested in learning how to build our structures - as cost of heating buildings, or cooling in summer, is a heavy drain on the economy. During winter months middle and upper income groups pay on the average 15 - 20% of their salary on heating their home.
+
+
+
+The picture above from Lesotho show how most of the population lives in these unheated stone buildings that are not air tight, not energy efficient and are bitterly cold in winter. Close to 70% of the country's population lives in villages in these type or similar homes. We are trying to resolve the housing problem of this group of people as well as the more privileged.
+
+The facts are:
+
+Architects and engineers work mostly for paying clients and are able to solve the housing needs of mostly the rich, the upper and middle class folks. It is estimated that professionals merely meet the needs of only the 5% to 10% of the upper income of these developing economies. This leaves a large population of poor who live in poorly designed homes. Hence conscientious professionals must address  the need of the poorer and marginalized population.  Otherwise it will leave a large population all over the world dependent on fossil fuels for heating and cooling, with its negative impact on Green House Gas Emissions (GHGe).
+
+If we provide an affordable solution that provides high performance buildings with everyday materials - the impact will be dramatic. There is an urgent need for such intervention.  
+
+The section below shows how the heating and cooling system works.
+
+In the spreadsheet and graph, below, the data shows that our technology allows for an affordable "Green" structure with a much smaller carbon footprint .
+
+The need for a technology like ours is very broad. Hence we need to address the needs of the poor as well as the moderate and upper income group - as they contribute to GHGe as well. Our strategy would be to work as a non-profit, providing pro-bono service, to charities and teaching and training to the poor and service providers.
+
+We need act as a catalyst to stimulate the middle and upper income housing market, in order to find employment for our workers - so they can go back and build their homes with the help of the money earned and with sweat equity. The commercial market place as well as the upper income housing could easily absorb our trained workers. One needs to develop an effective marketing and business plan. Unless we build this nexus with the market economy it will be difficult to find jobs for our trained workers and/ or reduce GHGe effectively from the environment.
+
+Broadly speaking we need to do the following:
+
+The building process needs to be taught. We need to set up workshops and training centers in order to teach people how to build homes with our technology, recycle waste, heat homes without fossil fuels, and demonstrate the impact of insulating homes and using SHW for heating. 
+We need to train local architects, engineers and contractors. Workers need to learn how to fabricate our proposed inexpensive modular reusable forms for wall construction. They need to know how to erect the walls so they are well insulated and structurally sound. They need to understand how to run the copper pipes, the design of mixing valves, the use of hot water for shower as well as for heating, the use of underground water tanks as thermal storage and heat exchanger. They need to understand how to build affordable perimeter baseboard heating system to maximize storage of heat within walls. The design of under-slab heating system, can be challenging, in order to prevent heat loss from the ground. They slab needs to be insulated at the same time detailed carefully to prevent slab settlement possibilities. The correct placement of pipe in the slab is important to avoid puncturing the pipe and at the same time to allow adequate heat transfer.Selection of  inexpensive, low wattage sump pump, and the size and type of piping to be used to circulate the water under the floor are important design issues.  The correct construction of insulated heat exchangers - so water remains hot for a longer period. The hot water once it has transferred the heat to the heat exchanger has to be brought back to the solar water heater on the roof to be re-heated. With the help of simple low wattage sump pump this can be achieved easily provided the pipe size and length are optimized. The operation of various valves and controls has to be understood so you don't end up heating the walls during the summer months. One needs to leverage the design to use the same copper pipes and circulation system to cool the homes, using cold tap water, in summer.
+Given the high unemployment in poorer countries, our technology which can employ unskilled and semi-skilled labor, will provide people with jobs, gainful employment with both economic, social, and mental health benefits. Unemployment is very high in most poor countries and especially in Lesotho.
+The demonstration home in Lesotho was built for Sisters of Charity of Ottawa (SOC) – Lesotho. The sisters have the land and are trying to raise funds to build four more similar elderly home. They also would like to build teachers homes, clinics, schools and hospitals using the building technology. They are also interested in teaching local villagers the technique so the villagers can build their one or two room homes. The homes have been very cost competitive.
+We estimate that all over the world there are at least 200 million household who are moderately poor, depend on fossil fuels or non-renewable energy sources for electricity, heating and cooling - and can benefit from a  technology like ours. If households all over the world on the average produce 5 tons of CO2 per year, only because of the fossil fuels used for heating and cooling and electricity, that comes to 1,000,000,000 (1 billion tons) of CO2 per year that is dumped as GHG on our planet.  We think our numbers are very conservative. As ours is a non-wood, non-combustible technology, and by avoiding wood construction we will further reduce global warming (GW) and GHGe.
+For our prototype, a 500sf home, we expect to save GHG emissions of about 10 tons/ year and 300 tons over 30 years. This is a huge reduction in GHG if one considers that this is a population group spread out in many countries, and would normally not be expected to abandon fossil fuels and/ or come off grid any time soon. The group cannot afford high tech solutions, large and expensive clusters of solar PV, etc.
+Ours would be a low tech, cost effective way to reduce GHG from both a very broad sector of the housing as well as commercial market place in both the developed and developing economies - and that intervention can take place immediately as it is urgently needed. 
+The life cycle cost of our approximately 500 square feet (sf) prototype ( 380sf is living-bedroom space, and an additional 120sf is  bathroom, kitchenette, storage, and mechanical space), that we built last year for SOC, is as follows: If built in masonry (current practice) is approximately US $27, 575. The first cost (construction) currently in Lesotho is  around US $15,000 - the cost of heating the building plus other utilities ( electricity) over a 30 year period is an additional US 12,575. In case of our prototype the construction cost  is approximately $10,500 and the heating plus utilities life cost over 30 years is about $1,956. The life cycle cost ( Grand Total: First cost, Heating, plus utilities over a 30 year period) for our structure is US $ 12,456.
+
+
+
+
+For our prototype we have made an allowance for supplementary heating for about 30 days in a year for cloudy days. We have assumed, for both buildings,an increase in cost of utility by 3% annually due to inflation. We have assumed a 30 year life cycle for our calculations. The numbers are very compelling. Our buildings over 30 years cost only 45% of what a masonry building will cost. Please see chart above. Even if we were to replace the waste insulation with imported rigid expanded polystyrene (EPS), that will add only about US $1,500 to the construction cost of the project. Still the numbers are very compelling as our prototype will still cost approximately half (51%) of a masonry structure.  If you add the savings in GHG, the carbon credits (CC) that will accrue over 30 years, the cost of our prototype further reduces by a large factor.  We have not calculated the savings from recycling the waste insulation - which would have otherwise gone to a landfill or burnt producing toxic gasses and contributing to GHG. In future we expect industrialized countries to pay for these CC, and it may result in a monthly paycheck for the residents, or the CC can be a co-lateral for a construction loan.
+
+The chart below shows a comparison of temperature inside the home of a un-insulated masonry structure versus our prototype in Lesotho. The readings below are actual on site reading at our Lesotho home during winter and partly extrapolated for summer - based on our experience with masonry structures in other similar countries (climate, elevation, latitude). In summer our structure remains cool. In winter the temperature (temp), because of insulation and SHW heating and thermal mass and small periods of supplementary heat, remains within 64 to 68 Fahrenheit. In summer the temp ranges between 68 F to 74 F. These readings may vary slightly from building to building and region to region but the bottom line is a lot less heating and cooling is required with our building types. Masonry structures perform poorly and mimic outside air temperatures.
+
+
+
+In summary, we will need:
+
+Grants and Governmental support to demonstrate the technology, as these homes can benefit people in many countries. We are developing solutions for a non-paying client who is having a huge negative effect on the environment with the GHG emissions. Hence it is in the interest of international organizations, donors, working on GHG issues to support us in reducing these emissions.
+Unless we can build more prototypes, and demonstrate successful models, it will be difficult to advance and promote the technology. Larger facilities can be built by similar process - which will introduce a "green" culture in building construction in Lesotho and many other developing and developed countries.
+Future homes will need to target better sewage management. Separation of black water from grey water. Utilization of grey water for farming. We hope to direct the black-water to bio-digesters in order to generate bio-gas which can subsequently be used for heating, and the remaining waste to be used as fertilizer. Lesotho also has a water problem. It hardly rains in Lesotho and Lesotho has a dire need for potable water. Our prototype structure collects rain water and the harvested grey water is used for farming. The rain water is not potable. However improved techniques for rain water harvesting may result in recycling that water as potable water. That will be a huge benefit to Lesotho.
+The technology we are trying to introduce will drive people to share resources. The reusable lightweight form-work, helps speed up construction and reduces the cement utilized in the walls. It allows for easier placement of insulation, and the continuous pour helps in reducing air and moisture infiltration. It avoids mortar joints - which are the weak link in masonry wall construction and where usually cracks and failures start.
+Team work will be key among the workers. A small group of villagers could form a group, a cooperative or a collective, and help each other in using these forms to build their homes. They could  rent the form-work from SOC, or a vendor, or a Government entity. They could reimburse the SOC for the rental by bartering their sweat equity - by working on SOC's vegetables and animal farms, or by getting credit vouchers for their sweat equity.  
+ 
+
+Who will take these actions?
+At the present time the key supporter of the building technology are the Sisters of Charity of Ottawa (SOC) - Lesotho. SOC is looking for housing their elderly poor in warmer structures during bitterly cold winters, in many of their locations. They also need to house their teaching staff. SOC also has clinics, schools, student dormitories, and hospitals. They all need to be heated during winter. SOC wants to reduce their heating and utility bill. The money saved can be invested in their various charitable programs.
+
+We have also spoken to local Architects, Engineers and building officials and they all agree that the need for such buildings are widespread. However they need someone to train and teach them in the building method. Government officials, feel they need a technology that leverages manual labor as a large portion of Lesotho is unskilled and unemployed.
+
+Local contractors, engineers, developers are keen on learning the technology. In the long term such a technology needs an infrastructure of trained professionals, workshops, training centers, engineers and architects who can supervise the construction of structurally sound buildings. SOC is willing to provide the infrastructure support if funding is obtained for a viable program. If one is able to initially demonstrate successful prototype structures, the Government may be emboldened to build schools, dormitories, orphanages,clinics and hospitals with this type of structure. We need money to demonstrate several small building types - and then we think the technology will take off on its own. It will help in capacity building.
+
+We are also in discussions with the banking sector and they have shown an interest in micro-finance loans - if the loans are given to a viable group as opposed to individuals. They need loan guarantees, and other mechanisms to insure loan payoffs. In the past we were able to see promise with what we are proposing. In 2006 and 2007 we were asked by a major South Asian NGO, The Aga Khan Foundation, to demonstrate our ability to build earthquake resistant structures in a 2005 earthquake devastated region of Pakistan. We built several lean concrete, with conventional reinforcement and membrane reinforced (elastic skin) structures. Our design were vetted and approved by international as well as local structural engineers. We trained some 30 poor workers and we are able to use them to build luxury, sustainable and super-insulated,  homes using the same technology - thereby providing some 60 workers employment for more than a year. Our technology in Lesotho is a continuation of the same technology and we believe we can easily replicate that earlier experience. See slide below for examples of our work.  
+
+
+
+Where will these actions be taken?
+These well insulated homes can be utilized for colder regions in Africa, South and North America, Turkey, Pakistan, Nepal, India, China, Japan, Peru, Ecuador, Bolivia, the Caribbean nations, Native Indian Pueblos in USA in New Mexico and Colorado, and colder regions of North America.The author has built similar buildings in Lesotho, Haiti, Pakistan. Buildings in Haiti and Pakistan have added features that make them seismic resistant. The structures were designed in collaboration with structural engineers. In Pakistan a very reputable international NGO "The Aga Khan Planning and Building Services of Pakistan (AKPBS-P)" commissioned us to build several  homes in an earthquake devastated area of Kashmir (AJK). See example of home in Bhattangi, AJK below. All the buildings were built successfully some 10 years ago, and have since experienced earthquakes of Richter 5.5 plus. They show no structural distress. Lack of adequate funding support, and delays in obtaining Government approval,  prevented some 200 homes to be built with the proposed technology.
+
+These buildings are located in very cold areas of Northern Pakistan.  Unfortunately, at the time the above buildings were built, the techniques for heating using solar technology was not developed. However the structures are well insulated, and have thermal mass. In future if required we will be able to retrofit our previously built structures with SHW to add solar heating. Given the opportunity to build more demonstration homes, including retrofits, may convince other countries to adopt our technology. This will reduce GHG emissions significantly. Government support, private/ public partnership, will be key to our success. 
+
+
+
+In 2007 we were also invited to build an affordable home for a housing project for the poor by then mayor of Karachi. It is a soil-cement home. It is suitable for hot and tropical climate.
+
+The walls of homes have sandwiched waste insulation. The roof is insulated as well. The internal courtyard adds to the cooling by creating micro-climate modifications in summer.
+
+
+
+The plan below shows how breeze from the courtyard cools the house in summer.
+
+In 2015 we also built a flood resistant home in a previously Katrina devastated ward. That home won the American Concrete Institute's (ACI), Louisiana chapter, design award for low rise structures. It has a similar concept to our Lesotho home and it is almost at par as first cost with traditional 2 x 4  wood construction. It is far less expensive on a life cycle cost basis. See chart below.
+
+
+
+A section of the built structure and principles behind flood resistance.
+
+
+
+
+
+ 
+
+and the carbon footprint is far less than wood construction.
+
+
+
+With flood insurance policies under financial strain our NO homes will provide considerable financial security to residents of flood prone areas.
+
+In addition, specify the country or countries where these actions will be taken.
+Afghanistan
+
+Country 2
+Chile
+
+Country 3
+Peru
+
+Country 4
+Lesotho
+
+Country 5
+Bolivia
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+Significant reduction in heating cost is expected as our homes are heated by the Sun - a renewable energy source. Our rough estimate for a 500 sf home, the savings in emissions by going 100% solar - off grid for electricity and fossil fuel based heating, is about 10 tons/ year of CO2 emissions. Which means a saving of 300 tons of CO2 in 30 years.
+
+Worldwide we think we can reduce the emissions by 1 billion tons (see write-up above). 
+
+We anticipate between 80%-90% emission reduction, compared to a masonry structure - the popular method of construction in many countries. Our building types are made of lean concrete and has a lower carbon footprint than masonry buildings. The roof is made of waste grass, does not reflect heat back to the sky as much (positive impact on GW) - and would have been  burnt otherwise.  No wood is utilized excepting for roof trusses. Of course a better thing would be to use all possible renewable and sustainable energy sources, including the Sun, Wind, Hydro, Bio-Gas and Geothermal to name just a few.
+
+There are also environmental benefits to our proposed building type. It uses less cement as the wall is based on a lean concrete matrix of half the strength of a masonry block building. The additional strength is not required in our design and for a single story structure.  By recycling waste, such as the polystyrene lunch boxes which otherwise would go to landfills and remain there for millions of years, we are re-utilizing as insulation for both cold and warm climates. We have done prototypes in Haiti which keep homes cooler in 100 degrees plus summers. The building also is earthquake resistant as the lighter structure has less mass inertia ( seismic design - engineering term). See our websitewww.saridweb.orgfor more information on our Haiti work.
+
+What are other key benefits?
+Key benefits are as follows:
+
+Teaching to be self reliant, recycle waste, and better utilize locally available resources 
+Stimulating the construction industry and national economy. Construction is one of the largest industry in developing economies. It supports over twenty multiplier - support and retail market.
+Fossil Fuel Independence: Learning to build homes that are not dependent on fossil fuels for heating or require imported electricity for lighting, heating and/ or cooling. 
+Vocational Training: Teaching people building skills that can lead to paid employment in building / construction industry. 
+Teaching people to collaborate, form teams, and improve their chances for mortgages and micro-finance loans 
+Building structures with low carbon footprint and one that contribute minimally to global warming.
+Air-Tight walls that prevent heat loss. 
+Learning to recycle waste such as expanded polystyrene (EPS) Styrofoam (lunch-boxes) and packaging EPS for building insulation.
+Learn to pool resources, collaborate, share tools such as re-usable form-work. The re-usable form-work reduces construction price and significantly speeds up construction.
+
+
+
+Costs/Challenges
+What are the proposal’s projected costs?
+The proposal cost is in initially setting up the workshops and training centers, building a few more prototypes, improving on the heating and lighting system, continuing research on incorporating more recyclable or renewable energy resources. This will cost about US 35,000. We will be able to get land for the workshop from SOC. We have the site to build some four more elderly homes and then to build five staff housing for SOC's teachers. SOC can only afford to reimburse us for cost of construction, but not for our overhead cost ( for SARID - a non-profit ) such as travel, lodging, food etc. 
+
+To set up a small demonstration of prototype one bedroom and two bedroom homes ( 5 homes in total), a classroom and a clinic will cost in the vicinity of US $100,000. These will be built for the SOC so we may get part of the money from them. We will have to pay for our overheads. To get a more comprehensive program, which will promote the technology in Lesotho and South Africa, an initial seed funding of some $300,000 would be required. This money if given would help finance a for profit entity and investors would be entitled to dividends and profit sharing. Such a for-profit entity partnering with local contractors and developers would help promote large scale construction, employment for trained workers, and stimulate the local manufacturing and the economy. It will also help reduce GHGe from a wider housing and commercial market.
+
+We expect that in a few years we could expand our program to neighboring African countries - that need the technology as well. 
+
+See below for additional discussion on timeline and cost.
+
+ 
+
+Timeline
+We are keen on continuing our work in Lesotho as the SOC is keen on supporting our work. Our home has seen two winters and seen that the structure has required almost no fossil fuel for heating. They are interested interested in building four more elderly homes. Two set of design options (octagonal shaped versus square shaped rooms) have been completed by SARID on a pro-bono basis. The square shape will be easier to build. SARID (www.saridweb.org) is trying to raise US $35,000 to set up workshops, and training facilities (TF) and another $50,000 for four additional homes. They will end up housing 16 more poor and elderly folks. The TF will help local villagers get the skills, obtain employment and with a job the money to build their own homes. We are also hoping to raise another US $20,000 for construction of  one and two bedrooms with attached bathroom and kitchen, five in total. It is to be built  in an adjoining village - where land is available. We should be able to recover most of the construction (first cost) money as homeowners would have to pay for their homes. 
+
+Investors will get their ROI by:
+
+licensing fee of technology to commercial contractors
+tuition from workshops, training facilities - training of architect, engineers, contractors
+ 
+
+profits from manufacturing facilities for:
+
+re-usable form-work
+solar heating system
+Solar PV - Low voltage LED lighting system
+rain water harvesting and potable water system
+accessories to build with our proposed system 
+ 
+
+All the above can be done over a 12 to 24 month period after obtaining funding.
+
+Because the technology is needed in many countries of the world that experience cold weather, and need a non-fossil fuel heating system, or are very hot and need to avoid fans and air-conditioning - the building method could expand globally and quickly, and in turn reduce GHGe from environment.

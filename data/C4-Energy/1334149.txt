@@ -1,0 +1,214 @@
+Proposal number: 1334149
+
+Proposal: 'Power insurance' for off-grid solar home systems
+
+Summary
+Lack of access to electricity is considered as one of the major bottlenecks for sustainable development in low income countries. On a global scale a population of 1.1 billion does not have access. SHS are considered as the most feasible solution for achieving a rapid access and enabling the rural population to power basic electric appliances. Focus countries are India, Bangladesh and East African countries. SHS are distributed through a variety of payment approaches e.g. PAYG-model where customers pay for real consumption. However the sustainability of SHS is questioned. A major problem is the frequent breakdown of SHS for various reasons. A recent study (publication pending) from the Indian state Odisha revealed that 64% of SHS defect once in their lifetime. Rural users are often not able to afford for repair services. Therefore they lose access to electricity once again. Implementing a maintenance system through an insurance product holds a high potential for increasing the reliability of SHS.
+
+Our solution is a power insurance ensuring sustained access to electricity and thereby to light, communication and information. In case of a not functioning SHS maintenance coverage is provided to our users. We're financing our insurance product with a premium and through monetization of selling consumption patterns of our users to advertisement companies, allowing them to provide tailored advertisements. Additionally by selling exhausted technological components to recycling facilities, we are able to subsidize the power insurance through those revenue streams. SHS's are given as a complimentary when a rural user purchases a sim from our partnered carrier, thereby SHS are distributed quickly. Users pay for actual consumption through PAYG credits topped with a premium. Our SHS are equipped with  communication devices enabling monitoring and tracking consumption patterns. In case of failure we are able to inform contracted services for (pre-emptive) repair or replacement. 
+
+ 
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+Solar home systems (SHS) are deployed in a rapid pace for increasing access to electricity in rural areas of India. A high share of 64% of SHS breaks down once in their lifetime. As users cannot afford for the repair access to electricity is lost. We want to offer a power insurance ensuring the once deployed SHS stay sustained. This is realized through cooperation with mobile phone carriers (MPC) and the development of additional revenue streams. 
+
+To understand why such an insurance is needed you have to think of our centralized systems (national grids) in the western market. Our electricity rate is based out of taxes, the actual electricity and grid/system operator fees. We pay fees to the system operators for the transport of electricity as well as ensuring generation adequacy. In return, the system operator makes sure that their network is working for us. This component is missing in markets without national grids, the markets who are frogleaping to decentralized energy generation products. With our insurance concept, we want to become the system operators of the decentralized energy markets, making sure that users always have access to electricity. We are not providing the products, we are providing power.
+
+Even though our initial research shows there is great potential in terms of market size, there is still some market validation to do. As our business model has not been implemented before, we most likely will need to start a pilot to showcase proof of concept. These signals most likely will help us to attract investors seeing the value hence putting capital into our company.
+
+Main costs, which will be covered by the mobile phone carriers, is the SHS and the distribution of this. Our main costs will be found in setting up the data structure and the analysis of this information stream. Additional costs arise through contracting technicians and the training thereof. We will also be responsible for setting up synergies to make the business model work.
+
+If we have identified a promising market environment, we will conduct a financial analysis tailoring our business model. Based on the derived cost and revenue assumptions we will test the feasibility of our solution by taking into account socio- economic data from our market entry state Odisha.
+
+Only from such a pilot we can give sensible information on the dollar invested, converted to the impact of that dollar. 
+
+Our users/customers
+
+With a complex scheme as this we have to differentiate in users, customers and partners. Our users are rural households in the target state of Odisha. These users need an affordable and reliable electricity source. Their income does not allow for investments into SHS or repair services. The value proposition we offer with our solution is ensured access to electricity, no upfront costs for the SHS, a flexible payment scheme, and recycling after end-of-life of SHS. Aside from users consuming power, our customers are also the market analysts and advertisement companies to whom we are selling the data on consumption patterns collected. Additionally we are selling exhausted technical components to recycling companies. Our partners are MPCs. Our SHS are given as complimentary while purchasing a sim of our MPCs partner increasing the competitiveness of their products. The market size for Odisha state is characterized by the 25 million living without access to electricity and of which 23 million will subscribe to a mobile phone carrier by 2020. 
+
+What is our implementation strategy? 
+
+As of today, India achieved an electrification rate of 81%. However the gap between urban and rural areas is significant. In absolute numbers India still holds a population larger than 244 million living without access to electricity.
+
+On the other hand, subscriptions to mobile phone services grew in an exponential rate. By 2015 a share of 47% had a mobile connection and an additional 337 million is expected to subscribe by 2020. See figure below.
+
+
+Our implementation strategy is based on cooperation with mobile phone carriers. We are coupling the dissemination of solar home systems to the purchase of SIM cards. Thereby we are harnessing the fast adoption rate to mobile services and are benefiting from the mobile phone service companies capability to reach far out into rural areas. With the mobile phone industry growing at such rates, as well as the competitiveness of harnessing market shares, we think it will be beneficial for carriers to offer additional incentives to users for choosing them as their provider.
+
+We will try to explain the principles through the following figure. Apologies for the distorted figure (due to platform). Correct figure can also be found in the following link: AALO Concept
+
+
+1.    Users choose our partnered mobile phone carrier as their provider.
+    Carriers have an incentive to cover a part of the upfront costs as their intention is to gain market share amongst these rural customers.
+  
+2.    By choosing this specific carrier, users know they can get a solar home system additionally.
+
+3.    Users still pay for consumption of power through buying credits. Credits in this case are topped with a premium for the insurance. However, the premium is not as high as it should be.
+
+    Additionally, users do not pay off the SHS thus will never own the product. The SHS remains ours, users are effectively leasing the product. In this way, we are taking away the relative high upfront costs for consumers and are in control of the product's lifecycle.
+
+To summarise:
+Mobile carrier and AALO cover most of the upfront costs of the SHS.
+Consumers pay a rate for their consumption. This rate consists out of:
+- electricity consumption (USD/kWh)
+- a premium for insurance (USD/kWh)
+- leasing costs (flat rate)
+Consumers pays this rate through buying credits. When credits run out, they have to top up the credit in order to get access to electricity.
+
+A part of the insurance costs will be covered by the following cycle. To create additional revenue streams, we've looked at what resources we can monetize.
+
+4.    Two streams have been identified: consumer behaviour data and e-waste.
+
+5.    Consumption behaviour data can be analysed and sold to marketing companies. It is without a doubt that other industries are looking at how to penetrate into the rural markets. An example of this would be: It turns out that a household is generating more energy that it is spending. A marketing company can then jump in on this and advertise that they are able to power a tv or fridge.
+
+6.    Since we monitor the data, we are ahead of potential defects as well as component end-of-life. Components with no potential anymore will be forwarded to recycling facilities, of which a value will be put on the materials.
+
+7.    These two monetized streams cover a part of the costs for the insurance of solar home systems.
+With the users connected to the mobile grid, they are able to report malfunctions in case of it being undetected by us.
+
+The idea of implementing an insurance is a workaround for the sudden high costs involved with maintenance of a broken down SHS for an individual. The collective premium of all insurance holders should be high enough to cover the maintenance. With everyone paying premiums, users are socially covering each other. Consumers pay a premium at an affordable level, this entitles them to service. However, it does not mean that the device will actually break down.
+
+Additionally, the customer has to pay a very high price to get access to repair which is not seen as worthy of his time and money because the repair market of solar products is still struggling with issues as:
+
+Product up gradation is so fast that the earlier models go out of fashion and thus have no spare parts available for the earlier product versions
+Lack of standardisation in spare parts of solar products
+Availability in small quantities of spare parts with local technicians and limited financial capacity of technicians to maintain stock of spare parts
+The reasons mentioned above make it very difficult case for providing access to repair services at affordable price for the customer. In addition to this, the cost of reaching to the technician and no guarantee if money is spent how long will the repair will last disincentives the end user to invest in repair.
+
+See for a case study under 'Related proposals'.
+
+Therefore, our core tasks are to set up this ecosystem and cover maintenance financially with contracted technicians. A pilot will identify viable pathways in terms of insurance mechanisms and insurance pricing needed to make this work. The specifics are dependent on maintenance needs and income levels.
+
+The idea of implementing an insurance is a workaround for the sudden high costs involved with maintenance of a broken down SHS for an individual. The collective premium of all insurance holders should be high enough to cover the maintenance. With everyone paying premiums, users are socially covering each other. Consumers pay a premium at an affordable level, this entitles them to service. However, it does not mean that the device will actually break down.
+
+As of now this solution is a prototype. So far we have consulted local and international experts for feedback. For our pilot state Odisha we identified a population of 25 million lacking access to electricity and 23 million not yet subscribed to mobile services.
+
+Privacy and data usage
+Our customers have to give their consent prior to sharing the consumption pattern data. In order for doing so they will be comprehensively informed regarding the opportunities and risks of sharing their consumption pattern data. Since the consumption pattern data is one of our key products and essential for the viability of our business model, the consent of our customers to sharing consumption pattern data is a prerequisite for using the offered Solar-Home-System device.
+
+Practically, our customers will be asked to give their consent the following way:
+
+Customers obtain a complimentary SHS once purchasing a SIM of our partner MPC
+With the SHS device customers will obtain a leaflet informing them about opportunities and risks of sharing consumption pattern data
+Customers need to unlock the SHS device initially with a SIM code, Therefore they will receive a SMS from the MPC asking to give their consents. Once they repeat positively they will receive the code unlocking the SHS device. 
+
+Our team is not aware of a competitor offering exactly the same information. The unique advantage of our dataset to be collected is that we can exactly understand the electricity consumption behaviour of our customers and allow the advertisers to offer to our customers exactly those devices which they are able to power and finance. Additionally, we are gathering data about a largely unknown customer base which will become very important as pristine customer base in the upcoming decades. As an example our pilot state Odisha faced the sharpest decline in people living below the poverty line from 2005 to 2012. From 57.2% to 32.6% this means that there is a new customer base growing rapidly.
+
+ Besides that we learn about:
+
+Location of our customers
+Communication device and contact of our customers
+Monthly/seasonal income of our customers (as a proxy of electricity consumption)
+Additionally, our collected data is of great value to the Indian and governmental institutions for infrastructure and electrification planning.They would be able to use the consumption pattern data to identify demand clusters which would allow for economically feasible extension of the national grid. Thus we consider governmental institutions as partners for long term development. Additionally we consider our “own” product as temporary. It has its value in a timeframe of 10-15 years before the grid arrives. As AALO’s objective is to contribute to socio-economic development foremost.
+
+Who will take these actions?
+We are planning the following steps for implementing our solution:
+
+First of all we will approach Mobile phone carriers (MPC) to present our approach. MPCs are our key partner for dissemination and their cooperation is essential.
+Second we will conduct a field research in our pilot region to identify the availability of maintenance companies and technicians capable of providing the repair service for our power insurance product.
+Third we will approach manufacturers for identifying a suitable SHS product.
+Fourth, we will assess the demand for the products we are targeting to build a revenue stream on.
+ 
+Each of these steps is considered as a gate milestone. If we found the market environment to be promising we will conduct a financial analysis tailoring our business model. Based on the derived cost and revenue assumptions we will test the feasibility of our solution by taking into account socio-economic data from our market entry state Odisha. Finally we will identify a pilot region through applying several spatial datasets (populations density, spatial GDP, grid coverage and further) thereby filtering out the most suitable area for pilot implementation.
+
+Where will these actions be taken?
+"India currently has 77 million households (about 360 million people) who lack adequate access to grid-electricity, and another 20 million underserved households (approximately 95 million people) who receive less than four hours of electricity in a day. While grid connectivity is expected to improve over the next 10 years, at the current rate of grid expansion, urbanization and population growth, 70- 75 million households will still lack access to grid electricity by 2024. Since 90% of these households live in rural areas, a significant reduction in the 83 million rural households who are currently not served or underserved by the grid is unlikely.
+
+More than half of the total underserved rural population lives in five states: Uttar Pradesh, Bihar, Odisha, West Bengal and Madhya Pradesh. Rural underserved households are not equally distributed across India (see figure below). Large sections of Northern and Eastern India have significant underserved populations. Furthermore, two-thirds of the underserved rural population, or ~55 million households, live in the states of Uttar Pradesh, Bihar, Odisha, West Bengal and Madhya Pradesh." (The Climate Group, 2015).
+
+
+
+With this in mind, we want to focus on low income communities (with higher population density) in the state of Odisha, India.
+
+The market size for Odisha state is characterized by the 25 million living without access to electricity and of which 23 million will subscribe to a mobile phone carrier by 2020. 
+
+Specific locations or communities in this state still need to be identified.
+
+In addition, specify the country or countries where these actions will be taken.
+India
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+With our concept, GHG emissions are mitigated through the deployment of SHS. SHS as such are less carbon intensive as only few GHG gases are emitted during their production whereas electricity from SHS is generated carbon free from solar irradiation. With our concept, we are targeting rural households that used to use diesel generators, kerosene lamps and dry cell batteries before. In that case, our product can make a significant contribution to climate protection by replacing these conventional sources and offsetting their emissions. By the quick dissemination of large quantities, which we are targeting through coupling our product to the mobile sector, we expect a significant contribution to reducing GHG emissions. For entire India, experts expect that between 2014-18, SHS enterprises will offset 550,000 tons of CO2 equivalent (The Climate Group, 2015). With an even quicker adoption rate of SHS this value could be exceeded.
+
+
+
+Another very relevant aspect of our concept is that through the deployment of SHS we can contribute to decreased emissions that is causing the “black carbon” threat. Black carbon consists of ultra-fine particles produced by incomplete combustion. In India these particles are mainly emitted from small diesel generators, biomass and agricultural waste burning and coal use in small-scale industries. The threat is that black carbon gathers in the atmosphere and absorbs sunlight thereby contributing to faster melting of the glaciers in the Himalaya and affecting the Indian monsoon. These alteration threatens the livelihood of millions.
+
+Lastly, we will contribute to environmental protection through afterlife processing of SHS parts. Thereby we mitigate that parts are left at landfills and pollute the environment and threat nearby living people. This is especially important regarding the applied lead-acid batteries. 
+
+ 
+
+Our core SDG target is SDG#7, affordable and clean energy. Through deploying and sustaining SHS we are providing clean and affordable energy. The impact can be measured through indicators
+
+7.1.1: Proportion of population with access to electricity;
+
+7.1.2: Proportion of population with primary reliance on clean fuels and technology
+
+7.2.1: Renewable energy share in the total final energy consumption 
+
+
+Additionally we are contributing to achieving...
+
+...SDG #4 (Quality education) by providing access to light and information which facilitates educational activities;
+
+...SDG #8 (Decent work and economic growth) by generating jobs through partnering with technicians and maintenance companies as well as the provision of electricity;
+
+...SDG #10 (Reduced inequalities) by equipping rural areas with electric services as in urban areas thereby reducing inequalities;
+
+...SDG #11 (Sustainable cities and communities) by increasing the share of renewable energies in rural communities. 
+
+ 
+
+What are other key benefits?
+M-kopa, Simpa, Mobisol and Onergy are few companies who are implementing the pay-as-you-go model and provide maintenance only until the user has not paid the entire money worth the product. Urja Samadhaan started to provide solely maintenance and could not sustain due to customers not being able to afford the maintenance. The uniqueness of AALO is that we can subsidise the maintenance (and therefore insured power) by deserting to other revenue streams.
+
+From interviews with the experts at UNLEASH, no company in the market has commercialised the collected data, forwarded to market analysts for tailored advertisements. With our data, we also make sure that products which cannot be repaired, are sent to the right recycling facilities - which currently is not the case. We will put a value on these materials, as we cover the logistics of this valuable waste stream.
+
+No methods alike have been implemented before simply, because the problem has only been identified by having experience in the field and assessing where current pain points are. The concept of sustained affordable maintenance has not yet been identified as the solution to access to energy. 
+
+Additional to the sustained access to energy, we want to make sure that the asset potential is fully utilized. Meaning, products that were broken down but still have potential to be used, will be used.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+The financial sustainability of insurance products depends on number of insurance holders and amount of insurance premium. Since we are targeting a low-income customer base it is essential for the viability of our concept to rapidly gain a large customer base. This is why we are partnering with MPC to disseminate our product quickly. 
+
+Nevertheless, we are confident to achieve a positive balance sheet already with our pilot project. For our pilot project we will target a rural area of Odisha state, India and our objective is to gain 500 customers in one year. This implies providing access to electricity and thereby safety, information access, better education to 500 households and approximately 2,500 people. 
+
+The type of SHS system we want to deploy falls under the 'micro power' category. SHS in this category typically cost 200-600 USD.
+
+
+
+ 
+
+Our main expenses for the pilot are purchase of 500 advanced SHS systems (80,000 USD) and cost for repair services (1,000 USD). On the income side we expect the largest income from credit purchase (72,000 USD), followed by initial payment (7,500 USD), insurance premium (6,000 USD) and commercialization of data (6,000 USD). This basic concept would lead to financial sustainability under the assumption that our customer will pay an initial amount of 15 USD, and 1 USD insurance premium per month. Our initial interviews conducted on the ground proofed that this customer base is existing. 
+
+Given the lifetime of our (7 years warranty from manufacturer) and an increasing customer base the financial sustainability will increase with every additional year.
+
+Timeline
+This is not about the timeline, but we will use this space to introduce the background of our team.
+
+This idea was an endeavour to solve problems energy access problems in off-grid areas in developing countries. This team came forward from a recently held innovation lab UNLEASH. 
+
+What is UNLEASH ?
+UNLEASH is a global sustainability initiative that will bring together young leaders, experts, and entrepreneurs annually to accelerate breakthrough solutions for the 17 Sustainable Development Goals (SDG). 
+
+Who supports this innovative lab?
+UNLEASH is supported by ‘a global consortium of actors across sectors, including the United Nations, Dalberg, Microsoft, Deloitte, Novo Nordisk Foundation, Carlsberg Foundation and more than 150 knowledge and talent partners from all around the world’ including Masdar Institute, The Yunus Social Business, One Young World and Bill & Melinda Gates Foundation.
+
+We were selected as one of 1,000 Global Sustainable Development Goal Talents from 130 countries to participate in a 9-day innovation lab that takes place in Copenhagen, Denmark and Aarhus, Denmark. Talents are tasked with developing innovative and scalable solutions that address eight SDG theme areas - water, food, energy, sustainable consumption and production, education, urban sustainability, and health.

@@ -1,0 +1,65 @@
+Proposal number: 1334136
+
+Proposal: More Than Just Electricity: Molten Salt Reactors as Industrial Heat
+
+Summary
+Energy policy often focuses on electricity production and consumption. This narrow focus misses approximately 60 percent of all energy consumption according to the US Energy Information Administration (EIA). The majority of energy consumption comes from manufacturing and transportation and is made up largely of fossil fuels (1). Solutions to climate change that focus only on electricity either assume that all industrial processes can be heated electrically or overlook manufacturing energy consumption entirely. Even vehicles can be made carbon-free without relying on electrification. 
+
+Molten sat reactors operate at significantly higher temperatures, enabling their usage for industrial processes useful for both manufacturing and transportation. Such processes include manufacture of carbon-neutral gasoline through the methanol to gasoline process, paper products, and even hydrogen-which can be used as a heat source for other industrial applications like steel manufacturing-all without the burning of any fossil fuels. 
+
+(1)https://www.eia.gov/consumption
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+In addition to the construction of nuclear reactors for electricity generation, we are proposing the construction of molten salt reactors for use as industrial heat sources across any industry requiring temperatures up to approximately 650 degrees Celsius. For those industries that require higher temperatures, this temperature can be topped up either with electrical heaters or with burning of carbon neutral hydrogen produced with these reactors, or, where these are not feasible, by burning of biofuels, biogas or natural gas. A variety of molten salt reactor designs exist, ranging from 400 MW of thermal power up to 4000 MW thermal power. These reactors range from small modules which can be produced at a manufacturing line in a factory to large plants which are constructed near the location where the heat and/or power is consumed. Smaller reactors are ideal for industrial purposes, as the capacity needs of industrial facilities or parks are often in the tens to several hundreds of megawatts range, and heat always needs to be produced locally, near the point of consumption. Many molten salt reactor designs are also flexible in their output, which is a further advantage in industrial use.
+
+To facilitate the construction and use of molten salt reactors, nuclear regulatory bodies should be encouraged to adapt their regulatory framework from the existing light water reactor fleet to a regulatory framework that recognizes the advantages of advanced reactor designs, such as the ability to operate at atmospheric pressures with liquid fuels. Perhaps the largest challenge this proposal faces is that of modifying the regulatory framework.  Additionally, construction of molten salt reactors should be incentivized by offering tax credits to companies who choose to employ carbon-free nuclear technology for heat and electricity generation.
+
+Who will take these actions?
+These actions will be taken by utility providers seeking low-cost carbon free electricity sources and manufacturing industries looking to decarbonize their processes economically, either because of legislation, carbon emissions fees (or the risk of these) or simply as a way to gain consumer favor by moving to more climate-friendly methods of production and save money by using a more dependable source of heat than fossil fuels, which can be negatively impacted by extreme weather events. The actions listed here should be encouraged by governments through the development of policies that enable regulatory approval of molten salt reactors and reward utilities and manufacturers for moving to carbon-free energy sources
+
+Policies that encourage support for molten salt reactor technology will be pushed by nuclear advocacy groups working to build a grassroots constituency in support of new nuclear reactor technology.
+
+Where will these actions be taken?
+New molten salt reactors for electrical production will be developed at existing power plants as much as possible to utilize already existing grid connections and save on costs. Factories across the world's industrial centers will have molten salt heat sources built either for their own use or to share with businesses in their vicinity at a competitive price.
+
+In addition, specify the country or countries where these actions will be taken.
+United States
+
+Country 2
+China
+
+Country 3
+India
+
+Country 4
+Vietnam
+
+Country 5
+France
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+In the United States alone, burning of fossil fuels results in the release of 5171 million metric tons of carbon dioxide according to the EIA (1). Should this proposal be completely implemented in the United States, we can assume that a large majority of those emissions  will be eliminated as manufacturing industries, transportation, and electric power consumption all move to carbon-free nuclear energy. The Environmental Protection Agency reports that China is responsible for twice as many greenhouse gas emissions as the United States (2), so in those two nations alone, this practice would reduce carbon dioxide emissions by up to 15 billion metric tons of carbon dioxide per year.
+
+https://www.eia.gov/energyexplained/index.cfm?page=environment_where_ghg_come_from
+
+https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data
+
+What are other key benefits?
+Adoption of nuclear energy on a larger scale for power production and as a source of industrial heat would create more high-paying jobs as the number of engineers, chemists, physicists, and other technologists required would increase. The need for high-paying instrument and reactor operator jobs would also increase as the number of operating reactors goes up. Economically, a low levelized cost of electricity is reflected in lower electricity bills for consumers, giving them more money to spend and invest on things other than their electricity. Molten salt reactors are also capable of consuming current nuclear waste and reducing the global inventory of spent nuclear fuel.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+The exact costs of the project are difficult to calculate as a variety of molten salt reactor designs exist, each with its own cost. As a reference, Transatomic Power expects to be able to build a 1136 MW thermal power plant for approximately $1.7 billion, with smaller plants costing less money and larger ones costing more, though not linearly more. In the context of deep decarbonizing our society, a significant amount of nuclear power in the energy mix will make decarbonizatoin several times cheaper than would be the case if decarbonization would be done without nuclear (for example only with renewable energy).
+
+Additional difficulties will be faced in the regulatory process. Most nuclear regulating agencies have no experience working with molten salt reactors. The design of a molten salt reactor is distinctly different from the existing nuclear fleet most regulators have worked with, so getting regulatory framework adjusted in order to approve construction of these reactors is an obstacle that needs to be overcome.
+
+Most molten salt reactors are designed to be manufactured on an assembly line, a shipyard or a similar facility. One of the key challenges is to have enough demand and orders for the reactors to justify the investment in an assembly line. Once that assembly line is built, it can manufacture reactors in much the same way that airliners are manufactured today. Boeing makes about one large airliner per day, and they are significantly more complex projects than a molten salt reactor would be. The amount of various parts needed can be several orders of magnitude smaller. Having one or several such “reactor factories” in place around the world would increase the speed of decarbonization tremendously.
+
+Timeline
+In the short term, the decision to implement molten salt reactors for total energy needs will have little to no impact since time is needed for regulatory approval and construction on the reactors. In the intermediate future, molten salt reactors as industrial heat can mitigate the effects of climate change by making manufacturing, transportation, and electric power all carbon-free, preventing 2 degrees of warming. In the long term, this proposal can not only increase economic growth for cities and countries that choose to build new reactors, but it can also drastically reduce the amounts of spent nuclear fuel currently sitting in dry casks on plant sites. Over time, the long-term benefit of waste reduction will be less important as there will be less waste to consume in these reactors.
+
+

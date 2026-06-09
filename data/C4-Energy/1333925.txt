@@ -1,0 +1,147 @@
+Proposal number: 1333925
+
+Proposal: We Capture the wave's power and transform it into electricity
+
+Summary
+Arrecife is a wave energy converting floating platform that simulates the working principles of a coral reef opposing the strength of the waves to create resistance and absorb large part of its energy. It operates optimally at wave heights up to 5m, maximizing the number of operation hours at full capacity with a capacity factor over 55%. It operates both near-shore and offshore at any sea depth, being survivability ensured by an immersion system that activates with waves higher than 5 m. The system uses low cost materials and is easy transportable for installation and repairing, thus resulting in capital and O&M cost reductions of 50% and 85% compared to other offshore technologies. As a result, Arrecife has a LCOE of 90-125 €/MWh. Arrecife is also adaptable to offshore wind and oil and gas platforms for complementary energy production. Arrecife’s patented design consists of a horizontal floating platform provided with several rows of cross flow cylindrical turbines that emulate the effect of coral reefs to capture energy. It comprises the following components: ? Turbines: several cross-flow turbines are strategically disposed to oppose the waves and break them to capture both the horizontal (kinetic) and vertical (potential) energy components of the wave. The remaining flow is then passed over to the next turbine recovering part of its initial energy to repeat the process. This results in maximized capture of wave’s energy density with conversions rates > 60% compared to 40% of current WEC turbines. The mechanical design of the turbines made with steel is satisfactory when subduing them to 6m waves. The system is thus designed to work optimally with wave heights of 1-3m and up to 5 m high - which constitutes 85% of the available resource globally in order to maximize the number of annual working. This results in capacity factors of >55% compared to 22-33% in other WECs. 
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+ 
+
+Arrecife project aims to de-risk the industrial implementation for wave energy by achieving the last three steps required to get this advanced technology ready for commercialization: 1) Development of a 1:1 scale prototype manufactured by Global Energy Group 2) 1.5 years of prototype open sea testing in a Marine Energy Platform and 3) Definition of value chain and certification.
+
+Main Arrecife Objectives and related Key Performance Indicators - KPIs - Technical objectives: 1. To develop a 1:1 scale prototype with 265 kW capacity reaching a minimum conversion factor of 55% at manufacturing costs <4,000 €/kW; 2. To have the prototype tested for 1.5 years at Wave Energy test center collecting data on performance (energy yields, capacity factor, power matrix, yield response to wave changes extrapolation, grid connectivity, energy quality) and survivability; 3. To obtain all the required certifications and homologations for commercialization including CE marking, Environmental Impact Assessment (EIA) and ISO certifications.
+
+- Commercial objectives: 1. To launch to the market at least 2 Arrecife devices by 2020, tripling production by the third year to arrive up to 68 units in 5 years (2024); 2. To build a commercial network for Arrecife based on direct contact with all members of the value chain; 3. To renew and expand the current PCR to ensure IPR protection.
+
+- Implantation objectives: 2 early adopters with 2 pilot Wave Energy Converters in 2 different locations to have some feedback on the energy production and dynamic behavior of the device.
+
+Who will take these actions?
+At Arrecife Energy Systems we strive to develop a new wave energy converter that provides energy without disturbing the marine natural resources. We protect the environment by creating a zero emission solution in remote locations. We also empower these remote locations by providing low cost electricity with minimum maintenance ,compared to current marine energy devices,  Also, our product will support the local community by supplying energy and generating job opportunities. Also for the power supply for charging batteries to sailing boats and electric boats. Offshore Oil&Gas operations, Offshore Wind Turbines and Fish farms applications. Renewable energies located near the consumer, as wave energy seem to be a feasible alternative, thus we developed ARRECIFE which are cross action turbines placed in series, being them composed of many blades simulating a coral reef.
+
+ 
+
+Where will these actions be taken?
+Main market applications envisioned for Arrecife in order of importance are the following: 1) Islands, resorts and in general remote and offshore populations or facilities with energy supply needs 2)Disaster relief in case of energy needs when hurricanes, typhoons, earthquakes or different natural catastrophes. 3)Offshore wind, oil&gas and aquaculture in multi-use platforms for supplementary energy supply, offsetting of intermittent production and reduction of the final LCOE. 4) Charging batteries for sailing boats and electric boats. 5)Ocean data capturing and processing
+
+In addition, specify the country or countries where these actions will be taken.
+United States
+
+Country 2
+United Kingdom
+
+Country 3
+Norway
+
+Country 4
+Spain
+
+Country 5
+Portugal
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+A 1,6MW ARRECIFE Turbine will supply the energy for 460 US homes during a year without CO2 emission and not contributing to the climate change and global warming.
+
+With a ARRECIFE Turbine System you can save 78TN of CO2 per year!!!
+
+What are other key benefits?
+NEED for electricity supply in islands and coastal isolated population in a renewable and sustainable way where there's no grid connection or if there is too expensive for the population.
+
+NEED of energy supply for disaster relief in case of natural catastrophe.
+
+NEED for efficient offshore power supply for Oil&Gas platforms that aren't producing oil and are going to deploy: The global number of offshore Oil&Gas platforms is near 1,500.
+
+NEED for a regularly, affordable and renewable power supply to avoid the imbalance costs for non producing when there's no wind enough at Offshore Wind Turbines, or simply for the peak of demand. The number of Ofshore Wind Turbines is near 3,500.
+
+These subsea facilities, which are now located further offshore than decades ago, need power for drill-centres and pipelines for heating systems and running temperature or erosion control sensors so we can help capturing this oceanographic data.
+
+ 
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Expected growth potential. In the last years we have made an investment of around € 160,000 to obtain the current development of Arrecife technology. After an execution of an additional investment of € 2.5 million we expect to have Arrecife out in the market at a selling price of € 1,500,000 with a production cost of € 1,000,000 that will be further reduced thanks to the economies of scale. We expect a twofold annual increase of our sales between 2020. Arrecife’s expected growth potential by 2024 will provide € 17.68 million benefits in five years, with breakeven taking place by year 3. This will allow a Return of Investment (ROI) rate of 5.5. 
+The way to commercialize ARRECIFE products to the communities will be selling hardware or electricity as a service with a monthly quote for the local government or country. This makes our device affordable for all the local and remote communities that cannot afford buying the device and need power energy supply.
+
+PROTOTYPE
+
+      connected to grid      together with wind park
+Price €/tonTons/ unitTotal Cost €Porcentage
+Structure, turbines & electric system(a+b+c+d+e+f+g)
+
+640.75037,  32%             625.75036,  44% 
+
+Mooring(a+b+c)
+
+412.910   24,05%            112.970    6,58%
+
+Connectors€/unit*units
+
+111.0000,  64%
+
+Cable(a+b)
+
+190.500   11,09%
+
+Umbilical cable purchase €/m*m*unit17550087.500 5,10%
+
+50000,00%b. Umbilical cable installation€/día*days*unit50.000150.0002,91%
+50.000150.0002,91%c. Ditrel connector (structure to deep cable)
+53.000153.0003,09%
+53.000153.0003,09%4. Load Out€/unit*units8.00018.0000,47%
+
+100,00%5. Assembly, Transport & Installation(a+b+c+d+e+f+g+h)
+
+100.0005,82%
+
+
+00,00%a. Mooring set up€/day*days*unit45.000145.0002,62%
+
+100,00%b. Towing (1 x BP 50 ton)€/day*days*unit10.000110.0000,58%
+
+100,00%c. Hook up€/day*days*unit45.000145.0002,62%
+
+100,00%6. Decommissioning(a)
+
+10.0000,58%
+
+
+00,00%a. Tugboat€/day*days*boats10.0001100000,58%
+
+100,00%7. Construction Insurance
+0,01
+13.5220,79%
+
+
+00,00%8. Structure Insurance
+0,01
+6.4080,37%
+
+
+00,00%9. Development (project + project management)
+125.0001125.0007,28%
+125.0001125.0007,28%10. Permits & licenses
+55.000155.0003,20%
+
+100,00%11. Environmental assessment
+65.000165.0003,79%
+
+Prototype Capex Total Costs
+
+
+1.717.089                           1.026.720
+Margin45%
+
+772.690                              462.024
+
+
+
+
+2.489.779                           1.488.744
+ 
+
+Timeline
+Main Arrecife Objectives and related Key Performance Indicators - KPIs - Technical objectives: 1. To develop a 1:1 scale prototype with 265 kW capacity reaching a minimum conversion factor of 55% at manufacturing costs <4,000 €/kW; 2. To have the prototype tested for 1.5 years at Wave Energy test center collecting data on performance (energy yields, capacity factor, power matrix, yield response to wave changes extrapolation, grid connectivity, energy quality) and survivability; 3. To obtain all the required certifications and homologations for commercialization including CE marking, Environmental Impact Assessment (EIA) and ISO certifications. - Commercial objectives: 1. To launch to the market at least 2 Arrecife devices by 2020, tripling production by the third year to arrive up to 68 units in 5 years (2024); 2. To build a commercial network for Arrecife based on direct contact with all members of the value chain ; 3. To renew and expand the current PCR to ensure IPR protection.

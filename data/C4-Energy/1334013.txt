@@ -1,0 +1,95 @@
+Proposal number: 1334013
+
+Proposal: A new type of fiber solar cells using the effect of total internal reflection.
+
+Summary
+The presented concept of a new type of solar cells is based on physical laws of optics with the use of the effect of total internal reflection - internal reflection, provided that the angle of incidence exceeds a certain critical angle.
+In this case, the incident electromagnetic wave is reflected completely inside the optical PV fiber, and the value of the reflection coefficient exceeds its highest values for the polished surfaces.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+The presented concept of a new type of solar cells (batteries) is based on physical laws of optics with the use of the effect of total internal reflection - internal reflection, on the condition that the angle of incidence exceeds a certain critical angle.
+
+In this case, downward electromagnetic wave (the spectrum of solar radiation) is reflected completely inside the optical PV fiber, and the reflection coefficient`s  value exceeds its highest values for polished surfaces.
+
+By total internal reflection the reflection coefficient is not dependent on the wavelength.
+
+In optics, this phenomenon is observed for a wide range of electromagnetic radiation, including the x-ray range.
+
+Here are the best known disadvantages of solar energy:
+
+1. The need for large areas for the placement of solar 2D panels;
+
+2. Reduced productivity of panels with growth of temperature because of features of a structure of photocells;
+
+3. The solar power plant does not work at night and does not work efficiently in the evening twilight, whereas the peak of power consumption falls precisely on the evening hours;
+
+4. Because of its low efficiency, which at best reaches 20 percent, solar panels get very hot.
+
+The remaining 80 percent of the energy of sunlight heats the solar cells to a temperature of about 55 ° C.
+
+With an increase in the temperature of the photovoltaic cell by 1 °, its efficiency drops by 0.5%.
+
+This dependence is not linear and an increase in the element temperature by 10 ° leads to a nearly twofold decrease in efficiency.
+
+5. Reduction of the efficiency of solar cells (PV modules) caused by dust, atmospheric precipitation.
+
+
+Reducing the impact of the above disadvantages of modern solar cells, possible using the concept of fiber PV elements:
+
+1. maximum absorption of the spectrum of solar radiation by the method of total internal reflection, in a tubular optical fiber in 3D coordinates;
+
+2. Applying the lens effect using an external transparent fiber sheath to start the energy generation process inside the PV layer, in low light conditions (cloudiness, darkening of the working PV surface);
+
+3. maximum absorption of electromagnetic radiation by PV layer of optical fiber, by converting a wide solar radiation spectrum into monochrome (quantum-mechanical stimulated emission induction, using optical mirror resonators in fiber);
+
+4. Using of the internal axial channel of the tubular fiber for cooling the PV layer and, as a result, increase the efficiency;
+
+5. Applying of effective ultrasonic cleaning of the PV fiber surface (standard 2D solar modules are not cleaned by ultrasonic vibrations in conditions of sandstorms in the desert).
+
+6. The combination of two technologies - solar and wind energy - enhance the effectiveness of this concept - the conversion of wind energy from rocking the fiber, and solar energy.
+
+7. Reduction of the necessary space for the location of solar power plants in comparison with conventional flat solar panels (saving of land resources, saving of the water surface area using the technology of floating helio power plants)
+
+8. The PV fibers can be used in the space industry for compact placement in a limited transport area and for the ability to quickly set in the working position the power supply system.
+
+The outer glass sheath will refract the radiation into the internal PV from any angle of incidence of solar energy. Inside the fiber (tubular section) along the axis there must be an opening along the entire length, for circulation and cooling of the PV layer. The ratio of the transparent outer layer and the diameter of the inner (PV) rod should correspond to the calculated refractive angle inside the fiber of the tubular section, to absorb solar energy over the entire PV area (360 degrees). At the base and top of the fiber there should be mirror-like surfaces parallel to each other for axial reflection of solar energy inside the fiber, caught by refraction and total internal reflection from its walls (for example, how mirrors are installed in the working body of the laser).
+
+
+
+
+Is it possible to obtain additional electrical energy (wind power) during the rocking of PV fibers? By the principle of a swinging wind generator. It is also possible to increase the range of application of this technology to wind power, a method of generating the energy of a wind generator swing. It will be a more versatile power plant generating electricity by absorbing solar radiation and swinging the wind generator. Visually it is possible to compare this conditional picture.
+
+
+
+Transform part of the spectrum of solar radiation inside the fiber (for effective work of the PV core layer) will probably not be difficult to do. The wide-spectrum electromagnetic radiation reflected from the middle of the fiber can be converted into the energy of coherent, monochromatic, and polarized radiation.
+
+1. The amount of solar radiation (the main calculation for the length of fiber-optic fibers) is calculated in accordance with the geographical coordinates of the power plant's PV. 2. Calculation of the diameter of the outer transparent fiber-fiber sheath should correspond to the refraction of solar radiation in 3D coordinates at the center of the optical fiber. 3. Solar radiation of a broad spectrum of radiation - at the base and top of the fiber, install mirror elements to absorb (or transform) the reflected solar energy. 4. At the base of each energy-generating optical fiber element, this will increase the spectrum of renewable energy production (at the point of the maximum bending moments of the fiber, integrate the wind oscillator, wind power). 5. To clean the surface of a fiber solar cell based on refraction and total internal reflection, use ultrasonic vibrations (2D solar panels under sandstorms in the desert are not effective). 6. For cooling use an internal channel along the fiber axis (tubular structure), this will increase the energy efficiency of the PV layer of the battery.  
+
+Who will take these actions?
+Where will these actions be taken?
+In addition, specify the country or countries where these actions will be taken.
+Ukraine
+
+Country 2
+United States
+
+Country 3
+Canada
+
+Country 4
+Australia
+
+Country 5
+Saudi Arabia
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+What are other key benefits?
+This concept of PV fibers is designed to be installed in any state as an alternative to existing 2D solar panels with low efficiency, which take away a large amount of land resources or floating marine solar power plants located on the surface of water, which in time will turn the location of its location into marshes by stopping photosynthesis in water .
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Timeline

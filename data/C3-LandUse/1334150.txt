@@ -1,0 +1,94 @@
+Proposal number: 1334150
+
+Proposal: Using ICT (Conservation App) in conserving the Bamenda Highlands Forests.
+
+Summary
+The project aims at creating a biodiversity  conservation mobile app (Conservation App or ConApp) and website that has an inventory of all the endangered and endemic species of the Bamenda Highlands Forests, their geographic coordinates and forests, the different biodiversity conservation laws and policies, environmental news, songs, poems, movies and radio dramas as well as provide a platform where people can easily report poaching, deforestation, bush fires and other illegal environmental practices that accelerate biodiversity loss and climate change.
+
+Conservation App is expected to have the following pages;
+
+Homepage with multiple Did you know facts about the environment and climate change
+Endangered and Endemic species of the Bamenda Highlands Forests Page
+The Bamenda Highlands Forests
+Environmental/Conservation Laws and Policies Page
+Green News, Songs, Movies, Poems, Art works and Dramas Page
+Climate Change
+Reporting Illegal Environmental Activities Page
+Researchers, Tourists, Cameroonians and most especially people of the North West Region shall greatly use the app and website. They will participate by downloading and installing the app on their mobile phones and Computers so that they can use it to learn more about their biodiversity and conservation, the different conservation laws and policies, as well as be able to report any criminal activity such as poaching, bush fires, illegal logging, etc that threatens the rich biodiversity of the Bamenda Highlands Forests. Using ConApp shall make it possible for people of the region to directly alert The Greens, the Ministry of Forestry and Wildlife (MINFOF) and the Ministry of Environment Protection of Nature and Sustainable Development (MINEPDED) to immediately take action in case of any illegal environmental activity hence stop poaching, deforestation, bush fires and all illegal environmental activities of the Bamenda Highlands Forests, as well as increase education and awareness about biodiversity conservation.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+The major actions are to create the mobile app and website as well as sensitize the population to download and use the app and website.
+
+The Greens has a long standing experience in biodiversity conservation and environmentalism in the North West Region.  The Greens’ knowledge and mastery about the different conservation laws and policies, the different endangered and endemic species, the different afromontane forests, as well as their rich database of environmental songs, poems, dramas and art works make them suitable for handling the project and providing substantial data which will be uploaded in the mobile app and website.
+
+The Greens shall work with  Y'ems Group Incorporated which is an IT Company based in Bamenda, that will build and host the app within a period of 3 months after which The Greens team together with the Y’ems Group team shall use 3 months to update the app with detailed information about the different endangered and endemic species of the Bamenda Highlands Forests as found on the IUCN Redlist, information about the different international and Cameroonian environmental/conservation laws and policies, update the app with environmental songs, poems, news dramas and art works as well as update the app and website with detailed information about climate change and the different afromontane forests of the Bamenda Highlands.
+
+Once done, The Greens’ shall officially publish the app online and start sensitizing people, using print and audiovisual media, as well as social networking channels on how to download and use the app. We hope to subscribe at least 500000 people within a period of 6 months. 
+
+Who will take these actions?
+Ngalim Franklin N, Founder/Executive Director shall be the Project Coordinator whereas The Greens and Y'ems Group Inc. shall do the work. Y'ems Group Inc. shall create the website and app while The Greens shall provide information needed to update the website and app.
+
+Where will these actions be taken?
+The Bamenda Highlands of Cameroon, Africa.
+
+The Bamenda Highlands lie at the northern end of the Cameroon Mountain chain, and their montane forests are recognised as a discrete biome by WWF. As a result of local variations in rainfall, montane forest in the Bamenda Highlands begins at about 2000 m to 2950 m (compared to the much wetter Mt Cameroon where it is found above 800 m). Mount Oku supports forest up to 3000 m - the highest montane forest in West Africa. The remaining montane forest of the Bamenda Highlands is highly fragmented.  Whilst many of the remaining forest sites are quite small, they are, nevertheless, large enough to provide viable populations of species from many taxa, especially insects, plants, reptiles and amphibians, small mammals and many bird species.
+
+The project targets the Kejodsam, Kilum-Ijim, Tubah Upland, Massif du Mbam, Bafut Ngemba, Bali Ngemba, Bamboutos, Massif du Nkogam, Mbapit, Zang Tabi, Ndaamenguia, Fokwe,Bangou, Col de Bana and Oshie Afromontane forests of the Bamenda Highlands of Cameroon
+
+In addition, specify the country or countries where these actions will be taken.
+Cameroon
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+The project is a climate friendly project that shall reinforce the implementation of the different laws and policies that halt deforestation and biodiversity loss as well as educate the people about the role of biodiversity in mitigating climate change.
+
+The project shall educate more than one million people of the Bamenda Highlands forests area about climate change and biodiversity conservation. This will greatly reduce human induced causes of climate change and greatly reduce the amount of green house gases these people emit into the atmosphere.
+
+Secondly, the project is going to significantly drop bushfires and deforestation as well as other illegal environmental activities that accelerate biodiversity loss and climate change. These activities are expected to drop by at least 60% within the first five years of implementation of the project.
+
+Moreover, the project is going to help conserve more than 3000 hectares of afromontane forests of the Bamenda Highlands of Cameroon which whill help to sequestrate thousands of tons of green house gases from the atmosphere, hence mitigate climate change and promote biodiversity conservation.
+
+What are other key benefits?
+The project is going to greatly promote biodiversity conservation of the different afromontane species of the Bamenda Highlands forests as well as protect the watersheds of the Bamenda Highlands of the North West Region of Cameroon.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+1 - Creating an android play store account and an Apple play store account(registration) : $250.
+
+2 – Hosting costs (on a web server) : $350.
+
+3 – Development of a  web interface from which elements within the application can be added (did you know, etc…) and website: $1250.
+
+4 – Development of the mobile application: $1700.
+
+5 - Updating of the App with information about the different endangered and endemic species of the Bamenda Highlands forests, detailed information about the different conservation laws and policies, more than 250 environmental songs, dramas and poems, information about the different afromontane forests of the ecoregion etc: $2000
+
+6 - Printing of App posters and flyers - $1000.
+
+7 - Organization of 7 Divisional workshops in the 7 Divisions of the Bamenda Highlands of the North West Region, to train and subscribe people of the North West Region on how to use the app: $2800.
+
+Timeline
+The project will reduce hunting and poaching of wildlife species by at least 75 percent. It will also greatly reduce deforestation resulting to fewer habitats for wildlife and generally put an end to illegal environmental practices taking place around the Bamenda Highlands Forest areas.
+
+The impact on wildlife will be measured by a significant decrease in the hunting/poaching and sale of wildlife species in the communities, a significant drop in deforestation and bush fires and zero farming and grazing in forest areas. This information shall be provided by the Ecoguards of the different afromontane forests. On the other hand, the project will increase access to information and knowledge about the rich biodiversity of the Bamenda Highlands Forests, hence increase awareness about the species as well as provide a platform were people can learn about their biodiversity and be motivated to take action in the conservation of their biological diversity by reporting any illegal environmental activity taking place in their forests. It shall educate and empower more than 1000000  people to become environmental watchdogs of their forests.
+
+The project shall also greatly increase environmental/conservation law enforcement in the Bamenda Highlands Forests.
+
+The impact shall be measured from the more than 1000000 people who will subscribe and use the app. The number of illegal environmental practices reported via the app shall also serve as a great tool for evaluation of the project.
+
+The app shall also serve as a great resource for tourists and researchers who want to learn about the rich biodiversity of the Bamenda Highlands forests. This shall be measured by the number of tourists and researchers who will subscribe and use the app as well as the number of new tourists and researchers who will visit the various forests of the Bamenda Highlands of the North West Region

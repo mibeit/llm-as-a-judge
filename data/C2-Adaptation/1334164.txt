@@ -1,0 +1,225 @@
+Proposal number: 1334164
+
+Proposal: Urban-Rural Network Tool for successfully integrating companies and communities
+
+Summary
+At the advent of climate change, we see now the great vulnerability of our current system. In developing countries, rural communities are particularly vulnerable due to lack of infrastructure, and visibility.
+
+Because of this we developed the Urban-Rural Network Tool. Using industrial design methodologies we have developed a tool that serves as a guide for the design and development of a system approach/solution/network that allows both business and community to mutually benefit and to face economic and environmental challenges. It is a guide that helps identify and solve key issues in four main areas:
+
+Data Management (ex. Having a record keeping system that helps quantify losses for both parties in natural disasters)
+
+Product Quality (ex. Solutions for assuring organic and sustainable procedures and preventive measures to keep accessibility to the place in case of natural disasters)
+
+Parallel Economic Activities (ex. Develop tourism so that the community has an additional source of income, develops a basic needs infrastructure and thus makes it more resilient to environmental risks, which altogether also contributes to the building of image for the company related to the community)
+
+Communication Networks (ex. Sharing the experiences and information about the community to the company's urban consumers expands the brand and creates empathy, in case of disaster, urban mobilization for donations and support could be organized)
+
+The U-R Network Tool is meant to be used and replicated in any context with a similar setting where urban business and rural communities are working or could work together. Our proposal is not a reactive model, but a sustainable one. Its final goal is to foment good practices and, by doing so, create economic stability, even in adverse conditions. Finally, we plan to continue the development of this tool by expanding its use, and by making it available for free through various networks and associations of universities, organizations, institutions, etc.
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+This year in Peru we’ve had one of the most devastating climate phenomenon of our recent history. During the summer of 2017, the sudden change in sea currents caused the weather of half the country to practically revert. This phenomenon, known as El Niño, is caused by a change in the sea currents. This drastically alters the weather of the northern part of the country, and, quite possibly, the entire world. Torrential rains caused landslides, flash floods (known as huaycos), the spread of plagues and disease, and the loss of life.
+
+All of this was caused by a small, semi-seasonal change of weather. Our infrastructure was not prepared for this, from housing to the effectiveness of government action. As a country, our economy struggled and has been stagnant for the last months. The price of several food products has considerably risen as farmers have been greatly affected by the disaster. Entire rural communities have been displaced, others have seen their economic means of survival affected by this.
+
+In the city, business in the short term is affected by the rising cost of these primary goods. Over time, be it because of trend o true change of conscience, the average consumer’s needs are shifting. It is a clear trend here in Peru, consumers are increasingly concerned about the origin of their products, the sustainability of its production and its authenticity. And as new small businesses are formed to satisfy this demand, old established business are constantly searching for a way into this emerging market.
+
+Business usually lacks the experience needed to successfully integrate into this market. It’s not easy to develop a successful business model with rural communities. Currently there are companies that want to invest, or that already have a relationship, with these communities. But it is from an external, superficial point of view, there is no active involvement. It is a one-sided relationship, for economic incentives (tax deductions) and social advertisement.
+
+We see now the great vulnerability of our current system. The lack of a proper infrastructure leaves the already fragile rural communities in a more vulnerable condition, and businesses with no clear incentives.
+
+Because of this we propose the creation of a tool that serves as a guide for the design and development of a system that integrates companies and communities to overcome these issues. If an urban-rural enterprise is to be successful and sustainable it is necessary for the community and the company to be equally involved. This means establishing mutually beneficial goals and working together towards them. Also, the creation of a mutual support infrastructure will be crucial for adapting to climate change, especially in the context of rural settings. 
+
+----------------------------------------------------------
+
+We propose the use and promotion of our methodological tool:
+
+
+
+GENERAL OVERVIEW GRAPH The tool structure involves four opportunity areas: Product Quality, Communication Networks, Parallel Economic Activities, and Data Management. Companies and communities, through an Industrial Designer, will use the tool to gain mutual benefits and to improve the quality of life of urban and rural populations.
+
+
+
+GENERAL PROCESS GRAPH   The general process is made up of two major phases:
+
+The first one is a general research and analysis of the business, the community and their relationship. It starts with discovering all the issues that affect the system. Then organize, and analyse that data to generate a brief for each one of the four areas
+In the second phase we expand our understanding of the four areas, identify major problems, generate ideas and define solutions.
+ 
+
+PRODUCT QUALITY
+
+The goal of this area is to ensure that the product quality is up to the regulatory and business standards and meets/exceeds the consumer's expectations.
+
+
+
+AREA OVERVIEW   To understand the scope and makeup of the area we have to look at the value chain of the business. Product Quality starts even before the suppliers deliver to the business. Suppliers have to meet organic standards of quality and production to ensure the end product quality. Since the supplier of the primary good is the community, the business has to work with them to achieve this. Then to mobilize the raw materials to the factory/business there are factors like gathering point, transport and material handling. Inside the factory, asides from the transformative operations of the raw material, we have control points, record keeping and storage. In the distribution we have also transport and product handling. Finally the products arrive to the sell point.
+
+
+
+PROCESS OVERVIEW   Now that we have mapped the area we can understand the process that follows, starting from the brief formed during the first phase.
+
+
+
+ex. STEP 1 - DEBRIEFING The goal of this step is to create a map of research topics relevant to the brief. This will be the foundation from which to start researching and organizing data.To make things easier we have already identified the general topics, relevant to product quality, that are common in almost all business – communities organizations. These are the starting point. Using the diagram as a guide, you can start charting the different research topics and its subcategories. Because this is a general chart, it is necessary to adequate and expand these topics according to the particularities of the organization and of the opportunity area (problematic).
+
+DATA MANAGEMENT
+
+The aim of this area is to structure the company´s processes  to improve the flow of  information flow between the internal and external areas.
+
+
+
+AREA OVERVIEW This structure will allow, in case of vulnerable situations (natural disaster), to keep the system in good working order and evaluate prevention plans or risks depending on the information it produces.
+
+
+
+PROCESS OVERVIEW
+
+
+
+ex. STEP 1 - DE-BRIEFING . In the area of data management are presented those variables that have to be contemplated during the investigation: context, users, type of data and risk . Additionally, within each of these areas are presented variables that must necessarily be considered at the time of the investigation.
+
+PARALLEL ECONOMIC ACTIVITY
+
+The goal of this area is develop or redefine the infrastructure of the economic activity that have to integrate the subsystems like health, education, etc at the total community organization.
+
+
+
+AREA OVERVIEW  This area contemplates the three entities which will be involved in all the process.They are the community who will be the principal benefited; the company who supports the proposal  through subsidizing, motivating, promoting the results; and the government or a consultancy  who will provide the supervision and probably give economic support. As this new economic activity is arising, is necessary to create a specific organization to support all this system. It will be responsible for the administration, logistics and other activities that will be important to assure the continuity of the project. As a result, the new parallel economic activity will benefit to the community and company in individual and grupal levels.
+
+
+
+PROCESS OVERVIEW  
+
+
+
+ex. STEP 6 - EVALUATION The aim of this step is to use filters to evaluate the viability and scope of the ideas proposed in step 5 by considering the opportunities and problematics. In this evaluation, the perspective of the three entities  (community, government and company) involved in the project are considered to work in their reality. The community has to be convinced and get involved to realize the necessary actions for the implementation of the new economic activity. In order to achieve this, the community has to go through an analysis and projection phase to understand their perspective towards their future. The government will be in charge of the supervision of the development and implementation of the project to ensure the sustainability of it. The company has the incentive to provide economical support, networking and promotion channels to the community project because it will be benefited in different aspects.
+
+COMMUNICATION  NETWORK 
+
+The goal of this area is to generate a brand identity that supports the community and the company, and is used as broadcast channel in cases such as natural disasters were both parties need mutual help.
+
+
+
+AREA OVERVIEW Is important to understand that the broadcast channels are a fundamental part of the tool because they will located the means by which the company will be able to show, keep and develop the projects with the community and to show the connection between community and company. So in case of natural disasters the support can be received quickly and safely.
+
+The products and services generated by the community and the company are distributed in such as a way that the consumers can understand the whole production process valuing the work of the community and the support of the company.
+
+
+
+PROCESS OVERVIEW
+
+
+
+ex. STEP 3 - INSIGHT OVERVIEW: The initial information that was received is grouped in initial areas to be analyzed by various research tools; one or more tools are used if necessary in order to obtain insight, real needs which are re-grouped in more general areas to become later in areas of opportunity to develop.
+
+ 
+
+Who will take these actions?
+U-R Network Tool is designed to be replicable, implemented and monitored in different places worldwide. It is used by three agents: developer, community and company. The developer could be a design consultancy, NGOs or an entity of the government which its role consists on design and develop a system based on the mutual benefit among rural communities and companies through the use of the U-R Network Tool.
+
+The developer entity works with the community and company to analyze the actual situation and develop solutions which can be implemented on their reality. The system development (analysis, design and implementation) performs through a constant interaction among these three entities. Finally, the community and the company are the agents who are in charge on the system continuity and maintenance.
+
+On a global scale, as a first strategy, this tool will be shared through learning networks and design school communities for being used by them. By this, they could take the role as the developer entity and implement the tool to improve their own realities to share them with the network.
+
+Where will these actions be taken?
+Any worldwide context where there is interaction between rural communities and urban business. This gives way to mutual benefit by linking each other in the same value chain. For example, in the food industry business are benefited from this type of relationship because they can sell organic products with high added value for its authenticity. At the same time the communities benefit from a sustainable economic activity. This type of setting can be found in many places around the world, specially in developing countries.
+
+Currently the tool is being developed and tested by our team in Peru.
+
+In addition, specify the country or countries where these actions will be taken.
+Peru
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+To face climate change this tool provides the community with a model of adaptation infrastructure. It has a prevention and action mechanism to deal with risks. These may be human mistake, system failure and also environmental risks caused by climate change (torrential rains, floods, droughts, etc).
+
+Our model is forged from an understanding in the mutual benefit between community and business. Because to progress they need each other. One side business needs the community to obtain the added value of their organic process and cultural identity. And the communities need economic opportunities.
+
+Data Management
+
+The company and community will be connected by a network that allows them to register, store and visualize information about the families that conform the community.
+
+So in case of a natural disaster, it will be possible to have quantifiable information about the damages of the community and the speed of recovery. Using this data it is possible to design prevention strategies.
+
+Product Quality:
+
+Because the production is directly linked with the community activities, it is necessary to safeguard the standard procedures in the different stages of the process from risks. For example, a critical route used to transport products to the city is blocked due to a flash flood. And because this was anticipated a contingency plan and preventive measures are put into action.
+
+Communication network:
+
+In case of natural disasters, there is a system that contemplates a communication network capable of ensuring the flow of information between stakeholders through an internal and external system. The first system has a prevention infrastructure that guarantees the communication network works during emergency situations. Thus the community has a way to inform their current situation among them and coordinate and join forces. Also, a communication device could be provided to them such as radio, cell phones, etc.
+
+The external system can be used to communicate the situation to urban consumers. This way a support campaign can be organized to gather supplies and monetary donations for the rural communities. For instance, the company can place a donation box in their sell points so that customers can contribute.
+
+Parallel economic activities:
+
+Through this stage, the community can manage their income from other economic activities and create an emergency relief fund. In case of a natural disaster the community can use this fund to take emergency actions. Part of these funds may also be disposed to take preventive measures like acquiring vaccines, improving infrastructure, implementing clinics, etc.
+
+The impact of the tool will be greater as the model is applied and replicated.
+
+What are other key benefits?
+Additional benefits of the U-R tool can be categorized in four dimensions: economic, well being, sustainability and cultural.
+
+Economy:
+
+As more companies and communities apply this tool to design and implement their network systems around the world, this will cause a positive impact over the general economic flow. Changing from a centralized urban ecosystem, to a more decentralized one, allowing for a better distribution of wealth. Moreover, because the demand for organic products continuously increases among consumers in urban areas, more communities and their economic activities will benefit.
+
+Well being:
+
+As organic and sustainable products become more available at affordable prices, more people in urban areas can have access to healthier lifestyles. Aligned with this, parallel economic activities in the communities such as tourism would allow people in urban areas to have a wider range of healthy activities to perform such as experiential tourism, trekking, and others.
+
+Moreover, the communities’ well being and infrastructure would be significantly improved not only by an increase in their income but also by bringing them new opportunities that allow them to develop and aspire to grow inside their communities. This will reduce the migration to the cities that causes separated families, loss of identity and loss of workforce.
+
+Sustainability:
+
+To be effective, the system cannot be at odds with the environment and the context in which it exists. The tool focuses on this by contemplating multiple contextual factors. These are analyzed in order to align the solutions to critical factors that will ensure the longevity of the relationship, minimize its impact on the environment and the community, and the promotion of a sustainable lifestyle.
+
+The creation of sustainable processes inside the company (waste management, fewer emissions) preserves the contextual environment of the communities. And with a business model that is based on the principle of the circular economy, sustainable and ecological processes, eco-friendly materials, waste management and other considerations are assured.
+
+Culture:
+
+The tool will help local cultures to have more visibility which will contribute to the national collective identity. By this intercultural benefit more people from urban areas will have access to rural areas and get involved with diverse realities.
+
+ 
+
+Example of Application of the Urban-Rural Network Tool in a Real Scenario:
+
+Company: Vacas Felices (Happy Cows)
+
+Community: Inhabitants From The Community of Ayas (Rural Lima, Peru)
+
+Developer: Industrial Design, Pontifical Catholic University of Peru
+
+Example of Application Video
+
+Costs/Challenges
+What are the proposal’s projected costs?
+This is an open sourced/free to use tool, and we don’t estimate any significant cost to developing it. Our main challenge is the promotion and expansion of the tool. It is necessary for others to use it. As in any design process our product has to be refined and perfected. The best way to achieve this is to use it, and help other use it. For this to happen we need to make our tool known to possible users, and gain their trust by demonstrating its reliability. We plan to share it with design schools and communities, such as Lensin International and WDO.
+
+ 
+
+Timeline
+
+
+We are planning to finish building the tool in the next 2 months, after that, in the following 6 months, the tool will be promoted to be used within the national and international networks in which the Pontifical Catholic University of Peru is involved. After 6 months, we expect to have been able to build a network chain that will continuously to expand and promote the tool. Implementation of the tool by any university or organization around the world could take a year or two depending on the particular characteristics of each context. 
+
+In the short term (1-15 years) we expect to see a growing number of community - company business models/systems, helping to bring economic stability to rural communities while bringing healthier lifestyles to urban populations.
+
+In the medium term (15-50 years) we expect to see a shift on the wealth distribution towards a more balanced one, and a higher articulation between rural and urban systems and activities.
+
+At a long-term perspective (50-100 years) we expect to see the appearance of hybrid living environments between rural and urban settings, we expect to see a reduction of the need to migrate from rural areas to the city in the seek of better life quality around the world. We expect to see multiple rural-urban networks at a global scale that are resilient to climate change, that perform ecological, sustainable and environmentally responsible activities in all aspects of human action, and that tangibly improve well being across nations.

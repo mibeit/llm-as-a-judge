@@ -1,0 +1,161 @@
+Proposal number: 1334030
+
+Proposal: Scaling the Capacity for Testing and Reporting Solar Cooker Performance
+
+Summary
+According to the World Health Organization, for the approximately three billion people cooking food over biomass combustion stoves, smoke particulates from cooking indoors is linked to some 4.3 million premature deaths annually worldwide and is having negative impact on the health of people, mostly women and children in vulnerable populations. Viable clean cooking options are existing solar cooking technologies that convert solar energy directly into heat energy for clean sustainable cooking. Three basic types of solar cookers are the reflective-panel, box oven and parabolic reflector. Solar cookers collect solar energy with reflectors, absorb solar energy with black surfaces to transform solar energy to heat energy, and retain heat using insulation.
+
+Solar Cookers International (SCI) is a non-profit organization and the leader and convener of the solar cooking sector. SCI is an independent and brand-agnostic international agency that responded to the solar cooking sector’s request for an independent organization to develop a platform for evaluating solar cookers according to an existing testing standard, the ASAE S580.1 protocol for Testing and Reporting Solar Cooker Performance – this protocol provides a single power rating (in Watts) for each solar cooker tested. SCI subsequently developed a performance evaluation process (PEP) for testing the thermal performance of solar cookers.
+
+The Global Alliance for Clean Cookstoves worked with partners to develop a suite of lab and field tests for evaluating combustion-based, fuel-efficient stoves at Regional Testing and Knowledge Centers (RTKCs) worldwide. In developing PEP, SCI has established a standard testing platform and is now listed as an RTKC for testing no-emissions solar cookers. Through this proposal, SCI is seeking additional funding to construct more PEP test stations for other RTKCs to increase the capacity for testing solar cookers worldwide.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+The plan: Equip clean cookstove testing centers with test stations designed and built in-house for determining solar cooker performance with a plan for long-term project sustainability.
+
+Theoretical framework for proposed actions:
+
+Several approaches exist for evaluating solar cookers, including: 1) the ASAE S580.1 protocol for testing and reporting solar cooker performance (American Society of Agricultural and Biological Engineers, 2013); 2) the Indian Standard: Solar Cooker - Box Type - Specification (Bureau of Indian Standards, 2000); and 3) the Focusing Solar Cooker standard (Ministry of Agriculture of the People's Republic of China, 2003). After reviewing those approaches, SCI chose to use the ASAE S580.1 protocol as a single international standard for testing solar cookers. Further rationale for this selection included: the protocol has an established history initiated in January 1997; it is the protocol referenced by the International Organization for Standardization (ISO) as a normative reference in the ISO/TC 285 standard for clean cookstoves and clean cooking solutions; the solar cooking sector agreed that it was the most suitable protocol for evaluating solar cookers (6th SCI World Conference, January 2017), and it has traction and recognition at The Global Alliance for Clean Cookstoves.
+
+The ASAE testing protocol for evaluating solar cookers provides a single measure of performance: the standard cooking power, Ps(50), expressed in Watts, for a cooking temperature 50 °C above ambient temperature. Cooking power is calculated from measured values of incident solar radiation and measurements of temperature change in an amount of water proportional to a cooker’s intercept area (7000 g/m2). Results are normalized using incident solar radiation, allowing comparable results independent of testing date and location. SCI added several procedural steps in applying the ASAE protocol to improve solar cooker evaluations. These steps are described further in the methodology section below and include using: an automated data acquisition platform, horizontal pyranometer positioning, on-board calculations, a thermocouple calibration routine, a trigonometric correction of the solar cooker intercept area, standardized cookware, a feed-through thermocouple, and a level surface.
+
+To summarize the ASAE S580.1 protocol, it first calculates the cooking power for a solar cooker using the following equation, where Pi is the cooking power (W) for a 10 minute interval i; T2 is the final water temperature (°C); T1 is the initial temperature (°C); M is water mass (kg); and Cv is heat capacity of water (4186 J/[kg °C]): Pi = (T2-T1)MCv/600.
+
+Adjusted cooking power, Ps, for each 10-minute interval is corrected to a standard insolation of 700 W/m2 by multiplying cooking power Pi by 700 and dividing by the interval average insolation Ii: Ps = Pi (700/Ii).
+
+Standard cooking power, Ps(50) (W), the single measure of performance for a solar cooker, is determined where a linear regression fit to adjusted cooking power values (from no fewer than 30 ten-minute observations, and plotted with respect to temperature above ambient) crosses the temperature-difference value of 50 °C.
+
+Methodology
+
+Along with a common standard there is a need for a common automated test platform that would test to the standard. Having a common test platform with common instrumentation and post-processing routines removes variation introduced when different test platforms are used. A common test platform facilitates consistent data collection and analysis. Additional pre-requisites are that the instrumentation is robust, relatively inexpensive and open source. Robust: it is portable (fits inside carry-on luggage), easy to set up, powered at the test site, and able to withstand most test environments. Inexpensive and open source: adhering to the entrepreneurial spirit, PEP design plans are available at the SCI website allowing users to assemble their own test station with off-the-shelve components, including Arduino electronics, and requiring minimal software programing skills. SCI has created such test stations that: 1) apply the ASAE S580.1 protocol for evaluating solar cookers, and 2) satisfy all the design pre-requisites.
+
+Hardware
+
+After considering the cost advantages from a do-it-yourself approach, SCI built two PEP test stations using commercially-available components with a total parts cost of less than 1,000 USD. Test station hardware includes an Arduino Mega open-source electronics platform, liquid crystal display, three type K thermocouples, an anemometer (Adafruit, New York, New York, USA), and an SP-215 amplified pyranometer (Apogee Instruments, Inc., Logan, Utah, USA). Electronics are housed in a weather-proof enclosure and data are stored on a removable SD card. The pyranometer mounts to a horizontal, bubble-leveled plane, as suggested by the manufacturer. While this positioning differs from the sun-angle alignment indicated in the ASAE protocol, trigonometric corrections to SCI solar irradiance measurements give accurate results within instrument tolerance, for solar irradiance incident on solar cookers being tested. The system is expandable and can accommodate up to eight thermocouples, a compass, a global positioning system for location and altitude information, and Bluetooth connectivity.
+
+Software
+
+Control software for the PEP testing station was written in-house using C++. The software accepts user input, such as duration of evaluation, duration of observation intervals, average sun elevation during the test, and water load values listed in a config.txt file. This approach automates data acquisition from all sensors, and performs on-board calculations to analyze data using the ASAE S580.1 protocol. The software uses data smoothing and writes data output as a space delimited text file. It also applies a 2-point calibration correction to the thermocouple sensor channels to ensure accurate temperature readings. After a solar cooker evaluation, the user can open the resulting data file into Microsoft Excel, for example, to plot graphs to share with manufacturers and customers.
+
+Testing
+
+SCI’s PEP requires several set-up steps. First, since the water load for a PEP test is proportional to the intercept area of a solar cooker, one needs to determine that area before a test begins. If the maximum intercept area and the elevation angle for the solar cooker are known, one can apply a trigonometric correction for the average sun elevation angle to determine the intercept area of the solar cooker for a specific test date and location. When those values are unknown, one can use a photographic approach to calculate the applicable aperture area of a solar cooker for a specific sun elevation angle (Müller, 2014). A photographic approach can also be used to determine the maximum intercept area. After determining the solar cooker elevation angle using the relationship, elevation angle = arcsin (footprint / hypotenuse), photograph the solar cooker from a reasonable distance (to minimize spatial distortions) along a line parallel to the solar cooker elevation angle. Then, load the picture into a computer program, such as Microsoft PowerPoint, where one can superimpose and tile geometric shapes (with areas scaled according to size of cooker) over the entire intercept area and sum the areas of those shapes to obtain the maximum intercept area.
+
+Some solar cookers include cookware and others do not. A constant type of cookware can reduce variations in PEP results due to cookware material. SCI chose Graniteware as standard cookware for PEP for solar cookers that do not include cookware. Graniteware is commonly available worldwide and often used for solar cooking. SCI testing centers in California and New York both have a set of Graniteware pots and select a best match of pot size to the amount of water needed for the PEP. The SCI testing centers favor using a feed-through thermocouple probe mounted to a hole drilled near the center of a cookware lid to reduce thermal leakage during a test. Further steps required for a PEP test are to load 7000 grams of water per square meter intercept area. One should use a scale to weigh the water load to the nearest gram. Also, the PEP test operator should use a leveling device to ensure a level surface for the test and use a consistent tracking time interval, such as 20 minutes.
+
+Findings and discussion
+
+Preliminary tests using the SCI PEP testing stations at SCI testing centers in California, USA and in New York, USA indicated that test results are repeatable with close correlation between the two locations, thus validating the test platform. During spring and summer of 2017, SCI applied the PEP testing stations at SCI testing centers in New York, USA and in California, USA for preliminary trials for the three basic types of solar cookers: reflective-panel, box oven, and parabolic reflector. In addition to measuring wattage, the preliminary results suggest design-based aspects that improve performance when: 1) using a larger collector, 2) using larger cookware, and 3) using a clamshell of two 4-quart Pyrex bowls instead of a plastic bag as a greenhouse.
+
+Preliminary SCI PEP results indicate the standard cooking power (in Watts) for each solar cooker tested and a general trend is that standard cooking power tends to scale with intercept area. These preliminary results also suggest these average standard cooking powers per solar cooker type: Reflective-panel (39 W); Box Oven (56 W); and Parabolic Reflector (289 W). Applying these average standard cooking powers per solar cooker type to SCI’s known global solar cooker distribution suggests an installed solar-thermal cooking capacity of at least 377 MW. While this figure does not include distributions not reported to SCI, or the contribution from institutional solar-cooking systems, yet, we can now interpret SCI’s global distribution data as a Wattage map of installed solar-thermal cooking capacity. This novel approach to describing installed capacity for solar cookers in Watts has the potential to attract stakeholders with the ability to scale renewable-energy projects.
+
+SCI next plans to equip additional testing centers with PEP test stations, starting with two international testing centers – Center for Rural Technology/Nepal and Muni Seva Ashram/India – with resources to evaluate solar cookers locally. This will scale the capacity for testing and reporting solar cooker performance, which, in turn, will expedite testing of regional solar cooker designs. Through this proposal, SCI seeks an injection of funding to construct more PEP test stations to accelerate the capacity for testing solar cookers worldwide. Once established, this project will operate on fees collected from manufacturers and will deliver: product evaluation documents; publication of results; and marketing of a PEP logo rating system to manufacturers and decision makers.
+
+Who will take these actions?
+Leading the project is Alan Bigelow, Ph.D. Science Director, SCI UN Representative. A physicist, he began solar cooking in 2008 and has led solar cooking workshops locally in New York and internationally in India, Nepal and Haiti. He leads testing and performance evaluation programs at Solar Cookers International and advocates for solar-thermal cooking at the United Nations in New York. He participated in a solar expedition in Nepal where during nine days at high altitude all meals were prepared using portable solar cookers.
+
+Dr. Bigelow is a Global Alliance for Clean Cooking Forum Scholarship winner and traveled to New Delhi in October 2017 to present solar cooking to the clean cookstove sector. He also traveled to Haiti to advise government leaders making decisions about the country's future plans for its fuel market.
+
+Prior to joining Solar Cookers International, Alan had a 15-year physics research career at Columbia University Medical Center developing innovative technology for radiation-biology studies. Alan received a Ph.D. in Physics in 2000. He is also an accomplished musician and co-founded a solar-powered band that combines science and music to raise awareness and educate about environmental issues and solutions. He has authored numerous peer-reviewed journal articles and is listed as an inventor on a patent for a safe sterilization method that uses a specific range of ultraviolet light to selectively damage bacteria and viruses while not harming human cells. He is a passionate solar chef and is often solar cooking at home or in public. Languages: English, French, Thai, Hindi. - See more at: http://www.solarcookers.org/about/people/alan-bigelow/#sthash.6O2X0NYD.dpuf
+
+Where will these actions be taken?
+SCI PEP test stations are portable and designed for use in any location suitable for solar energy use. The testing protocol applies independent of location and solar irradiation level because data are normalized according to incident solar radiation measured during evaluations.
+
+In the short term, our goal is that as additional testing stations are replicated for several dozen testing centers associated with the Global Alliance for Clean Cookstoves (GACC), solar cookers will be evaluated, benefiting both manufacturers and customers. Long term impact from thermal-performance evaluations of solar cookers is identification of most appropriate cookers for the three billion people cooking with biomass combustion stoves, particularly in fuel-challenged areas that also have abundant solar resources
+
+The SCI PEP testing station for evaluating solar cookers has been approved by the solar cooking sector through results vetted at the 6th SCI World Conference in India. Next, a pilot project to validate PEP protocol will use specific solar cookers and compare PEP results from four locations: SCI/Sacramento, SCI/New York, Center for Rural Technology/Nepal and Muni Seva Ashram/India. After the pilot project, SCI intends to equip other international testing centers with resources to evaluate solar cookers. SCI will lead this effort by: overseeing PEP validation; creating product evaluation documents; publishing results at key stages of development; and marketing the PEP logo rating system to manufacturers, retailers, United Nations agencies, etc.
+
+SCI has demonstrated in-house replicability by building two low-cost PEP test stations using commercially-available, Arduino-based electronics and sensors for temperature, wind speed and solar radiation, which are available worldwide through online shops. Plans for upgrades include Bluetooth connectivity and GPS.
+
+SCI has published the assembly manual as open-source and anyone with expertise in soldering should be able to assemble a testing station in three weeks. To expedite PEP test station replication and boost the expansion of the capacity for testing solar cookers, SCI is seeking funding to support replication of test stations. While parts for each system cost under $1000, the labor cost for each system is approximately an additional $4000. Uniformity in PEP test stations is encouraged so that PEP results can consistently suggest best technology for each person, environment, culture and geography. PEP results can suggest best design approaches using locally-sourced materials.
+
+In addition, specify the country or countries where these actions will be taken.
+India
+
+Country 2
+Nepal
+
+Country 3
+Uganda
+
+Country 4
+Tanzania
+
+Country 5
+Haiti
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+Thanks to Agua Fund, Inc.’s support, SCI has significantly strengthened organization, collaboration, and communication of the solar cooking sector to facilitate data collection and sharing of global data on solar cooking use and impact. 
+
+Solar cooking has been proven to be a powerful solution with many positive impacts on human lives.  For example, using the Solar Cooking Adoption and Impact Survey in Tanzania shows that over 10 months, 30 women together saved
+
+694 bags crop waste (19% savings)
+566 kgs charcoal (28% savings)
+1,955 bundles of wood (24% savings)
+486 liters kerosene (25% savings)
+60 liters LPG (29% savings)
+5,449,852 TZS fuel expense savings (equivalent to $2,438 USD) (25% savings)
+All by using solar cookers
+ 
+
+Predictions for savings for 10 years (estimated life span of those solar cookers) for the 30 women collectively are:
+
+8,328 bags crop waste
+6,792 kgs charcoal
+23,458 bundles wood
+5,826 liters kerosene
+720 liters LPG
+$29,261
+306 estimated ton of C02 emissions reduced.
+ 
+
+These results inform best project design for improved outcomes.  In addition, it’s motivating for a group adopting a new technology to be able to see the collective impact on their lives and the environment in the present and long term. 
+
+These results are a powerful example of the positive impact that solar cooking has on people’s lives and how important the ability to quantify it is.  On a global scale, SCI has identified over 3.1 million solar cookers.  Each solar cooker can save one ton of fuel wood annually and reduce carbon dioxide emissions by approximately one and a half tons per year. These 3.1 million solar cookers directly empower 11 million people with cleaner air; longer lives (especially for women and children); safe water to drink; reduced respiratory, eye, and water borne diseases; fewer burns; more time for school and income generation; improved agricultural outputs; increased safety; and more financial resources for food, health care, and school expenses.  It is estimated that these solar cookers will have reduced carbon dioxide emissions by 16-45 million tons over the course of their lifespan.  That is roughly equivalent to planting 376-1,058 million trees.
+
+These quantifiable results and impacts are especially important when advocating on a global scale with government leaders and stakeholders.  They help everyone understand the importance and value of supporting this long term, sustainable solution.  Solar cooking contributes towards achieving the 17 United Nations SDGs.
+
+In addition to participation with the United Nations, SCI will publish data and coordinate with the World Health Organization on data collection for Household Energy Use and Sustainable Development Goals (SDGs), the Global Alliance for Clean Cookstoves, The AGUA Fund, American Solar Energy Society (ASES), International Solar Energy Society (ISES) and any individuals, organizations or universities that can help us increase sector impact.
+
+What are other key benefits?
+The most desirable outcomes match one key goal on your website:
+
+Providing greater access to energy security, energy equity, and energy supply is crucial for the developing world in order to address poverty alleviation.
+ 
+
+In one example, SCI and partners taught 30 Tanzanian women using solar box cookers in 2016 in a pilot project to measure fuel and financial savings. They used 19% less crop waste, 28% less charcoal, 24% fewer wood bundles, 25% less kerosene, 29% less liquid petroleum gas. The women spent US$2438 less on fuel, a 25% saving on household budgets. Smoke-related health problems fell dramatically. 100% of those women now recommend solar cooking. SCI is planning on replicating this project with an additional 60 women.
+
+And the effects of this project don’t stop with these villagers or their environments. The impact will be felt globally as SCI publishes this data so that others can see the far-reaching impact of solar cooking on the world’s poorest residents. For many years, solar cooking has been successfully implemented in some of the globes poorest communities. But research data was not available. A key element of this pilot project is the ability to prove to skeptical audiences that solar cooking is working as a scalable and brilliant solution to a host of issues facing the world today.
+
+Eliminating household smoke and related injuries of cooking over open flame added to environmental impacts of less deforestation and fewer emissions of smoke, black carbon and greenhouse gases, is the win-win solution solar thermal cooking offers. Solar cooking is free, sustainable and a no-emission energy source.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+We do not propose any actions that would have negative economic impacts (or costs on the environment). Projects are implemented after we have obtained partner and/or funding.
+
+Negative side effects are not anticipated, as this data-driven process only enhances the science of solar cooking options and choices of end users.
+
+The costs for building and installing an SCI PEP test station are a summation of the cost for parts (~$1000/unit), the cost for labor (~$4000/unit), the cost for delivery and for training (depends on travel distance and duration of training, typically three days).
+
+Timeline
+One solar cooker represents potential fuel savings of one tonne of wood per year and a savings of 1.6 tons of CO2 emission per year, reserving our habitats.
+
+If half of the people currently cooking over open fires would solar cook a quarter of their meals, then it could save our world $200 billion a year in health- related costs.
+
+And the savings rise exponentially as years go by.
+
+SCI knows of more than 3 million solar cookers that could over their average lifetime reduce carbon dioxide emissions by an estimated 16-45 million tons.
+
+Currently existing solar cookers may save between $256 million -$1,305 million globally because of reduced CO2 emissions. This estimate is based on the social cost per ton of carbon dioxide on agricultural production, time missed from work due to health issues, flood risks, etc. as calculated at https://19january2017snapshot.epa.gov/climatechange/social-cost-carbon_.html
+
+Not only is solar cooking a favored sustainable activity, solar cooking helps achieve all 17 Sustainable Development Goals.
+
+Timeline for building an SCI PEP test station along with delivery and training:
+
+Buy parts / lead time (1 month)
+Assembly (1 month)
+Delivery (~1 day, depending on location)
+Training (3 days)

@@ -1,0 +1,157 @@
+Proposal number: 1334134
+
+Proposal: HELIAC Solar Cooker - Inexpensive, But Efficient
+
+Summary
+Background
+
+Heliac has developed a mass-producible, inexpensive lens that focuses sunlight much as a large magnifying glass.
+
+Based on the lens we have built a solar cooker that should be able to reach a bill of material so low that the final market price should end below $80. Even if the lens needs to be replaced every 1-2 years at a cost of $10-15, this prices the cooker on par with the some of the cheaper cookers in the market today. 
+
+The cooker boils a liter of water in 10-13 minutes. This makes it as efficient as the best in class, which are sold at prices above $500 bringing those cookers out of reach for the people in need.
+
+Users can use their existing pots and pans for the cooker. Highest efficiency is obtained using pots with the right diameter, with a black bottom surface, and with blank sides. 
+
+Proposal
+
+Our prototype works fine (see this video demonstrating cooking time in a non-optimized setting), but we believe that different designs, different choice of materials, other uses than cooking, smarter distribution, sales, and financing methods, may help the use of the cooker be widespread much faster than what we in Heliac can do on our own.
+
+The bill of material for a lens is low, but the initial set up of the production and the use of the production equipment is expensive. So the more we produce in one go, the lower the price. For this reason, to reach the target price of <$80 we need a lot of cookers to be sold.
+
+Purpose
+
+A cooker that replaces open fire cooking
+
+- improves health (11,000 people dies daily from pollution from open fire cooking),
+
+- frees up cash (hence increase economic activity) as many families spend >25% of their disposable income on charcoal and other biomass,
+
+- reduces carbon emissions (carbon emissions from 2.6 billion peoples open fire cooking are higher than total emission from the USA),
+
+- reduces deforestation (>50% of deforestation is caused by the demand for firewood).
+
+(See ref. [1] + [2] + [3] for documentation)
+
+ 
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+Aim
+
+To reduce the use of open fire cooking by getting as many solar cookers as possible deployed as fast as possible.
+
+Drivers
+
+Solar cookers have been around for long, but are nevertheless not widespread in use.
+
+To understand why this is so, Heliac together with Solar Cooker International (an NGO) has conducted a survey to identify and prioritize drivers influencing the uptake of solar cooker use.
+
+The results of the survey indicate that the following drivers are important:
+
+Cooking time
+
+Affordable solar cookers in the market today are only well-suited for slow-cooking. This competes poorly with open-fire cooking that is almost as efficient as 1st world cooking methods.
+
+The first test of Heliac's prototype boiled a liter of water in 13 minutes. Pots and pans with black cooking surfaces and blank sidewalls will be more efficient. So will pots and pans that a diameter that matches the diameter of the heating point from the lens.
+
+User experience
+
+Parameters such as ease of use, safety, durability, cleaning, and the risk of theft, are also of great importance. We would love to see suggestions addressing these challenges.
+
+Financing
+
+Even though $80 only equals a few months of charcoal consumption it may still pose a huge barrier for many of the potential end-users. Financing models and existing systems capable of handling this are therefore of interest.
+
+Marketing, distribution, sales
+
+In Heliac we are really good at making lenses. And also good at designing solar cookers for the lenses. But that's just the first step. Getting solar cookers in large numbers to users in villages and refugee camps across the globe is not our strong side.
+
+Local presence
+
+Adaptation
+
+We are looking into by performing a number of local tests (Kenya, Zambia, Uganda, Ivory Coast, India, Nepal, and Mexico are presently looked into).
+
+Each test is performed following this format: 3-5 families are given a solar cooker. Each family cooks 50 meals, documenting each meal by taking photos of the process and outcome. They are also interviewed after the tests. For this work, they receive a payment (USD 50). For an amount of money equal to the payment, they are offered to keep the solar cooker after the end of the test period.
+
+This test set up will (hopefully) provide us with important information on how the cooker fits local cooking culture, documentation, ideas for general improvements and local adjustments, and an indication of whether the users find the cooker is worth USD 50.
+
+Partnering with local NGOs
+
+In Kenya, we've applied to be part of a call by MEI, an NGO supported by UNHCR. The call is looking for non-wood based cooking solutions to be implemented in a large refugee camp in Kenya.
+
+In the other geographies, where we are setting up tests, our local contacts are also in dialogue with or part of local NGOs. 
+
+Who will take these actions?
+Heliac is in dialogue with a few local companies in Zambia, Uganda, Kenya, and India, capable of manufacturing and selling cookers in smaller quantities.
+
+We are also in dialogue with a few NGOs that may be instrumental in our quest for a wider deployment. But due to limited resources on our side, many possible paths are still left untouched.
+
+Uncharted territories include
+
+- sponsoring from large corporations, e.g. energy companies, utilities, philanthropists, and/or companies that have an interest in promoting themselves in the relevant geographies. For such sponsors we will be able to place their logo as a hologram in the center of each lens, should they ask for this.
+
+- identifying manufacturing partners capable of producing the right cookers, in the right amounts, and at the right mix of price and quality.
+
+From Heliac's side, we just want to see as many cookers as possible out there. For that, we would like to just focus on what we are good at today, ie. producing and distributing the lenses. (With our present set up we can produce a million lenses in 10 days).
+
+If Heliac is to undertake more of the work needed, we estimate this will require funding in the neighborhood of $3-4 million.
+
+We are open for such a scenario, but funding for a business based on the poorest of the consumers in the developing world is a hard sell to investors before a scalable business case has been convincingly proven.
+
+Where will these actions be taken?
+In regions in Africa and Asia where access to cooking by cheap electricity is limited, as well as in refugee camps and disaster areas.
+
+Other versions may also be designed for camping, hiking, and soldiers. To the extent that such designs will help us reach scale and thus drive down the production cost of the lens, they too are welcome.
+
+In addition, specify the country or countries where these actions will be taken.
+Kenya
+
+Country 2
+Uganda
+
+Country 3
+Zambia
+
+Country 4
+India
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+2.6 billion people cook using an open fire. Each cook stove emits 1-3 tons CO2 annually.
+
+Potential for annual CO2 saving according to [ref. 1] is one gigaton. Or roughly 3% of the total global CO2 emissions.
+
+What are other key benefits?
+Not having to spend time getting charcoal and other biomass frees on average 20 hours work per week.
+
+Not having to spend a significant part of disposable income on charcoal frees up cash. Good for the economy.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+This does very much depend on each partners activities and the overall ambition level.
+
+If the project is to be realized to its fullest potential by Heliac alone we estimate a cost of $3-4 million.
+
+But a lot can be saved by contributions from contributions from others, e.g.:
+
+- MIT helping improving efficiency and/or certifying efficiency and costs,
+
+- Organizations already well-established in the relevant geographies,
+
+- Improvements and add-ons from designers and manufacturers, and
+
+- Micro-financing from strong partners.
+
+Timeline
+According to Wermuth Asset Management [ref 4], the true external costs of emitting one ton of CO2 is $150 per year.
+
+So the sooner the better.
+
+Heliac's ambition is to have a million new cookers in use per year from 2020. I.e. saving the world $150-450 million annually at a total cost of $80 million (if we can get the cookers to $80 per cooker.

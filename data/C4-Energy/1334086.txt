@@ -1,0 +1,199 @@
+Proposal number: 1334086
+
+Proposal: Transforming CO2 in powerplant into soda & deicing salt in situ
+
+Summary
+I invent a method to capture carbon dioxide from power station flue gas by ejector-based quasi Solvay Process. 
+
+The power plant only need salt, i.e. sodium chloride NaCl, & lime Ca(OH)2 as reactants, & some ammonia NH3 as starter intermediate. The resultant products are soda & deicing salt, i.e. calcium chloride CaCl2.
+
+
+
+The key parts are ejectors, the typical cut-out view:
+
+
+
+The real parts can be monster size for powerplant app:
+
+
+Ejector working as a chemical reactor
+
+In order to use ejector as reactor vessel, the chemical reactions should be easy to occur and complete, especially spontaneous type is the most-wanted, because all fluid molecules are to stay inside ejector in short time.
+
+Generally speaking, the strong acid and strong alkaline is a good match.
+
+The 2 inlet ports of the ejector intake one liquid reactant and one gaseous reactant, the liquid resultant or product jet flow blow out of the only outlet port.
+
+The reaction should be the type of exothermic, so that to generate resultant jet power. The greater is the Delta-H (enthalpy of reaction), the easier and faster the reaction.
+
+The shockwave phenomenon can be far stronger than the regular water and vapor, because chemical reaction releases more energy than vapor condensation. In fact, the ejector mix area is perfectly fluidized in favor of fast and complete reaction.
+
+In the system figure, there are 2 ejectors, 1 turbine generator, & ammonia is consumed but regenerated back dynamically.
+
+As reactions are exothermic, so ejector's outlet pressure will be larger than inlet pressure, therefore the resultant jet not only can maintain ejector reaction circulation, but also has surplus energy to push turbine to generate mechanic energy.
+
+The generated energy is not too much, however enough covering sub-plant demand, so as to realize energy local self-sufficient. 
+
+Even if insufficient, the main turbine exhausted-steam can be scavenged extra heat & power:
+
+
+
+There is also a pre-stage to rinse smoke & dewater & harvest vapor latent heat.
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+Stoichemistry of sequestration of CO2 and NOx and SO2 from flue gas emission.
+
+Carbon dioxide, nitrogen oxide/dioxide, sulfur dioxide can be sequestrated in many ways.
+
+Here just enumerate some chemistry equations related to the sequestration process (DeltaH stands for enthalpy of reaction):
+
+Ca(OH)2 + CO2 -> CaCO3 + H2O (DeltaH = -69.8kj or 944kj/kg, exothermic)
+
+CaCO3 + H2O + CO2 -> Ca(HCO3)2
+(DeltaH = -40.6kj, exothermic, = water condensation latent heat)
+
+Solvay process to fix carbon:
+
+NaCl+NH3 + H2O + CO2 -> NaHCO3 + NH4Cl (DeltaH = -115kj, exothermic)
+
+2NaCl + 2NH3 + H2O + CO2 -> Na2CO3 + 2NH4Cl (DeltaH = -137kj, exothermic)
+
+NaHCO3 -> Na2CO3 + H2O + CO2 (DeltaH = 129kj, endothermic)
+
+Ca(OH)2 + 2NH4Cl ->  CaCl2 + 2NH3 + 2H2O (DeltaH = 91kj, endothermic)
+
+Fixing nitrogen:
+
+2NO + O2 -> 2NO2 (DeltaH = -114kj, exothermic)
+3NO2 + H2O -> 2HNO3 + NO (DeltaH = -138kj, exothermic)
+
+Fixing sulfur:
+
+2SO2 + O2 -> 2SO3 (DeltaH = -198kj, exothermic)
+
+SO2 + H2O -> H2SO3 (DeltaH = -52kj, exothermic)
+
+SO3 + H2O -> H2SO4 (DeltaH = -228kj, exothermic)
+
+In the pre-stage, or smoke rinse stage, water vapor is condensed by ejector, and some latent heat is converted into mechanical then electrical energy. 
+
+This stage may also remove NOx, SO2, but CO2 is remained.
+
+In the next stage, or quasi Solvay process stage, CO2 is absorbed, and converted into soda with help of ammonia, then the intermediate resultant NH4Cl generated.
+
+Then, the leached NH4Cl solution reacts with lime, so that ammonia NH3 is reclaimed back, and CaCl is produced.
+
+Therefore, the ammonia is basically conservative, but starting the reaction chain needs its help as primer.
+
+Long time operation will reduce the remaining ammonia in the system, thus, refill is necessary.
+
+This proposal targets double capture of both water vapor and carbon dioxide!
+
+As long as this practice does not increase the back pressure of flue gas, this process will not affect the normal electricity production business, and can profit from the embedded soda plant.
+
+With some small percentage uncapturable CO2 & H2O remaining in rinsed then treated flue gas, the sucking negative pressure effect of ejector at inlet, and the pressure gain effect of ejector at outlet, technically, the smokestack back pressure will not increase, even does decrease. 
+
+The combined-heat-and-power generated from exothermic chemical reaction can fully cover the operation energy demand of embedded soda plant, even have some extra energy for sale. 
+
+ 
+
+Who will take these actions?
+Kiwaho Lab.
+
+Where will these actions be taken?
+seeking a partner coal or nature gas powerplant
+
+In addition, specify the country or countries where these actions will be taken.
+Canada
+
+Country 2
+United States
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+How much is the water vapor & CO2 emission in smokestack?
+
+Take the exhausted gas of gasoline combustion as an example:
+
+C8H18 + 12.5(O2  + 3.78N2) -> 8CO2 + 9H2O + 47.25N2
+
+The octane C8H18 is the principle component of gasoline.
+
+Burning 1mol octane needs 12.5*4.78= 59.75mol air. Given the mol mass of octane is 114, so the theoretic mass ration of fuel to air is: 114/(12.5*(32+3.78*28))= 6.62%, total generated mol in the equation is 8+9+47.25=64.25.
+
+The different component in flue gas takes different proportion by mol ratio as follows:
+
+CO2: 8/64.25 = 12.5%;       H2O: 9/64.25 = 14%;            N2: 47.25/64.25 = 73.5%
+
+or the ratios by mass:
+
+CO2: 19.2%;  H2O: 8.8%;    N2: 71%
+
+Calculating by mass, then for every 1kg CO2 emission, the H2O emission is about 0.46kg.
+
+For other fuel, such as diesel, coal, etc., the calculation result does not differ much.
+
+Generating 1 kilowatt-hour electric energy by fossil fuel will generate about 1kg CO2, so it can be imagined or calculated how much combustion water vapor produced in whole world.
+
+Considering the greenhouse effect, the carbon dioxide is often thought as culprit, and attracts great public attention, though in fact, water vapor can impact much more than carbon dioxide. This may be caused by the unverified assumption that the water vapor will be quickly condensed into rain and precipitate quickly.
+
+As to my study, not 100% evaporated water will fall down in short time; some proportion may always stay in higher sky, thus ignoring the water vapor’s contribution to greenhouse effect is technically not wise!
+
+The scientific community blindly underestimates or ignores the invisible & insensible CO2 precipitation just like as the omnipresent H2O precipitation, and overstates the impact of global warming contributed by CO2. In fact, the the H2O vapor is more deservable to be blamed as the real culprit.
+
+Therefore, president Trump is so intelligent, and we should focus at how to reduce H2O vapor emission or artificially condense it from atmosphere.
+
+While capturing CO2, simultaneously reclaiming the combustion water from hot flue gas in situ will function profoundly in quenching global warming and improving air quality.
+
+And also the latent heat in vapor is significant circa 10% of total thermal energy, as well as fresh water in some area also a valuable resource, so lots of credits are there.
+
+The reclaimed latent energy can be used to power the parasitic Soda sub-plant to facilitate the ejector-based quasi Solvay process.
+
+For every 1 MW power plant, this sub-plant can capture about 24 ton CO2 every day!
+
+ 
+
+What are other key benefits?
+The products of sub-plant: soda and deicing salt are more valuable than raw materials: lime and common salt.
+
+Therefore, power plant can offset initial investments in a few years, then enjoy the ongoing endless profits!
+
+Of course, the environment benefits more from the cut-off of carbon dioxide CO2, H2O, NOx, SO2 emissions! 
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Big investment is needed.
+
+Laboratory-scale experimental apparatus & simulation training system: $500K
+
+Phase I $1M
+
+Phase II $2M
+
+Phase III $2M
+
+I am seeking a partner coal power-plant in north America.
+
+Conditionally free to use my design, but pay us consult cost and labors of onsite task-force technicians.
+
+We do emergently need capital to accelerate our diversified hi-tech research, such as clean nuclear energy, commercial aerocar, etc, if an interested entity can fund us or can be co-founder of Kiwaho Lab or can buy our equity share now, it is totally free to use this invention & all our related experimental data. 
+
+In this year ClimateColab contest, we have submitted 6 proposals, welcome to check out my other proposals for reference if interested.
+
+High Net Worth Individual (HNWI), any entity, even Sovereign Wealth Fund (SWF) in the world are welcome to funding this project.
+
+The SWF can seek with high priority to monopolize fruits & rights of some applications exclusively if there is one investment & this special interest is requested, as long as agreement of buyout all personal or any other entity's rights can reach via negotiation.
+
+Timeline

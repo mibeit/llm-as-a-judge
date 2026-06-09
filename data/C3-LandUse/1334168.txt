@@ -1,0 +1,123 @@
+Proposal number: 1334168
+
+Proposal: GREENHOUSE GAS REDUCTION IN AGRICULTURAL LAND USING A CARBON NEGATIVE TECHNOLOGY
+
+Summary
+It is generally well accepted that humanity is under a serious threat of effects of climate change as a result of a rapidly increased concentration of carbon dioxide and greenhouse gases (GHG) in the atmosphere. UNFCC has issued a stern warning that climate change is putting global stability at risk. In the world as well as in Asia, agricultural sector is the second largest emitter of GHG, second only to the energy sector. As a region, Asia, the most populous continent, collectively emitted the largest amount of GHG, amounting to approximately 50% of the world total. According to UNFCC, the Asia’s largest source of GHG emissions in agricultural sector especially in rice producing countries, is not from enteric fermentation but rice cultivation. In Thailand, for example, paddy cultivation which emitted a significant amount of methane gas (CH4), a 30 times more potent heat trapping ability than carbon dioxide (CO2), contributed nearly 60% of total emissions from agriculture sector between 1990 and 2000. This statistics suggests that rice producing sub-sector should be a target of intervention in order to be more effective and impactful. It should also be done in a way that will not compromise food security. It is argued that contributions of the previous GHG mitigating efforts targeting land use change through reforestation is limited and in some situation undesirable because it could upset food security by reducing availability of farm land. A more practical method is to use carbon negative technology to sequester atmospheric carbon into soil and enhance soil productivity at the same time. One such promising technology is an application of biochar.
+
+ 
+
+ 
+
+Is this proposal for a practice or a project?
+Not sure
+
+What actions do you propose?
+The proposed activity is to pilot test a public-private partnership model to promote biochar application in rice cultivation. Here, the concept of PPP model is based on a marriage between a standard agricultural extension service and value chain development to ensure long-term sustainability purposes. This holistic approach involves players at all level of the value chain, upstream farmers and agro input businesses, middle stream and downstream consumers.
+
+Expected outcome: By the end of the project period, this activity is expected to generate an increased adoption of biochar application, improved farmers’ livelihood and heighten awareness among all groups of stakeholders as well as active involvement to support GHG reduction activities.
+
+ 
+
+Timeframe: October 2017-October 2019 a period of two years.
+
+ 
+
+Description of Work
+
+Start and End Dates
+
+Phase One
+
+Inception: base-line data design collection, capacity development and pilot preparation
+
+…October 2017-December 2017
+
+Phase Two
+
+Implementation:
+
+Conduct producer and consumer surveys and data analyses,
+Conduct field experiments to verify yield and GHG impacts of biochar,
+Stakeholders visit to successful implementation of biochar program abroad,
+Development of Supply of “Biochar Rice”,
+Awareness raising campaign of biochar and the need for GHG emission reduction,
+Business sector relation and engagement,
+Development of demand for “Biochar Rice”,
+Public sector engagement and biochar policy development
+Jan 2018-June 2
+
+Phase Three
+
+Conclusion:
+
+End-line data collection and analyses
+Concluding workshop to share experience, lesson learn and scale up
+Establishment of center excellence in biochar
+Report and knowledge dissemination
+July 2019-October 2019
+
+Monitoring and Evaluation
+Monitoring will be done on regular basis to ensure achievements of the identified outputs in a timely manner. Self-reflection will be carried out and documented every quarter. Progress report is to be submitted to funder bi-annually. Midterm evaluation by external reviewer can be arranged if required.
+
+The base-line and end-line data collection provide a basis for outcome evaluation. Possible outcome indicators are:
+
+Change in the number of farmers applying biochar to measure the increased adoption of biochar,
+
+Change in income of farmers participating in the project
+
+Increased awareness of biochar benefits among consumers and business entities
+
+Change in perception and/or behavior of consumers and business entities toward reducing GHG emissions.
+
+Who will take these actions?
+This holistic approach involves players at all level of the value chain, upstream farmers and agro input businesses, middle stream and downstream consumers. The Land Development Department (LDD) of the Ministry of Agriculture and Cooperatives will function as the key catalyst of change. The LDD-organized farmer groups and its volunteer soil doctors, will be involved as pilot farmers. Of the chosen pilot groups, the best practice farmers will be chosen as model farmers with establishments of demonstration farms and/or learning centers for a subsequent upscaling. Rice produced with biochar application will have a unique brand and logo for product differentiation. The produced rice will be sold with a small premium with the involved firm providing additional financial support per unit sold in exchange for having its company logo on the product to signify its voluntary and active involvement in carbon offset. This CSR based carbon offset is borrowed from a Japanese-based Cool Vege of the Carbon Negative Projects (McGreevy and Shibata, 2014). To implement this activity, the proposed project will be comprised of four components: (i) biochar extension and rural development, (ii) marketing and agro value chain development, (iii) knowledge, communication and research, and (iv) enhance public awareness and policy and partnership developments. This seemingly national project has potential to generate a regional impact by linking it with existing regional initiatives such as the Greater Mekong Sub-region (GMS), ASEAN, 4 per 1,000 initiative, and other development agencies in the region for cross-border upscaling.
+
+Where will these actions be taken?
+The actions will be taken in Thailand and link with Greater Mekong Sub-region countries (GMS), ASEAN, 4 per 1,000 initiative, and other development agencies in the region for cross-border upscaling. This proposed activity are:
+
+Four farmer groups, one per each region, produce and apply at least one ton of biochar per farmer as soil enhancer in their rice field with an improved yield and/or net income of at least 5%;
+
+Consumers and business entities have an increase awareness of biochar’s GHG reduction benefit by at least 10%;
+
+At least one reputable company actively participate as a PPP partner to promote the application of biochar and sale of biochar-based rice and/or a new agribusiness to produce and sell biochar as an agriculture input is established; and
+
+Relevant government agency develops a policy to facilitate the production, distribution and application of biochar.
+
+In addition, specify the country or countries where these actions will be taken.
+Thailand
+
+Country 2
+Cambodia
+
+Country 3
+Laos
+
+Country 4
+Myanmar [Burma]
+
+Country 5
+Vietnam
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+Table 1: Greenhouse gas emission of agricultural sector classified by source, Thailand, 1990-2000 (Unit: Gg CO2 equivalent)
+
+Table 1: Greenhouse gas emission of agricultural sector classified by source, Thailand, 1990-2000 (Unit: Gg CO2 equivalent)
+
+ 
+
+Source: UNFCC (2014)
+
+ 
+
+ 
+
+ 
+
+What are other key benefits?
+Biochar has a great potential to serve as an important instrument to mitigate GHG emissions and enhance food security. Biochar is a type of carbon produced by heating agricultural residues in an absence of or reduced amount of oxygen. The GHG emission mitigation effects of biochar occurs in three ways, i.e., (i) by sequester atmospheric carbon dioxide into soil in a form of stable carbon that can remain in soil for thousands of years, (ii) interact with microbial to reduce GHG emissions from soil, livestock and crop production process, and (iii) by replacing fossil fuel consumption through the use of bioenergy co-produced with biochar. Biochar is considered carbon negative when it is sustainably produced and applied. Farmers are the primary users of biochar. For farmers, what matters most to them is whether biochar has any productivity benefit in farm production. and hence potential to transform farmers to become GHG emission mitigators on a large scale.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Timeline

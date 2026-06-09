@@ -1,0 +1,103 @@
+Proposal number: 1334126
+
+Proposal: Distributed Molten Salt Heat Storage
+
+Summary
+Wind energy, solar energy storage problem has been the core issue, molten salt heat storage is currently used in large-scale electric places, due to the development of renewable energy, wind energy, solar energy intermittent and energy demand volatility contradictions, energy storage industry is very important.
+
+Energy storage methods from pumping energy storage, flywheel energy storage, battery storage, to compress air storage, electromagnetic energy storage and so on.
+
+Molten salt storage method of energy storage is also a concern, mixed molten salt can be heated to a temperature range of 200-600 ?, with high energy storage efficiency. At present, the implementation of solar thermal power generation heat storage, this way can partially solve the intermittent solar thermal power generation problems, such as wind energy and other large energy demand, it is still not enough.
+
+Molten thermal storage energy storage is also implemented in the thermal heating industry, large heating institutions, their users are generally stable heating requirements, heating by the power supply agencies are unlikely to dispatch, molten salt is only equivalent to the boiler, So the effect of regulating electricity is not significant.
+
+This project proposes a distributed, real-time dispatching energy storage system, which is based on the Internet of Things system, directly to the user, and the click supplier can automatically adjust the power supply according to the user's tank temperature. The user enjoys the low price of electricity to adjust, and the power companies save a lot of wind loss.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+1. Molten salt storage tank
+
+Small, domestic or institutional use of molten salt tank.
+
+
+
+Containing molten salt storage tank, including high temperature insulation, medium temperature insulation layer and low temperature insulation layer, the tank has heating tube, heating pipe into the line, outlet, there are in-water pipe and out-water pipe and intake pipe and out-trachea in the molten salt tank. Access to the water pipes and the trachea at the end of the insulation jacket.
+
+Molten salt tank with thermocouple, molten salt tank antipyretic control by the controller, the controller connected to the network cable.
+
+The network modem includes the power line network, or data line or a fiber network, or a wireless network.
+
+Thermocouple temperature data are sent to the dispatching center of the power supply mechanism through the server, and the dispatching center automatically switches the user's heating pipe device according to the real-time grid load.
+
+The user adjusts the corresponding hot facilities by the air pipe and the water pipe switch, they include: hot air conditioning, hot water heating, bath hot water, kitchen heating, clothes dryer.
+
+2. Internet of things system
+
+ Power lines, or network lines,or wireless networks constitutes the terminal, the power dispatching agencies according to the peak and valley conditions and the user molten salt temperature automatic switching power.
+
+3. Application
+
+3.1 Heat Bath Hot Water: Water Pipe
+
+
+
+
+
+3.2. Indoor Heating: Air Pipe
+
+3.3. Heated Food: Air Pipe
+
+3.4. Warm Heating: Water Pipe
+
+3.5. Dry Clothing: Air Pipe
+
+
+
+Who will take these actions?
+1.Start-up companies.
+
+2. Energy companies
+
+3. Electricity business
+
+4. Household electrical business
+
+Where will these actions be taken?
+American
+
+In addition, specify the country or countries where these actions will be taken.
+No country selected
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+1. Distributed molten salt storage energy proposed a mechanism that is conducive to the power companies to regulate the power peak and valley, but also conducive to individual users to save electricity
+
+2. Solar indirect use: In the United States dryer is known as "electric tiger". American Household Appliances Manufacturers Association statistics in 2009, the United States has 88 million units of electric dryers, the average annual consumption of 1079 kWh per year. The carbon dioxide emissions from the dryer are all the more alarming, with each household consuming 1 ton of carbon dioxide per year due to the use of a dryer.
+
+What are other key benefits?
+Safety: Heat the molten salt with electricity, then heat the water and air in isolation.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Timeline
+1. design: 2 months
+
+2. development: 3 months
+
+3. Manufacturing: 2 years
+
+4. Promotion and application: 1 year

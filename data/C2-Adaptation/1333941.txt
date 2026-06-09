@@ -1,0 +1,417 @@
+Proposal number: 1333941
+
+Proposal: Mini Elevated GREEN TRAINS - preparing for flooded subways in coastal cities
+
+Summary
+
+
+Coastal cities are beginning to feel the impact of climate change. During Hurricane Sandy the NYC subway system has been severely impacted by flooding -  Totaling Sandy Losses: How New York's MTA Got to $5 Billion
+
+
+
+
+
+
+VULNERABILITY OF UNDERGROUND TRANSPORT
+
+NEW YORK TIMES: Could New York City Subways Survive Another Hurricane?
+
+CNN: Hurricane Sandy cripples NYC subways
+
+Given the expected flooding of coastal cities elevated mass transit is vital for preparedness.
+
+IN ADDITION TO REDUCING VULNERABILITY TO FLOODING, THE PROPOSAL HAS PARALLEL GOALS TO PROVIDE:
+
+ - Fully Green Mass Transit
+
+ - Urban mobility on a comprehensive scale as part of the fabric of a city - same as roads and sidewalks.
+
+Elevated transit is the most efficient as a mass transit model.  Mini Elevated Green Trains - also referred to as cTrains or Caterpillar Trains - are likely the optimal model.
+
+PROPOSED MODEL:
+
+Unlike monorails, whose tracks are supported by pillars which require large sidewalks or other open spaces, the cTrain is supported by arches based on concrete poles, on both sidewalks of any street. 
+
+
+In addition to eliminating the impact of flooding to subway systems the cTrain model brings valuable  efficiencies in comparison to traditional mass transit.
+
+Compared to existing concepts of elevated mass transit designs the cTrain is more efficient through a number of essential design features:
+
+Minimal height of trains & minimal width   - ensures light weight > low cost supporting structures, low visual impact on the urban landscape.  Seating room only > ensures comfort (minimal height, and minimal weight).  
+
+                   
+
+Travel both above and below the tracks  > maximize the distance from both sides of the built environment
+Load is centered on the supporting structure > allows for arches as more effective support structures and more visually acceptable. 
+
+
+
+
+Use of arches based on both sides of any sidewalk -  allows optimal structures with travel load always in the middle section of the supporting arch.
+
+
+ 
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+We propose a solution to the vulnerability to flooding of subway systems in coastal cities and enhancing mass transit with mini elevated trains. Adopting this model will reduce or eliminate transport paralysis of subways - as shown by Hurricane Sandy in New York.
+
+At the same time we would like to bring awareness  that the traditional models of buses, subways, light rail monorails, etc. have failed to meet urban mobility. More importantly to bring awareness to the fact that in the present day most societies have the resources (technical and material) to bring mass transit that is green and available to all. Our proposal is a comprehensive solution that meets  following essential requirements for mass transit:
+
+1.     Accessibility from within an acceptable walking distance.
+
+2.     Frequency at a reasonable wait times.
+
+3.     Speed at acceptable levels
+
+4.     Comfort and privacy.
+
+5.     Cost level acceptable to passenger and public expenditures.
+
+6.     Emissions and noise free mass transit.
+
+The cTrain can meet the above requirements which will be detailed in the next sections.
+
+ 
+
+Overview of mass transit options
+
+The paper will propose a design model that is believed to optimally meet the above goals which will be referred to as the six essential features for comprehensive mass transit. Urban mobility can be looked at from the perspective of three levels:
+
+-        below ground level
+
+-        at ground level and
+
+-        above ground level 
+
+UNDEGROUND: Looking at mass transit in terms of three levels, underground transport is extremely expensive and takes years to build. Even in cities with high a density of stations the subway model presents shortcomings such as last-mile issues which is why taxis are in high demand in cities such as New York. Given the high, and most often prohibitive costs - as well as timelines required for building subways, the underground transit cannot provide a comprehensive solution of mass transit for all. Similarly subways are the most vulnerable systems in costal cities.
+
+GROUND LEVEL: besides vulnerability to flooding  ground level transit  cannot meet urban mobility needs given the limitations of available land, especially in dense areas. Having elevated mass transit can provide a functioning system even when streets are flooded and can be essential in evacuating large numbers of people. 
+
+ELEVATED TRANSIT: given that neither underground or ground-level mass transit can provide a comprehensive solution the only reasonable option is above ground transit which will be referred to as elevated transit. 
+
+Elevated Transport in the Past and Present
+
+The main advantages of elevated transport are the fact that it is free from traffic limitations and is less expensive than underground transit.
+
+The disadvantages are the limitations of available space to be built in dense areas and the visual blight on the urban landscape, including darkening of the streets by the supporting structures for the tracks, as wells as noise and issues of hygiene. 
+
+
+
+Monorails
+
+As a way to reduce visual blight the monorail presents a better alternative for elevated trains and even though it was introduced in the 1960’s it never became a widespread mode of transport. While monorails are bringing significant improvements to the problems faced by elevated trains (less visual blight and noise) they are limited to areas that have sufficiently wide open space.
+
+
+
+Personal Rapid Transit
+
+Further progress in elevated transport has been made by using smaller vehicles on specially built guideways often referred to as Private Rapid Transit (PRT). The technology was introduced in the 70’s but never became a mode of transport to service urban environments and has been limited to areas such as airports and campuses. 
+
+More advanced PRT models are being proposed and developed in the last few years such as at London Heathrow airport. Notably the title of an article reporting its implementation captures the history:  Fifty years on, it may be time for personal rapid transit (RICHARD GILBERT, The Globe and Mail, Aug. 03, 2011). While this is a step forward this PRT model is limited to areas that have sufficiently open space, as are the other models, but to a lesser degree. 
+
+
+
+
+One of the most advanced models to date in elevated mass transit is likely the SkyTran concept currently in testing stages of development. With its minimal height and width the SkyTran  brings progress in reducing visual blight on the urban landscape. However the hanging pods present challenges related to stability while the magnetically levitating technology is challenging and significantly more expensive than the model we are proposing. Given the need for large number of pods continuously moving over the streets the issue of visual blight continues to present a challenge. 
+
+
+
+Proposed Elevated Mini Elevated gTrain  cTrain (caterpillar train)
+
+We propose a simpler model, a new mode of public transport, called the cTrain, to address the deficiencies of the existing public transport modes. To a large extent, it will ameliorate the problems related to last-mile access, comfort, cost and availability of public transport. In comparison with the SkyTran the cTrain model can be built on simpler technologies and at a significantly lower cost. In fact - with the exception of the software and electronics for automation - the cTrain can be built on technology as old as the advent of the electric motor.
+
+ 
+
+
+
+
+
+
+
+
+
+The Catterpillar Train name comes from semblance of the cTrain to a caterpillar. 
+
+Design principles
+
+The cTrain concept is an automated mass transit mode of elevated light weight trains with seating room only. The cTrain is designed to minimize the visual impact on the urban landscape via the following features:
+
+Minimal height of trains (via sitting room only)   +  Minimal width -> helps bring minimal weight and minimally visible supporting structures as well as Minimal thickness of tracks                                                     - travel both above and below the tracks
+
+further reduces visual impact & allows the cTrain to be positioned furthest away from either side of the built environment.
+
+At about 10 to12 seats placed in sequence (with two passengers per row), the cTrain has a low height and width for each vehicle to help minimize weight as well as visual impact on the urban landscape. The low weight of the trains also simplifies the size and cost of supporting structures as well as their visual impact. The trains are designed to move above as well as below the rails.
+
+
+
+Compared to monorails or elevated trains the cTrain is about half the height and half the width which makes it far less visually invasive on the urban landscape.
+
+
+
+
+The cTrain rails are held by arched supporting structures planted on the sidewalks designed to be no more visually invasive than an average concrete pole. Most of the weight of a cTrain is supported by the arches rather than the rails.  The thickness of the rails is a function of the distance between the supporting arches. Having at least one supporting arch at any time allows for relatively thin rails. The suggested design is for vertically oval rails at dimensions of (3x4 inches) though R&D will be needed to optimize the frequency of the arches and the thickness of the rails. Advancements in material science may allow for parts of the supporting structures to be built from transparent or semi-transparent materials to further reduce visual impact.
+
+ 
+
+
+
+The cTrain is much smaller than monorails and designed to move both above and below the tracks and which are held by arches rather than crane-supporting structures. The crane-supporting structures do not fit well in the urban environment while the arches fit on nearly any street that has sidewalks that allow regular poles which hold the supporting arches. 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+The suggested number of seats are 10 in tandem in an average urban environment. Each row is a private space for a single but with sufficient space for travel with a significant other. This feature is valuable especially in the West where there is a great premium on privacy. This allows for a comparable level of comfort to cars.
+
+
+
+The concave design of the wheels allows for secure and stable rolling on the tracks. Additionally, each wheel will have at least one safety wheel running horizontally along grooves within the rails positioned to protect against derailment. The interior of the wheels has rubber covering. The rubber contact area of the wheels with the rails, combined with optimal shock absorbing systems will minimize audible noise which is expected to be less than the noise from an electric car on the street.    
+
+ 
+
+
+
+ 
+
+
+The suggested design is for small electric motors on each axle – distributed at approximately one motor per passenger (in tandem); however the optimal number, size and placement of the electric motors subject to R&D, including considerations for placing the motors within the wheels versus on the axles. According to input from electrical engineers the cTrain would be powered by batteries. With recent advancements it would be likely more efficient than using electric power lines which are expensive to build and maintain.
+
+Quick and Easy Entry and Exit
+
+In order to reduce the entry and exit time, the floor of the train is elevated above the platform of station. Given the height of the train floor above the station floor (shown by arrow) there is a reduction in the standing up and sitting down time and effort required for each passenger. The differential in height of vehicle platform versus ground level makes for easy access, similar to seating into, and getting out from, an SUV or a golf cart.  The image below is from test videos showing that for an older person it takes less than 3 seconds to exit or enter the vehicle. 
+
+
+
+
+ 
+
+Wheelchair Access
+
+Each cTrain will have access to a wheel chair in a dedicated area where the floor of the train is at level with the platform. Seat folds vertically to make space for wheelchair when needed.
+
+
+
+
+ 
+
+All stations are designed with an elevator for wheelchair access. 
+
+
+
+
+Flexibility of Capacity.
+
+The design can have as few as 10 rows of two seats and over 100 rows of two seats Each row requires approx. 1 meter.
+At 100 rows (i.e. 200 seats) at two trains per minute – capacity up to 24k passengers per hour
+Image below shows example of station with intersecting of cTrains with 25 rows plus wheelchair space versus 10 rows.  Longer platform is for greater capacity (longer trains) versus intersecting smaller capacity route with shorter trains.
+
+
+
+Easy Access to Available Seats
+
+Given that all passengers have to be seated in a cTrain, there is a system to ensure smooth circulation for access to available seats without crowding and competing for seats. Passengers at upcoming stops are guided by green lights indicating where to stand for an open seat in the next cTrain. 
+
+
+
+Each cTrain has at least one section where two seats are facing each other to allow up to 4 people to sit together - couple with a child go to the area of designated for four seats and the green light indicating upcoming open seats. 
+
+ 
+
+Capacity
+
+The capacity per train need not be high as the CTrain is designed to be built over every major street and avenue which will eliminate clustering. The image below shows a station at intersection of two avenues with two lanes in each direction. Station is larger at intersections to accommodate passengers from both cTrain directions. The goal is for cTrain service over every main street or avenue in a city so as to have sufficient coverage to have access from anywhere within a few blocks - in other words to have the equivalent of a "subway" stop at every major intersection.
+
+
+
+Image below: design mechanism -  switch from travel above to below the tracks and vice-versa
+
+
+
+ 
+
+Image below: "Vertical Depot" - based on principles in design mechanism for switching between travel on lower and upper tracks shown above
+
+-- eliminates the need for land currently used to park trains and buses
+
+
+ 
+
+
+
+
+Image below: intersection of upper tracks
+
+
+
+
+ 
+
+ 
+
+Image below: intersection of lower tracks
+
+
+
+Who will take these actions?
+Governments at all levels need to seriously consider moving away from subways in coastal cities and create elevated mass transit. Given the interest we received so far the likely avenue will be for local governments to commission a test route for the cTrain.
+
+Presently we are getting interest from the Indian government at all levels. Feedback from officials can be seen in the article below:
+
+THE INDIAN EXPRESS: Gurgaon could become first in country to get Caterpillar Train   http://indianexpress.com/article/india/gurgaon-could-become-first-in-country-to-get-caterpillar-train/ (needs correction where Emil Jacob is mistakenly listed as PhD scholar from MIT - same as team member Dr. Ashwani Kumar) 
+
+We are in discussions with various parties to develop a prototype with solid R&D - to reach the optimal model that can be adopted as a global standard - through research in the following areas:
+
+Civil engineering and Material Science - minimizing the visibility of the tracks and supporting structures; use of transparent materials to further reduce visual impact on the urnan landscape
+
+Architecture - optimal design of the stations to blend with the urban environment
+
+Mechanical - switch mechanism and process of cTrain traveling above the tracks to below the tracks
+
+Electrical - Optimization of size, placement etc of electric motors; as well as of batteries to serve both as backups and minimizing the strain on the grid
+
+Computer Science - developing algorithms for decisions of self driving trains for speed, number of trains to leave or return to depot, etc.
+
+This project may be of historical relevance, in the sense that it can produce the blueprint for a mass transit model to be run entirely on renewable energy while providing coverage anywhere within a few blocks from residential places or businesses - a possible model as a global standard in the way cars and roads are manufactured an implemented worldwide.
+
+Where will these actions be taken?
+Where will these actions be taken?
+
+ 
+
+Most likely India will make the first move. Government of India organized a nation-wide event, called Rail Vikas Shivir - Nov. 2016, to generate new ideas and innovations for the Railways sector in India. The mini-elevated cTrain was showcased in this event through a physical model.
+
+In the image below, team member Dr. Ashwani Kumar presenting to India's Prime Minister Modi  and minister of state for Railways
+
+
+
+With a proof of concept in place  private companies will be commissioned by local governments to build "sample" routes and later the city and state gov. can create a charter company with a mandate to provide access in all areas at say maximum 0.5 mile distance from any building. The standard would be akin to standards requiring access to water, electricity etc. 
+
+Any large city in the world is a good candidate for the cTrain. Though the desperation being greater in China and India for clean and efficient mass transit makes them primary candidates. Airports also make for ideal candidates as the cTrain.
+
+Adopting the cTrain model on a complete scale - i.e. to replace all existing modes of mass transit - provides a long list of benefits.
+
+Replacing existing bus and train depots with the "vertical depots" represented by the blue structure in the figure below opens the land, (taken by the current depot represented by the yellow line) for commercial or residential development. Vertical Depot placement (blue structure) versus current mode of ground level depot (area marked by yellow line); example in Boston area (Brookline, Cleveland Circle Station, Massachusetts) 
+
+
+
+Commuter rails currently take up large amounts of valuable land. Image below shows commuter rail line in the Boston area (Cambridge, Massachusetts). Green arrows show current commuter train tracks. Blue line is a suggested replacement of the commuter rail with cTrains which could free up vast amounts of land for other uses.
+
+
+
+In addition, specify the country or countries where these actions will be taken.
+India
+
+Country 2
+United States
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+The cTrain model is designed to be powered entirely by renewable energy.
+
+For a city that provides cTrain service over its major avenues and roads, including connections from the suburbs into downtown, it is reasonable to conclude that it will reduce the rush hour traffic by at least 50%.
+
+
+
+Commuters will prefer the cTrain for being faster, cheaper and more comfortable than the car. NOTE: we are proposing the same level of comfort and privacy as the car.  
+
+
+
+Reducing over 50% of commuter traffic brings drastic reductions in emissions. Additionally the smoother flow of truck traffic will further reduce emissions as a result of reduced stalling along metro area highways.  
+
+
+
+ 
+
+What are other key benefits?
+What are other key benefits?
+
+ 
+
+As a comprehensive solution replacing all mass transit modes the cTrain eliminates the risks to subways in coastal cities and brings:
+
+1.     Accessibility from within an acceptable walking distance.
+
+2.     Frequency at a reasonable wait times.
+
+3.     Speed at acceptable levels
+
+4.     Comfort and privacy.
+
+5.     Cost level acceptable to passenger.
+
+6.     Emissions and noise free mass transit.
+
+Exponential benefits:
+
+Improved worker productivity –less stress, less time wasted in traffic less financial strain from car costs etc.
+
+Greater, equity and employment– improved service for underserved areas
+
+Improved health – lower pollution, fewer accidents, less traffic
+
+Improved freight transportation efficiency - fewer cars on the roads during rush hours
+
+Lower public roads expenditures - on road repairs and and mass transit
+
+Climate Change Mitigation - the cTrain can run entirely on renewables
+
+Higher revenues to local and state governments - from capitalizing one newly available land and buildings
+
+
+
+Costs/Challenges
+What are the proposal’s projected costs?
+What are the proposal’s costs?
+
+ 
+
+At the present time we can only extrapolate the costs. 
+
+The cost of installing a light pole in one example is $3,500 (includes construction by an electrical contractor along with the City's design, inspection and processing).
+
+We will assume from this that the cost of each supporting structure would at $10,000 x 50 per kilometer = $500k/km
+
+Tracks resemble oval pipes and measure 4 inches vertically by 3 inches horizontally. Cost of tracks $500 per 20 meters at 50 per km = $500k/km
+
+The cost of the stations - placed at every km estimated at $500,000 per km including the cost of elevators (the cost of a wheelchair accessible elevator in public transport is about $80k).
+
+The electronic controls for automatic drivers including all the software and hardware estimated at $100,000/km including command and control centers for monitoring.
+
+We assume a cTrain would not cost more than $50k and we account for two per kilometer.
+
+NOTE: extrapolated numbers are based on post R&D costs and assuming construction of the cTrain over thousands of miles to benefit from economies of scale.
+
+
+
+While the above numbers seem minuscule relative to typical costs of traditional mass transit (including monorails) there is a strong argument for the extrapolated numbers shown above. In other words concrete poles to support the arches are not any different than similar concrete poles used today. The elevators for wheelchair access at each station are not any different than similar elevators etc. 
+
+The interesting lesson from the cTrain  is that even if the cost is TEN TIMES greater than what is estimated above, the model still provides an effective solution for comprehensive mass transit.
+
+Costs need to be compared to the costs resulting from paralyzed subway systems. New York City had an estimate of $19 bil. loss due to hurricane Sandy. Even if a small portion was a result of subway flooding it makes sense to look into adapting by building elevated mass transit (whether the cTrain model or others)
+
+Timeline
+2 years - full scale working prototype
+
+5-15 years - a number of cities adopt the cTrain model as a comprehensive solution to mass transit and a tool against poverty and climate change. Having replaced all subways and trains cities benefit from sale/rental of land and subway stations.While running the entire system at less than a tenth of the cost needed for the old mass transit modes the coverage is extended to all areas where there is a road where people need access.
+
+15-50 years - by the end of the period the Ctrain (or other form of elevated mass transit) is part of a global convention as a human right and as an obligation to combat global warming.
+

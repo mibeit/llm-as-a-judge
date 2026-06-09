@@ -1,0 +1,143 @@
+Proposal number: 1334151
+
+Proposal: The financial justification for transitioning to a renewable energy supply
+
+Summary
+The technology for transitioning to a clean and renewble energy supply exists.  While new technology and efficiency improvements will help, what has been missing is a comprehensive financial justification for a rapid transition.  
+
+Global electricity markets would naturally move towards the mix of energy sources that minimize total economic, environmental and health costs if external environmental and health costs were internalized by electricity producers.  However, this is unlikely to happen because the ignored externality costs can be much larger than retail electricity costs.   
+
+I developed the first energy system optimization model that uses the latest lifecycle impact assessment techniques and advanced optimization to value a full spectrum of environmental and health impacts, in terms of dollars, with high accuracy and much lower time and resource investments than before.  The model can be run for any country.
+
+My model shows that when the full lifecycle of environmental and health costs are valued, they average $1.06/kWh for the U.S. in 2015, which is 10x greater than the average retail electricity cost of  $0.104/kWh for the U.S. in 2015.
+
+Most national energy organizations do not consider environmental and health costs because quantifying them requires substantial time, data, expertise and financial investments.  This results in the development of long-term energy infrastructure plans and regulations without insight into the large and often hidden environmental and health costs.
+
+A paradigm shift in energy planning is needed, from the techno-economic cost minimization to minimizing total economic, environmental and health costs.
+
+The purpose of this model is to work with national energy planning structures to provide the financial data needed to justify rapidly transitioning to renewable and sustainable national energy systems.  When environmental and health costs are considered, fossil fuel energy systems cost 10x more than renewable energy systems.
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+This practice will lead a paradigm shift in energy planning, from the current methods of minimizing economic costs under technical and environmental constraints, to a way of minimizing the total economic, environmental and health costs and society incurs over the long-term.  The approach is based on new algorithms and the latest techniques to monetarily value impacts like climate change air pollution, to simultaneously minimize the total economic, environmental and health costs society incurs in the short and long-term from energy supply.  
+
+My model can be run for any country to provide national energy organizations with a financial analysis of a full spectrum of lifecycle environmental and health costs for the energy expansion scenarios they are considering, as well as the mix of energy sources that minimize total economic, environmental and health impacts. 
+
+The purpose of this model is not to mandate that energy infrastructure should immediately switch to the mix of energy sources that minimize total economic, environmental and health costs.  Instead, the purpose of this model is to work with existing national energy planning structures to provide national energy organizations with the financial data they need to justify transitioning national energy systems to be based on a renewable and sustainable energy supply.  Climate change and air pollution impacts are minimized in the process.
+
+The financial data will show the true and often hidden costs of fossil fuel energy supply versus sustainable and renewable energy supply.  For example, the average of the lifecycle environmental and health costs in the U.S. were $1.06/kWh, which is 10x greater than the 2015 average U.S. retail electricity cost of  $0.104/kWh.  
+
+This data suggests that when environmental and health costs are considered in energy production, the costs that society incurs can be more than 10x less with renewables than fossil fuels.  
+
+Insight into the financial data, or monetary valuation of lifecycle environmental and health costs, is made possible by the energy system optimization model I developed.  The model was developed differently than any other energy system model considering renewable energy sources, based on an energy system model review by Connolly et al. 2010.  
+
+I developed new algorithms that combine reduced-form equations with the latest lifecycle impact assessment techniques and advanced optimization to assess lifecycle environmental and health impacts much faster than traditional energy models.  This new way of modeling makes it possible to determine which mix of energy sources minimizes total economic, environmental and health costs for any country within 1-2 months of modeling.  Additionally, the model can be run for each future energy plan a country is considering, to see how economic, environmental and health costs vary between each scenario.
+
+As a brief overview, the model has three modules to assess economic, environmental and health costs, as well as a fourth module that can uses optimization to minimize the sum of economic, environmental and health costs:
+
+1)  A technical module simulates electricity grid interaction with hourly temporal resolution to ensure supply and demand are met. 
+
+2)  An economic module calculates economic costs. 
+
+3)  A lifecycle impact assessment module quantifies and monetarily values, in terms of dollars, environmental and health costs in 18 impact categories (including climate change, air pollution, ocean acidification, natural land transformation, etc...). 
+
+4)  A optimization module uses a Multi-chain Markov Chain Monte Carlo method with Metropolis selection to determine which mix of energy sources minimizes the total economic, environmental and health costs.
+
+Monetarily valuing all environmental and health impacts and representing them in terms of dollars (or the currency of the country of analysis) is crucial for internalizing the externalities of energy production. Several reasons for this include:
+
+*When environmental and health impacts are expressed as dollars, they can be internalized in existing cost minimization algorithms and methods for capacity expansion planning and electricity dispatch optimization.
+
+*Expressing environmental and health impacts as dollars makes their impact easier to understand for government, industry, academia and the public.
+
+*More straightforward and optimization techniques can be used when a single dollar amount, the sum of total economic, environmental and health costs, is being minimized (as opposed to optimizing many variables). I also plan to test more advanced optimization methods, such as setting a range for acceptable economic costs, and then generating Pareto Curves for energy infrastructure scenarios that minimize environmental and health costs within the acceptable economic cost range.
+
+*Economic, environmental and health costs can be easily compared between current and future (country-level) energy infrastructure scenarios when they are expressed as dollars. For example, many decadal electricity expansion plans have economic costs that differ 10-20%, but the environmental and health costs vary tremendously. By comparing the environmental and health costs of country level energy expansion plans, the environmental and health costs that society occurs can many times be drastically reduced without spending more money.
+
+*The relative magnitude of impact for each of the 18 environmental and health impact can be compared and prioritized when they are monetarily valued. For example, of the 18 impact categories my model considers, the three categories that typically have the largest cost are respiratory impacts on human health due to particulate matter, climate change impacts on human health, and climate change impacts on ecosystem diversity.
+
+*The magnitude of environmental and health costs can be compared to the magnitude of economic costs when they are expressed as dollars. Take 2015 for example, while the average retail price of electricity in the U.S. was $0.104 per kWh, my model estimates that the average cost of environmental and health externalities was $1.06 per kWh. This implies that in the U.S., the large and somewhat ignored external costs are approximately 10 times greater than the costs that are being considered by energy planners and policy makers. 
+
+To quantify and monetary value all environmental and health impacts, I use the ReCiPe 2008 method because it is one of the most widely accepted LCA endpoint methods and it is used by the IPCC (Goedkoop et al., 2013). The ReCiPe 2008 method maps 18 impact categories to three endpoints: human health, biodiversity extinction and resource depletion.
+
+There are six human health impact categories in the ReCiPe 2008 LCA method, all of which are mapped to a common metric that quantifies the years of life lost due to illness or premature death, known as a Disability Adjusted Life Year (DALY). One DALY is equivalent to one year of life lost. I derive a monetarily value for a DALY by taking the EPA standard Value of a Statistical Life (VSL) and dividing it by the life expectancy for the country of analysis (Environmental Protection Agency 2016). In the U.S., the EPA recommended VSL for 2015 is $9,500,000, and the average life expectancy is 81 years, so each DALY is valued at $117,283 in 2015 dollars. A VSL can be derived for each country using the EPA recommended elasticity of 0.4 between income and willingness to pay to avoid adverse health outcomes (Shindell et al., 2006).
+
+A commonly accepted single unit to express environmental impacts is species biodiversity loss. The ReCiPe 2008 LCA method maps all environmental impacts to a single unit that measures biodiversity loss, known as a potentially disappeared fraction of species (PDF). I use a monetary value of $157 million USD per species lost based on the Pizzol et al. (2015) review of monetary valuation in lifecycle assessment.
+
+In the Recipe 2008 method, oil and mineral resource depletion impact categories are expressed as monetary values based on the increased cost of resource extraction. The water depletion category can be monetarily valued if desired based on a price per cubic meter of water consumed during the LCA processes.
+
+In addition to providing national energy organizations with financial data on the environmental and health impacts of their current and future energy infrastructure plans, public education is needed.  The people must be informed of the large and hidden environmental and health costs that they and their kids (and their grandchildren, great grandchildren...) will incur because of fossil fuel energy supply.  
+
+One way to do this is a collaboration I proposed with the U.S. Environmental Protection Agency.  The U.S. EPA has a interactive GIS map called EnviroAtlas, which visually displays hundreds of ecosystem services in way that's easy for the public to engage with and understand.  I propose running my model for each state in the U.S., and then displaying the retail cost of electricity as well as the environmental and health costs of energy production, broken down by energy source.  This data could also be presented for each country.
+
+Public education is essential to inform the public of the enormous environmental and health costs they are incurring by supporting fossil fuel production, and the alternatives that are available through a sustainable and renewable energy supply. 
+
+With the financial data available to national energy organizations and the public, illuminating how fossil fuel energy systems cost 10x more than renewable energy systems when externalities are considered, a united path towards a sustainable and renewable energy supply will emerge.   
+
+It is important to note that society is already incurring the external environmental and health costs of energy production, although they are unevenly distributed and incurred over a long-term horizon. To minimize these external costs alongside internal costs, I am advocating including these costs in the long-term energy planning strategies and methods used by national energy organizations to design long-term energy expansion policy.
+
+This can be simulated using my model (or another country scale energy model that performs LCA analysis, although I have not found any and none were listed in the Connolly et al. (2010) review) to determine how environmental and health costs differ between the various future energy infrastructure scenarios a country is considering.
+
+To take minimizing the internal and external costs of energy production a step further, the optimization module in my model can determine the mix of energy infrastructure that will minimize total economic, environmental and health costs for any country or region. This lowest cost mix could be set as a standard that the industry moves towards as capacity increases and infrastructure depreciates.
+
+Comparing and minimizing the economic, environmental and health costs of energy infrastructure scenarios can also be used to optimize current goals, such as the Renewable Portfolio Standards in the U.S. and the Intended Nationally Determined Contributions for climate change in the Paris Agreement.
+
+Who will take these actions?
+I am launching a company to work with national energy organizations and environmental protection agencies in the countries that are interested in gaining insight into the lifecycle environmental and health costs of their country's energy infrastructure plans.
+
+Organizations I interviewed to refine the scope and feasibility of this project to be most helpful to the current issues national energy organizations face with transitioning to renewable energy include: 
+
+Ecuador: Ministerio de Electricidad y Energia Renovable, Ministerio de las Sectores Estrategicos
+
+Peru: Ministerio de Energia y Minas, Ministerio de Ambiente
+
+Colombia: Unidad de Planeacio Minero Energetica, ISAGEN
+
+Chile: Comision Nacional de Energia, Centro de Energias Renovables
+
+Uruguay: Administracion del Mercado Electrico
+
+Argentina: Secretaria de Energia
+
+Almost every organization expressed interest including environmental and health costs in their long-term energy planning, especially if it is in a way that works with time, resource and financial constraints.
+
+Where will these actions be taken?
+This practice will start with national energy organizations and environmental protection agencies who are planning the long-term energy expansion for their country.  We will work with every country interested in considering the full economic, environmental and health costs of their energy planning.  Public education needs to be at a variety of levels, ranging from academia, to local and national governments, to easily accessible and understandable online resources.  
+
+Creating a paradigm shift in energy planning to minimize economic, environmental and health costs can happen at a global level.  For example, moving towards the mix of energy sources that minimizes total economic, environmental and health costs is a way of optimizing current and upcoming goals such as Renewable Portfolio Standards (RPS) in the United States or the Intended Nationally Determined Contributions (INDC) that countries will be announcing at the U.N. Framework Convention on Climate Change (UNFCCC).  
+
+Additionally, the social impact of clean energy infrastructure development loans from the World Bank or International Monetary Fund can be greatly improved by comparing the full spectrum of environment and health impacts between alternatives.
+
+ 
+
+In addition, specify the country or countries where these actions will be taken.
+United States
+
+Country 2
+China
+
+Country 3
+Brazil
+
+Country 4
+Chile
+
+Country 5
+Mexico
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+Taking the environmental and health externalities produced by the electricity generation in the U.S. during 2015 as an example, the total environmental and health could be reduced from $3.98 Trillion (USD) to under 301 Billion $USD, producing a savings of $3.68 Trillion.  It is important to note that while these external costs are unevenly distributed and incurred over a long-term time horizon, they are generated each year, allowing for savings of over 3 Trillion dollars per year in future environmental and health impacts. 
+
+What are other key benefits?
+The greatest key benefit is simultaneously minimizing climate change and air pollution impacts in the least cost way.  Financial data is what many decision makers base decisions on, thus this type of analysis is needed to justify the transition from fossil to renewable energy systems.  Specific benefits, such as reduction in GHG emissions, particulate matter related mortality/morbidity, terrestrial ecotoxicity, ocean acidification natural land transformation and more will be calculated for each country. 
+
+Costs/Challenges
+What are the proposal’s projected costs?
+The cost to run the model for each country ranges from $25 - 100 thousand USD depending on the complexity and customization required for each country.
+
+Timeline
+I will begin working with national energy organizations to provide the financial data on lifecycle environmental and health costs for their country's future energy system plans as soon as there is an agreement in place.  The agreement could be in the form of a direct relationship with a national energy organization, or with an development organization such as the United Nations or World Bank who are working with many countries.
+
+With this new and critical financial data, countries can justify transitioning from fossil fuel to renewable energy systems and move towards minimizing economic, environmental and health costs of their energy supply as capacity increases and infrastructure depreciates.  Most thermal energy infrastructure depreciates over a 20-30 year period, meaning that a full transition is possible by 2050 without phasing out current energy infrastructure before it's economic lifetime is over.  

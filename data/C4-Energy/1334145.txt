@@ -1,0 +1,73 @@
+Proposal number: 1334145
+
+Proposal: Coal Smart
+
+Summary
+The project provides technology that enables coal plants to reduce their GHG emissions to half while increasing their power generation capacity by about 40% additionally. for eg: a 500MW plant would require approx. 1.4million tons coal. This would be reduced to about 800 tons with the rest provided form the CO2 exhaust and its heat and waste water. The GHG emissions would be reduced from 3.5 million tons to about 2 million. This would be done with costs around half the existing CCUS systems or less and it reduces water usage which is an environmental plus. This reduces the need for closure of coal plants and related jobs, while enabling transition from coal and other fossil fuels to safe, cost effective renewable sources in a period of time. There would be reduced mining and shipping of coal with this technology, but for coal plants, huge reductions of GHG emissions enable them to provide the energy security during winters when solar and wind are at low ebb and energy storage for months is very expensive.
+
+The problem with GHG emissions is that coal and fossil fuel plants give out huge emissions that pollute and also harm community health in the region. Without coal for electricity, heating and other needs, meeting the base load requirements is tough. With renewable energy sources like wind, solar and others, they are able to meet a large part of the base and peak load needs in an intermittent way without the consistency and stability that fossil fuel plants provide. Even then, with fossil fuel emissions having direct and indirect effect on the environment and health, it is important to taper off from fossil fuels to clean energies and this transitions should happen smoothly without bringing big changes to lifestyles, jobs and related issues, which could lead to unstable changes in communities. This major problem of smooth transition is addressed by our technology to enable fossil fuels, starting with coal, be partially reduced with hydro in the same infrastructure.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+The availability of carbon dioxide and water in coal plants would be tapped into to provide a hydro based electricity generation which would initially offset and reduce the coal usage partially.For the same ton of coal, our technology would increase the capacity of power generation, while reducing the amount of GHG emissions and water usage. The actions that we are working on are listed as 1. Scale up and pilot the technology with independent testing 2. Commercialize the technology and provide them to existing coal plants to reduce their GHG emissions with right IP protections 3. Reduce GHG emissions close to half for these coal plants at low cost till the nations having them transition to near zero emissions.
+
+Till the power generated is from clean sources, any amount of effort to transition is not completely useful. For this to happen, support for fossil fuel transition with clean technologies is the key. The existing renewable energies are not good for winters and base load needs till energy storage in months or costly transmission lines or real distributed energy generation centers are available.
+
+The power companies owning plants are looking for clean energy technologies that would reduce their GHG emissions at lower costs and are able to support community electricity needs at lower costs than getting closed, which is a huge economic loss to both communities and the companies.
+
+With scale up and pilot demonstration showing this technology's value in both economic and environmental sense. We would be able to commercially provide this technology to work with existing and new coal plants globally to not only reduce GHG emissions in specified time but also reduce water usage and enable sustainable profitability to these plants. As this technology enables coal plants to move to lower GHG emissions, we plan to support coal plants with lesser coal usage and sustain than using CCUS and other expensive technologies to clean up coal plant waste and environment. As we move these coal plants to clean energy - "hydro" based on carbon dioxide and waste water,  we would also be able to enable new plants be closer to coastlines where most people reside globally, making more fresh water from rivers available to other pressing needs of people.
+
+This would also enable people to shift from fossil fuels for transportation, building heating/cooling to industrial needs to clean electricity at low costs for transportation, building heating/cooling and industries. This would also lead to major business model changes towards distributed generation which could include mini cleaner coal plants along with 100% renewable hydro. At a point, with this technology, solar and wind could be used in tandem with this technology to provide 100% clean renewable, which can be useful to most nations that are now moving towards big coal plants with CCUS at huge costs, leaving their coal safely untapped like in Africa.
+
+A clean electricity driven economy is an advantage for most nations and created new areas of businesses which were till recently not possible due to fossil fuel and high costs of electricity.
+
+Who will take these actions?
+The key roles would be played by coal plant owners who would  have to choose between closing coal plants or profitably transitioning them toward reduced GHG emissions. The governments should be able to support them with policies and also if required with grants for scale up demonstrations and some RD&D. The fossil fuel logistics would change and would have to adapt to newer patterns and service needs. The skill sets required could be more hydro specialists who could locally enhance value through re-skilling from fossil fuel skills. The organizations thriving on fossil fuels would have adapt themselves with profitable investments into these new technologies and their profits.
+
+The actions would be led by our team and would be done in partnerships and other business relationships with various players of the entire ecosystem for profitable revenues and also less GHG emissions based low cost electricity.
+
+The main roles would be played by the author and his team who would be the key management personnel with more than 20 years of experience in various energy equipment manufacturing, energy generation and information technology industries across Germany, USA, Canada and India.
+
+Where will these actions be taken?
+These actions would start in Europe an North America and move towards India and other nations.
+
+The first of our actions is to get the right support to scale up and demonstrate the technology on a large scale with independent testing in Europe and North American testing institutions. We would then build the ecosystem working with various coal plant owners, local EPCs and other key players.
+
+Our business development and solutions team would then market to various coal plant firms globally as the time to install and commission such a system even for MW scales is very short in months, so the time to see value in increased generation of clean energy and reduction in GHG emissions is very short. The advantage for the consumers of these coal plant is low cost electricity and less emissions.
+
+In addition, specify the country or countries where these actions will be taken.
+Canada
+
+Country 2
+Germany
+
+Country 3
+India
+
+Country 4
+United States
+
+Country 5
+Brazil
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+With this technology, we see a rduction of about 50% of their present GHG emissions. On a scale, a 500 MW plant emits about  3.5 million tons of GHG an this would be reduced to 2 million tons. This technology once applied to coal plants, can be extended to Gas plants and various other industrial plants that are through emissions itself throwing away huge amounts of heat.
+
+What are other key benefits?
+Coal being a sustainable economic component of most nations for electricity and heat, has grown and sustained economies in the last few decades of industrial growth. With our technology and project that leads to cleaner environment without hampering growth, we see that reaching the goals for clean air and clean energy for most nations is easier without having to drastically undo decades of prosperity. This could be done with a smooth transition to clean energy which is using waste from coal plants. In doing this we see more opportunities for jobs both skilled and unskilled with long term opportunities. It would not hurt profitability like CCUS does. It provides governments with coal plants towards a smooth transition policy that could speed up the transition without compromise on economic development.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+The economic total costs are very low and its payback is in few years based on returns from value of electricity generation and reduction of GHG emissions.
+
+The negative effects are close to none as even exhaust CO2 after usage is again reused in another process for energy storage which is R&D right now.
+
+Timeline
+In the short term very beneficial to coal plants globally to operate more cleanly without losing their profitable revenues. In having their GHG emission reduced by close to half, it would be able to operate its full lifetime.
+
+In the medium term, it would have enabled all existing coal plants to be producing hydro based power without reservoir requirements and very less emissions.
+
+In long term, it would lead to near zero emissions for even new and planned plants.

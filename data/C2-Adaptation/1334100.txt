@@ -1,0 +1,126 @@
+Proposal number: 1334100
+
+Proposal: Effectiveness of adaptation strategies for cities in different climate zones
+
+Summary
+Cities are the main part of climate change as well as the key responders to its impacts. Due to the urban heat island phenomena in the cities and its interaction with climate change, urban climate change should be taken into serious consideration. Urban climate change is location-specific and depends on urban characteristics. Therefore, it is of great importance to generate a tool to evaluate the effectiveness of adaptation strategies in different climate zones and with different urban characteristics, prior to applying them.
+
+As examples of public health threats under urban climate change (e.g. temperature rise), information on the human thermal comfort and the number of hours without strong heat stress should be added  to the cooling adaptation strategies. As human thermal comfort depends on temperature, humidity, radiation and wind, it shows high variability within the urban areas. 
+
+In our project, the climate change at local scale (2,8 km resolution) will be estimated for three cities in different climate zones (Berlin, Cairo, Istanbul) regarding land use, topography and built-up and green area fraction. Urban climate change will be calculated at microscale (100m resolution) for the time slice 2031-2060 (middle of the century).
+
+The human thermal comfort will be estimated and analyzed for each city and hot spots will be identified. Different adaptation strategies will be designed (green, white and blue city, gray city with horizontal and vertical compactness) and their effectiveness and feasibility will be calculated and discussed for different cities. The effectiveness will be shown in terms of cooling ability and improved human thermal comfort as maps.
+
+Through our local partners, the results will be presented to stake holders to sensitize them to the city hot spots with negative health effects. The application of effective and feasible strategies will be discussed with them. That way we can narrow the gap between science and policymaking, which is our main goal.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+a. High Resolved Climate Information via Dynamical Down-scaling
+
+The time window of the decision-makers extends from a few hours up to several hundred years. Climate-related strategies may now apply climate models in order to forecast and project the future climate change. Most of the climate projections are based on global General Circulation Model (GCM) simulations. However, they have low horizontal resolution (~100 to 500 km), which seems to be insufficient to provide local information for policy-making processes.
+
+We propose the dynamical down-scaling method using Regional Climate Models (RCMs), to create local information (spatial resolution of 1~50 km) of the climate change. An RCM uses the GCM results for its boundary conditions.
+
+Using initial climate states and the forcing of the climate system (orbital, GHGs, etc.), an ensemble of GCM simulations are conducted, which usually differs from each other in forcing which is used to drive the model, initial conditions or model parameters. In the next step, RCM simulations are conducted on target local areas, using the outputs from the global models. For the future climate change, there exists several predefined pathways or the so-called scenarios which can be used to study the local outcomes of climate change. Recently, there are several studies which focus on RCM simulations driven by future GCM simulations (Kjellström et al., 2016;Liu et al., 2013;Campbell et al., 2010).
+
+At FUB we have access to several pre-computed RCM simulations with COSMO model in Climate Mode (COSMO-CLM or CCLM)(Rockel et al., 2008) at ~50 km spatial resolution under different projection scenarios (RCP4.5, RCP8.5) over Europe and Africa. However, for this proposal we require higher spatial resolutions in order to study the climate change at the urban scales. Most of the RCM simulations do not resolve urban effects or they include very simple urban parametrization schemes. Parametrization is a method of approximating the small-scale or physically not represented processes in the model by a simplified procedure. Therefore, the RCMs might never deliver any information about the impact of climate change at micro-scales. As an application example of the downscaling method, we are now applying similar strategy in ASUS - Adapting Sustainable urban planning to local climate change in Egyptian new towns (case study New Aswan) project.
+
+ 
+
+b. Evaluating different climate indices of 3 cities
+
+In order to evaluate the impact of climate change in the three chosen cities, we will analyze several climate indices (i.e. hot days, tropical nights, warm & cold spells) (Zhang et al., 2011). The basis for this will be the simulations with COSMO-CLM from step (a) of this proposal as we compare the indices for a reference period (1981-2010) with a future time slice (2031-2060), forced with two different RCP-scenarios (4.5, 8.5).
+
+ 
+
+c. Impact of further urbanization on the micro-climate and future count of indices
+
+Since the urbanization will further increase in the future, leading to bigger more densely built-up areas, the respective impact on the future urban microclimate should be analyzed. Due to the insufficient ability of regional models to resolve urban effects, we use the urban climate model MUKLIMO_3, developed by the German Weather Service (DWD) for this task (Sievers, 1995). It has a horizontal resolution of 100m and uses the land use data with the specifications of buildings and greenery (e.g. mean building height, fraction of buildings, leaf area index, mean tree height) (Tab. 1 and Tab. 2, Früh et al.,2011) as well as meteorological data as input. We will evaluate the future conditions (2031-2060) in  3 cities with the data calculated by COSMO-CLM from step (a) of this proposal. With the help of the cuboid method (Früh et al., 2011) the change in the number of climate indices from step (b) with consideration of urban climate change will be calculated. In addition climate indices, days with strong heat stress will be also estimated for the time slice 2031-2060 under RCP 4.5 and RCP 8.5.
+
+
+
+
+
+d. Effectiveness and feasibility of different adaptation strategies
+
+We want to evaluate different adaptation strategies for each of the three cities with MUKLIMO_3. The strategies are green roofs, increased albedo of urban surfaces, higher amounts of inner city vegetation and water bodies as well as a new approach to generate additional living space, horizontal and vertical compactness (Taha, 1997, Lynn et al., 2009, Santamouris, 2014). The effectiveness of the adaptation strategies will be shown as impact maps of thermal load, an indicator for heat stress, in the respective cities. Additionally the number of hot days and tropical nights with different scenarios for both the present situation and future simulations from step (b) will be taken into consideration. The results will be shown in a matrix which highlights the effectiveness of the adaptation strategies in different local climate zones. The questions of feasibility of different strategies in the respective cities will also be taken into account.
+
+With the help of the simulations with MUKLIMO_3 we want to generate an automatic tool to evaluate the effectiveness of adaptation strategies for cities in different local climate zones.
+
+Finally a guideline for cities in the evaluated local climate zones will be generated, which gives stakeholders a detailed overview of the effectiveness of adaptation strategies in different urban districts.
+
+Who will take these actions?
+Three Universities, one from each city, and the local stake holders are involved in this proposal.
+
+The Institute of Meteorology from the Freie Universitaet Berlin will lead this project. Due to the long time experience in climate simulation at different scales, the project can be started without any adjustment.  Two researchers from Berlin, one researcher from Cairo (Cairo University, Institute of regional and urban planning) and one researcher from Istanbul (Istanbul Technical University, Institute of Climatology) will work on the project.
+
+The results of the project will be presented in each step to the local stake holders through our routinely round table discussions. We are in a good contact to local stake holders in these cities, as we had another project (LOCLIM3) on regional climate change in Cairo and Istanbul. However, the urban climate change at micro scale and its interaction with the urban heat island has not been considered in that project.
+
+The Dialogue with local stake holders is the most important part of our project.
+
+ 
+
+Where will these actions be taken?
+Actions will be taken in cities which are located in different climate zones with different urban characteristics.  Berlin is located as a warm humid continental climate, although Istanbul shows hot-summer Mediterranean climate and Cairo is located in the hot desert climate (different temperature and humidity)
+
+In addition to their regional climate, they have all water bodies, but they have different urban morphology and non-similar fraction of built-up and vegetated area.
+
+These differences have direct influence on the effectiveness of the adaptation strategies: As to have the highest cooling from water bodies, the ventilation pathways of the cities should not be closed and the wind should not be obstructed, although water temperature plays also an important role. Therefore, urban structures should be analyzed in detail and under the consideration of climate change at micro scale.
+
+In addition, specify the country or countries where these actions will be taken.
+Germany
+
+Country 2
+Egypt
+
+Country 3
+Turkey
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+Evaluating the effectiveness of adaptation strategies and their feasibility in cities is the key towards adapting our cities to the impacts of climate change. The influence of climate zones and urban characteristics on the effectiveness of adaptation strategies supports stake holders to select the effective ones in different parts of the city: the canyon orientation, surrounding area, urban morphology, main ventilation path and the direction of the dominant wind during hot days.
+
+As the health consequences of urban climate change should be considered, the human thermal comfort will be calculated for each scenario and each city A guideline will be generated, which gives detailed information about the effectiveness and feasibility of adaptation strategies in each city. This guideline will support stake holders of cities located in similar climate zones with similar urban characteristics.
+
+Of course some of our adaptation strategies contribute to climate change mitigation and reduction of greenhouse gas emissions (e.g. green roof, green city).
+
+The following four questions will be answered in our guidelines:
+
+How is the effectiveness of a strategy (in terms of cooling and improving human thermal comfort)?
+How feasible is the adaptation strategy (in dialogue with stake holders)?
+Will the adaptation strategy mitigate climate change (combined strategy)?
+Which part of the city needs adaptation urgently and how is the plan of stake holders for this area/district?
+What are other key benefits?
+The evaluation of our suggested strategies is not only based on the cooling effect of them. The health effects of the strategies (human thermal comfort/thermal stress) will also be estimated, which addresses the importance of the human health under changing urban climate.
+
+The human thermal comfort indices depend on temperature, humidity, radiation and wind. Therefore in this project, distinctive strategies will be evaluated and suggested for different urban districts, depending on climate zones and urban factors.
+
+ 
+
+Districts with limited ventilation and therefore higher human thermal stress will be identified and presented to the stake holders as hot spots of the cities, which requires adaptations.
+
+In Berlin there is an initiative with the title “Berlin Climate neutral 2050”  (http://www.berlin.de/senuvk/klimaschutz/bek_berlin/download/Broschuere_BEK.pdf). This is more focused on applying renewable energy and climate change mitigation. Our project can easily be a part of this agenda and can accelerate achieving a climate neutral Berlin in 2050. We are already working with the senate of Berlin on another project.
+
+For Cairo, we have very good connections to stake holders and there are plenty of plans for further urban planning (despite severe environmental problems), as the population is growing. We have all future urban development scenarios from our partner in the faculty of regional and urban planning at Cairo University and can start with the urban simulations under climate change and analyzing the hot spots and evaluating the adaptation strategies.
+
+Our partner in Istanbul is the adviser of the city administration in the field of climate, Therefore our results will support the city administration to select the most effective strategies for different districts, with human health being taken into consideration.
+
+In our three cities, our project will support
+
+Environment by improving the micro climate through our strategies
+Economy by identifying the effectiveness of strategies. If the effectiveness is not sufficient, the strategy will not be applied. The strategies will be checked for each district with different urban characteristics (100 m resolution).
+Society by reducing the thermal stress and improving the human comfort.
+Costs/Challenges
+What are the proposal’s projected costs?
+One Researcher for high-resolved climate modeling and three researchers for urban climate modeling and evaluation of strategies at micro scale from each city (Berlin, Cairo, and Istanbul) are required. Therefore a total budget of  300,000 $ is proposed.
+
+Timeline
+As we will focus on the middle of the century (2031-2060), we design strategies regarding the climate change at this time slice (medium-range). Of course the strategies will have immediate impact, as soon as they are applied. The Impact can change over time and it is strongly dependent on the success of the climate change mitigation in these cities. 

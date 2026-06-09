@@ -1,0 +1,218 @@
+Proposal number: 1333933
+
+Proposal: Incentivized disaster preparedness & gamification
+
+Summary
+Every year, insurance companies and governments incur billions of $ in expenditure for disaster mitigation and compensation. Affected communities often find their economy shattered, and families lose their loved ones. If insurance companies & governments offer incentives to people and entities who demonstrate adequate disaster preparedness and contingency planning,  these incentives shall cost less than the billions of dollars worldwide spent on post-disaster measures.
+
+We propose a platform to incentivize disaster preparedness and create awareness for mitigating risk (including financial risk) from weather-related disasters. Our initiative will not only protect people's lives, property and local economy, but also deliver value to local employers, the insurance companies and the government, which we will convert into stakeholders in disaster preparedness.
+
+The platform will inform people and entities the disaster preparedness steps & guidelines they need to follow to be incentivised for their insurance coverage. The platform deploys interactive tools to create disaster preparedness awareness. For e.g., a conversational chatbot (engaging, persuasive) becomes an onboarding, educational tool, and thereafter can invite people & their friends to other experiences like simulation games, AR, VR, etc. Gamification & incentives will be prominent tools for spreading awareness.
+
+We educate and help users define their priorities and generate and tune evacuation plans, business process contingency plans, basic necessities and low-tech communication backup plans, etc. Individuals and organizations that have demonstrated disaster preparedness for themselves or the community can thereafter qualify for incentives through our platform. Incentives might include insurance discounts, state/local tax rebates, utility bill discounts, community development grants, and more. 
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+The proposed online platform "Insurecolab.com" will be the one stop portal for the following:
+
+
+
+
+
+
+A. Incentives and rewards from insurance companies or/and governments for following disaster preparedness measures.
+
+Working:-
+
+The user visits the online platform "Insurecolab", to see the cost of insuring life, property, livelihood. Community facilitators/paid volunteers can help users navigate the platform.
+The users can compare the actual cost of insurance coverage and the steps and guidelines or tasks they need to follow to get incentives.
+User completes the tasks (with facilitator help, if needed) or follows guidelines for incentives.
+Proof of completion gets the user incentivized insurance coverage.
+ 
+
+Benefits:-
+
+This will encourage people to adopt strict disaster preparedness measures hence reducing disaster risk.
+It will help insurer to cover many more people as the improved adherence to disaster preparedness measures will reduce the risks to insurance companies. This also benefits the people by providing them better and affordable insurance coverage.
+It will help save lives.
+Less financial burden on government from disasters, thus freeing up more funds for growth and development.
+It will help to converge private and public construction practices towards disaster risk management, and foster private-public partnerships.
+Communities benefit by developing a pool of facilitators (paid=job creation) and users, since that creates a ripple effect of awareness. 
+Tax benefits to users buying insurance (e.g. In USA, some states like N Carolina have such programs in place).
+ 
+
+Below, in B, C, D, we describe some of the education/awareness/preparedness tasks users need to complete for getting incentivized insurance coverage and other benefits. 
+
+B. Gamification & digital tools for disaster preparedness. VR Simulation, Flash games, Smartphone games, Game consoles. These disaster simulation games are designed to give good knowledge about these disaster management program, users need to achieve a score of at least 80% to avail the incentives. 
+
+Flash simulation games. If the insured entity is an organization then all or a significant majority of its stakeholders or employees who are insured should complete this task online by visiting an URL.
+
+
+
+ 
+
+Screenshot from an online disaster simulation game by Playerthree and UN/ISDR for hurricane.
+
+
+
+Screenshot from an online disaster simulation game by Playerthree and UN/ISDR for wildfire.
+
+2.Virtual reality/Mobile simulation games.
+
+
+
+Screenshot of V.R Tsunami simulation game from a V.R Headset.
+
+Benefits:-
+
+Create awareness among people, starting from small kids/classroom settings.
+Boosts mental and physical confidence of people by practicing disaster conditions under simulated conditions like VR.
+People learn various skills required to cope different kinds of disaster from interactive games and incentivised MOOCS.
+ 
+
+C. Low intensity disaster simulation by partnering with disaster simulation experts. Registered disaster simulation trainers/facilitators will visit client sites and conduct low intensity level controlled disaster simulation and measure the results. They shall extrapolate the results to measure the impact at a larger level. Once this task is complete they give out disaster management certification with disaster resistance level, the same can be uploaded for availing insurance coverage and government incentives.
+
+
+
+
+
+
+
+
+
+Image courtesy:-http://www.trainingfordisastermanagement.com
+
+Benefits:-
+
+Low intensive disaster simulation helps identify loop holes and give a chance to rectify the same.
+Help test effectiveness of disaster management skills of people and local disaster management teams.
+ 
+
+D. Online MOOCs for disaster management, allow individuals to complete the disaster management certification from registered & recognized authorities and upload the certificates of course completion. In case of a company or organization a mandated percentage of employees should complete certification. In case of individual, the certification should be relevant to the insurance that they are purchasing. InsureColab will simplify the process of discovering relevant MOOCs, enrolling in them, and staying motivated to complete them. We look forward to partnering in such courses with edX.org which is an MIT initiative.
+
+
+
+E. InsureColab will have an option for communities (e.g. geographical neighborhoods, villages) to use group buying for low-cost insurance. In such group buying scenarios, the buyers will be encouraged to qualify for incentives and discounts by implementing disaster preparedness.
+
+Typically, people with more money and assets have been the prospective customers for most insurance agencies. Indeed, such people are likely to be better-educated, and more interested in protecting their assets and their dependents (or their businesses) from unexpected disasters. We believe in bringing disaster insurance to the poorer families and the small businesses that cater to the bottom of the pyramid. We believe that poorer communities will prepare themselves more proactively against climate-related disasters if they agree that they should not rely purely on government dole-outs for disaster mitigation; that is, if these communities can get insurance for themselves. The average poor individual/family does not think it has enough assets or spare cash to justify buying insurance, but we can change that if multiple families and communities can collaborate to buy insurance. InsureColab will have an option for communities (e.g. geographical neighborhoods, villages) to use group buying for low-cost insurance. In such group buying scenarios, the buyers will be encouraged to qualify for incentives and discounts by implementing disaster preparedness. For example, by digging ditches and holding tanks to improve rainwater capture in areas susceptible to droughts, or by organizing evacuation drills for earthquake or flooding scenarios. When community members collaborate to insure themselves, they also become shareholders in the community-wide initiative, and help make the community more resilient.
+
+F. Bridging various stakeholders, helping them meet their priorities. 
+At InsureColab, we will demystify disaster insurance and make it more approachable for individuals, communities and businesses. One way will be to offer insurance coverage tailored to the buyer's ability to pay, and utilizing the ubiquitous internet-connected smartphone to explore the insurance options. That is, prospective buyers can use a simple graphical slider tool to select number of insured, compensation available, the boundaries of the area where the insured people and/or assets are located, etc and see how their selections affect the estimated cost of insurance. 
+
+Today, many insurance companies are using sophisticated models, big data and analytics to quantify risk and determine pricing for insurance products. Often these rely on aggregated data for geographical areas, for specific demographics, for asset types, etc. In some instances, insurance companies have successfully experimented with price incentives for behavioral change in individual customers. For example, some auto insurers provide telematics devices for insured vehicles to monitor driving behavior. As a result, a significant proportion of drivers in the telematics-monitored vehicles now drive more carefully to qualify for lower premiums on auto insurance. We believe that insurance companies are missing out on many opportunities. Insurers can motivate not just individuals, but entire communities to decrease their climate disaster risks. How? InsureColab shall bridge the insurance industry’s expertise in actuarial forecasting (e.g. http://actuariesclimateindex.org/home/ ) with the individuals, communities and organizations willing to improve their risk scores through appropriate improvements, trainings, and other interventions. By partnering with InsureColab, insurance companies can profitably expand their markets and customer base, diversify their exposure to risks, and modulate the human factors that might further mitigate risks. As an example, at InsureColab, we envision a future in which an insurance company can communicate a newly-established guideline for risk reduction to a social media “community” that purchased insurance as a group, and the members of the community will work amongst themselves at the grassroots level to implement the risk-reduction recommendations - since that financially benefits all members of that group.
+
+A hypothetical example: a Facebook group of fishermen in two adjoining villages in Sri Lanka are advised - via the InsureColab targeted messaging lists- to not go out to sea if the wind speed exceeds 22 mph. The fishermen from one village police each other to follow that guideline from the insurer, while a few members of the second village claim their location is not as much affected by the wind. Using the InsureColab platform, the second village requests a re-evaluation of the guideline. The insurer determines that some boats in the second village may indeed weather winds of up to 25 mph, but that the overall risk to the population of both villages is fairly equivalent at 22 mph. Both villages decide to erect and share data from a wind speed measuring & weather alert station, which is partly subsidized by the local government. Not only are the villagers better-informed and protected as a result, but even the insurer gets to improve its analytics and forecasting tools, while continuing to offer affordable insurance to both village communities.   
+
+In areas where InsureColab has information on relevant government programs and incentives, or has even established connections with those programs, our platform will help users discover available incentives, as previously mentioned. For example, existing government programs in nutrition and personal hygiene, wherein the government provides free/subsidized necessities like staple food items and personal care items, can tie those subsidies to the completion of InsureColab-driven community programs in disaster preparedness. Wealthier communities and businesses can lower their property/business tax assessments by demonstrating disaster preparedness and hazard insurance. Larger corporations can invest in climate change preparedness programs in their local areas as part of their corporate social responsibility commitments, whether voluntary or mandatory. 
+
+Institutions, whether they are academic, non-profit, or for-profit corporate entities, will be important partners in our initiatives. Their campuses, facilities and business infrastructure are susceptible to climate disasters, but they can also be improved to improve their resiliency - and earn incentives from the government and from insurers. But perhaps more importantly, institutions are built on people - and disasters like floods, climate-related disease outbreaks, etc can affect these people, i.e. employees as well as customers. Institutions can enhance their *Safe Workplace* certification by mandating training for their staff, and low intensity simulations as described in C above. They can also offer discounted group insurance policies for their employees who have demonstrated the required skills to face disaster situations. As InsureColab builds up more and more institutional partners, we shall also facilitate expertise sharing between them, insurers, disaster specialists and governments. Moreover, as we mention in Proposed Pilot Program below, specific institutions can give us access to important audiences like farmers, etc.
+
+Thus, InsureColab’s improved process for exploring, shopping and purchasing insurance products will bring individuals, communities, organizations, businesses and governments together with insurance companies, to build up their capacity to Anticipate and Absorb climate hazards, while Reshaping the relationships between these stakeholders to foster resilience in the face of climate change.
+
+Who will take these actions?
+The online platform http://www.insurecolab.com and app to bring together community,insurance companies and Governments authorities to provide incentivized insurance coverage will be built by us. Gamification tools also will be developed by collaborating with suitable partners.
+
+Gamification tools include App based games for web, smartphones and VR, AR devices. Possible collaboration with Playerthree and UN/ISDR for theirhttp://www.stopdisastersgame.org/en/home.htmldisaster awareness and simulation game online.
+
+Teaming up with Virtual reality & augmented reality enthusiasts to develop more realistic disaster simulation and awareness games. We will adopt a crowdsourcing approach, and outreach to Games Developer Conference participants.
+
+Incentive based MOOCs can be integrated with collaboration with EDX.ORG & Coursera.
+United Nations partners will enable us to reach out and bring potential partnerships to the program by collaborating with insurance companies and government authorities. Media spotlight, our crowdsourcing and crowdfunding campaigns, as well as targeted online communication will help us connect with more partners.
+
+Insurance companies and government authorities are the major partners of the platform as they enable us to provide insurance benefits and other incentives to our users- both people and organizations.
+
+ 
+
+Where will these actions be taken?
+The model can be implemented in any location which is disaster prone area or has previous history of loss of lives and property due to natural disaster. 
+
+
+
+Source:- Based on the United Nations University World Risk Index 2014
+
+The target for these programs include small offices, small businesses, farmers, local shops, local schools & colleges, poor and middle class family whose life and property are at risk due to natural disasters who otherwise couldn't afford insurance coverage due to high cost of insurance or they don't have the technical know how for the same.
+
+Proposed pilot program:-
+
+Disaster in focus:- Flood
+
+
+
+Learning from 2015 South Indian floods(Chennai).
+
+Its been 2 years after horrific Chennai flood which even one of the author of this proposal had unfortunately experienced in full fury of nature.
+
+Sadly not much of progress has been made still with water logging and measures to cope with the flood in Chennai. The recent rain last week created again a flood like situation, thanks to rain it stopped after hours of rainfall, they are heavily relying here on chances, chances with their life & property.
+
+Insurecolab should be able to deploy a pilot on flood insurance, awareness & preparedness in Chennai, Tamilnadu. Private & government insurance & subsidies can be given out through insurecolab platform for strictly following flood resistant measures during construction. Understanding the flood risk to your area, preparing flood risk map of your local area. Flood experts will make this flood risk map for each property & its surroundings with best possible evacuation route.Prepare an emergency kit, household flood plan, deploy flood beacons.
+
+In India, many institutions and public sector enterprises (PSUs) employ workforces numbering in the thousands, and many employees live in housing colonies located near the work campus. Older buildings , shoddy construction, which makes them susceptible to flood. There is high risk of water logging during the Indian monsoons, which is exacerbated by factors inside and around these housing colonies, such as urban population density, unauthorized constructions and encroachments, as well as litter and garbage blocking the open sewers on streets as well as below-ground sewers systems. The majority of middle class and lower income group families living in these housing colonies typically do not have renters insurance, or property insurance, though quite a number of them subscribe to life insurance and- where applicable- auto insurance.
+
+We intend to approach some PSUs in India to pilot InsureColab services to their large employee pools. For example, these shall include the Research Standards and Development Organization of the Indian Railways (campus in landlocked Lucknow), the National Institute of Oceanography (coastal campuses), the Indian Council of Agricultural Research (multiple campuses, and the Institute itself has interests in climate hazard mitigation, for e.g. see http://www.icar.org.in/en/node/10964 ). 
+
+In addition, specify the country or countries where these actions will be taken.
+India
+
+Country 2
+Nepal
+
+Country 3
+United States
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+It will help people to better insure their house & property from climate change related disaster and it shifts the cost burden of the disaster from individuals & governments to private insurance companies.
+Create awareness to adopt strict disaster safety & preparedness measures by gamification & incentivization.
+It will also enable small scale farmers to insure even their crops & agricultural produce against climate change related weather hazards which was otherwise not possible.
+It will help save lives, as private insurance companies provide these incentivised insurance cover to people who follow strict guidelines for safety & preparedness. People also will have better understanding and knowledge of these disasters.
+What are other key benefits?
+People are more likely to make better choices. For example, if one builds a dwelling following seismic codes to get incentivized insurance coverage and other benefits, the house is less likely to suffer catastrophic damage in an earthquake or natural disaster, and residents are at a lesser risk of injury in trying to salvage their possessions.
+
+Courage from being prepared to face natural disasters.
+
+A positive ‘social engineering’ benefit: i.e., more people look out for each other, their environment, and cooperate to improve resiliency.
+
+Trained youth & able-bodied volunteers create early rescue teams in a catastrophe.
+
+Children’s awareness of basic safety protocols, helps adults keep families safe.  
+
+Insurance companies enjoy higher enrollment, lower claim risk.
+
+Other service providers, employers are motivated to put down roots in disaster prone areas.
+
+People at the bottom of the pyramid no longer feel ignored.
+
+Community-driven development leads to cross-functional resilience across hazards.
+Financial risk mitigation for private & government insurance sector by improving the disaster preparedness measures, educating people about the skills to cope the disaster, empowering people with technology to overcome disaster challenges & strictly following disaster mitigation guidelines & rules.
+
+Pooling resources for group insurance may work well, initially we have seen people hesitant to even share a cab or use pool cab but now it is very popular, now everyone is talking about co-working spaces. So we don’t see any reason pool insurance shouldn’t work.
+
+The answer to insecurity of land tenure & informal settlements is blockchain based insurance coverage with smart contracts. Blockchain is the building block between people & insurance companies that brings back the trust & security.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+The medium used as solution here is mostly digital & virtual which explains the modest budget. We understand from your feedback the importance of have an outreach strategy to get this applied on the ground, this will require volunteers on ground and needs larger funds, the best way I can think of making a start is by collaborating with schools & colleges, if we can get young kids & young people to think about the importance of disaster preparedness and who act as ambassadors for disaster preparedness then they can reach each family.
+
+Online platform and app- $7500
+Gamification tools, Web-based flash simulation games, smartphone games and Xbox Kinect. - $12,500, but likely lower once we establish partnerships with organizations that already have tools or are developing tools and need communities as a testbed (e.g. Microsoft, IBM, GDC, etc)
+Online MOOCs - $2500, so we can subsidize access to existing MOOCs and additional content.
+Physical low-intensity disaster simulations - $2000, and thereafter paid for by local governments or organizations per simulation.
+Hiring trainers and simulation facilitators - $3000, in collaboration with institutions of higher learning in each country where we operate.
+Virtual meetings and collaboration spaces rentals - $250 
+Targeted online advertising (Year 1) - $1000.
+Outreach activities for volunteers in schools & colleges in the budeget - $20000
+
+TOTAL US$ 48,750
+Timeline
+Online platform and app- 5 months.
+Reaching out to insurance companies, governments - 4+ months (partly overlapping with #1 above)
+Building regional teams to evaluate incentives and lay groundwork- 3 months
+Gamification and awareness campaigns. - 4+ months.

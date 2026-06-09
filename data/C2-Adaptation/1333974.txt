@@ -1,0 +1,53 @@
+Proposal number: 1333974
+
+Proposal: Climate smart agriculture: A solution for sustainable environmental security
+
+Summary
+Warming of the climate system is unequivocal (IPCC, 2014). By 2050, the world population is expected to increase by 2.4 billion, which will put more pressure on the world’s agricultural systems for food, fuel and fibre production and challenge the potential to achieve food security and environmental sustainability (Delgado et al., 2011). Similarly, Bangladesh is facing greater challenge for feeding its teeming population against a backdrop of a changing climate and growing competition for land, water, labour and energy. Current tillage practices are responsible for degradation of air-soil-water ecosystems (e.g. soil organic matter (SOM) degradation, soil erosion, greenhouse gas emissions, nutrient leaching losses, ground and surface water pollution etc.). Switching to no tillage (NT) and reduced tillage (RT) with multifunctional cover crops is expected to influence the stoichiometrically linked C, N and P cycling processes and transformations in SOM, decrease reactive N and P losses to the environment and thus increase their use efficiency. Application of multifunctional cover crop in rice-rice cropping pattern in agriculture has been reported to improve soil biophysico-chemical conditions in the developed world but in Bangladesh there is no research report available. We, for the first time, evaluate the application of multifunctional cover crops in rice-rice-cover crop system in Bangladesh agriculture and assess its impacts on sustainable soil health, reduction of chemical fertilizer application and sustainable crop productivity. The developed technologies will function as a tool for enhanced sustainable soil, water and environmental management for food and environmental security.
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+We will develop a suitable conservation agriculture package for Bangladesh as a tool for climate change adaptation and mitigation. The cropping pattern will be Transplanted Aman rice (grown during July to December; requires less or no irrigation) – Boro rice (grown during Jan to April; requires irrigation) – multifunctional cover crops (leguminous/deep rooted; grown during May to July). These cover crops will be incorporated into soil for regenerating soil fertility for the next crops. These will grow on the residual soil moisture and reduce evaporation loss of water, reduce nutrient leaching by deep root­ing and add C to soil after incorporation. The tillage systems will include minimum disturbance of soil (NT), reduced tillage (RT) and the control will be conventional tillage (CT) in Transplanted Aman rice – Boro rice cropping pattern. The temporal variation in soil recalcitrant and labile C concentrations will be measured to estimate the C stock changes over time and with the treatments. Routine soil properties will be measured to elucidate the drivers of C stock changes in soils.
+
+Who will take these actions?
+Researchers, academicians, environmentalists, NGOs, Gov personnel etc.
+
+Where will these actions be taken?
+Agriculture sector, may be in my own country 
+
+In addition, specify the country or countries where these actions will be taken.
+Bangladesh
+
+Country 2
+Ireland
+
+Country 3
+Belgium
+
+Country 4
+United Kingdom
+
+Country 5
+United States
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+The field and lab experiment will provide the necessary empirical database to quantify the effects of relevant management practices on the C and N cycling. This will allow us to develop an integrated soil–crop management tool (climate smart agriculture/conservation agricultural practices) for climate change ad­aptation and mitigation for Bangladesh. The expected impacts will be:
+
+help farmers conserve and potentially improve the sustainable productiv­ity of their rice fields (increased soil aggregation and C sequestration/C stock change in stable aggregate)
+raising awareness of the farmers for soil health and soil fertility (workshop)
+on the larger scale, contribute to the mitigation of climate change by lowering the chemical fertilizer application and thus greenhouse gas emissions from rice fields (reduced chemical fertilizer application)
+What are other key benefits?
+Our vision is to identify the best conservation agriculture package that helps enhance C sequestration in soil and at the same time reduces N, P, S etc. application rates, which in turn will improve sustainable soil health and environmental security without decreasing rice yield.
+Screening of the best performing cover crop with regard to N, P and S application rates in cover crop-rice-rice pattern, increased soil stable aggregate formation and C sequestration. Lowering the chemical fertilizer application will reduce N losses to the environment by leaching and greenhouse gas emissions.
+Screening of the best combination of cover crop and tillage system, what we call here best soil-crop management tool, for sustainable soil health and environmental security.
+This will foster follow-up activities to develop academic outreach programmes for students, policy makers and farmers; raising awareness of the farmers for soil health and soil fertility; help farmers conserve and potentially improve the productiv­ity of their rice fields.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+about $8000
+
+Timeline
+1 year

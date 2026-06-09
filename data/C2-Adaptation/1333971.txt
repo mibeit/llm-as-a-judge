@@ -1,0 +1,275 @@
+Proposal number: 1333971
+
+Proposal: Desalination Hopscotch Enables Adaptation to More Frequent and Longer Droughts
+
+Summary
+Waters of the Gulf of Mexico border the south of Texas. Desalination of seawater from the gulf is used to augment the supply of clean water that is available to users in Texas. Linking an underground system of aquifers allows the augmented supply of water to be distributed to inland users.
+
+Known methods of desalination, drilling, pumping, treatment, transport, and injection are used in a number of "hopscotch" steps that bring clean water from one aquifer to the next. Water quantity and quality are maintained or improved in each aquifer that is involved in the operation.
+
+This proposal represents a break in thinking about transport of water following desalination of seawater.  Instead of laying a long pipeline from a desalination plant near a coastline to a drought-stricken inland location, a "virtual pipeline" uses a chain of aquifers that each in turn makes clean water available to the next further-inland aquifer.
+
+In an example presented here, the City of San Antonio, Texas, enjoys an augmented supply of clean water from a nearby aquifer. That clean water does not come directly from a desalination plant. Rather, it comes from a series of exchanges of water between aquifers. Those exchanges are initially enabled by using desalination to augment the water supply in the Gulf Coast Aquifer.
+
+A similar series of exchanges could be used to ensure locations in Egypt against water scarcity if its supply of water from the Nile River were to become curtailed by a newly constructed dam in Ethiopia. 
+
+Using aquifers to distribute clean water is cost-effective and environmentally responsible. It avoids environmentally destructive effects from constructing long pipelines to distribute desalinated water from coastlines to inland areas.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+Note: Readers are kindly asked in this section to leave their preconceptions behind. Desalination Hopscotch is a radical new departure from conventional thinking about water management. A cross-aquifer systems approach to sharing desalination resources enables a revolutionary means of adapting to times of drought that are longer and more frequent because of climate change.
+
+Below is our concept of how, in general, a Desalination Hopscotch operation will be managed:
+
+Water from desalination of ocean water is delivered to Aquifer A 365 days per year. Adding desalinated water from the ocean to Aquifer A will improve the general quality of water that is found in Aquifer A.
+Using pumping, transport and insertion operations, Aquifer B receives water extracted from Aquifer A. That operation will be carried out during wet seasons – times of the year when extraction of water from Aquifer A for the benefit of Aquifer B will in no way compromise the continuous availability of clean water to users of Aquifer A.
+Users of Aquifer A are compensated for water extracted from Aquifer A and inserted in Aquifer B. The compensation is that desalinated water from the ocean is inserted into Aquifer A. Operations of desalination, transport, and insertion are paid for by users of the water that is extracted from Aquifer A and inserted in Aquifer B.
+Users of water from Aquifer B can use previously stored water from Aquifer B whenever it is needed. That increases the resilience of the system of water supply that operates for users of Aquifer B.
+ 
+
+Need for surface transport is non-existent if Aquifer B, seen from above, overlaps Aquifer A but is located at a different elevation underground. Need for surface transport is minimal if the two aquifers are close.
+
+In the above scenario:
+
+Users of water from Aquifer A are benefactors of overall improvement in the quality of their water. The volume of water available to them stays constant, assuming water extracted for treatment, transport, and injection into Aquifer B is equal in volume to what has been supplied to Aquifer A by the desalination plant.
+Users of water from Aquifer B benefit from having an augmented supply of water that comes from Aquifer A. The volume of the supply is equal to the volume of seawater that was desalinated and injected into Aquifer A. The quality of the water injected into Aquifer B is equal to or better than the quality level agreed upon by the interested parties.
+ 
+
+In essence, two separate aquifer systems are joined into a larger system in a manner that allows users of both aquifers to benefit from a new source of water that comes by way of desalinating ocean water. Aquifer B users pay to enhance the availability and quality of water in the larger system. Without in any way making Aquifer A users more vulnerable to water scarcity, water levels in Aquifer B can be maintained at levels where users of Aquifer B will enjoy greater resilience against water scarcity during times of drought.
+
+It is easy to imagine an only slightly more complicated scenario where users of a third aquifer (Aquifer C) benefit from an injection of water from Aquifer B. Theoretically, the number of "hopscotch" events – pumping, transporting, and injecting – could extend from one seacoast to another.
+
+In an example of Desalination Hopscotch proposed for Texas (as described in detail below), operations in Texas produce a virtual pipeline of water from the Gulf of Mexico to San Antonio. The feasibility of the operation depends on Gulf Coast Aquifer users accepting as adequate (a) compensation that would be offered by San Antonio in the form of desalinated water and (b) assurances by San Antonio that the Hopscotch operation would be managed in a way that no water scarcity would be created for Gulf Coast Aquifer users because of the Hopscotch operation.
+
+Adaptation to water scarcity in the face of longer and deeper droughts can be improved for the users of any or all the intermediary aquifers by adjusting the output levels of the Desalination Plant to meet their water demands beyond the needs of the users of the final aquifer in the Hopscotch operation.
+
+Several professional hydrologists were consulted regarding these proposed actions: (a) Dr. Christiane Runyan from the US, (b) Dr. Delton Chen from Australia, and (c) a third professional hydrologist who remains anonymous because of a restriction in his employment contract. We were encouraged to be given feedback from all three hydrologists that the Desalination Hopscotch approach to increasing resilience against water scarcity was a strategy that could work. However, that positive feedback was accompanied by certain provisos about what would need to be done to plan and carry out a Desalination Hopscotch operation in any specific setting.
+
+Specific provisos included the following:
+
+Modeling of groundwater locations and flow would need to show that sustainable levels of water would be available from a "donating" aquifer across seasons and years. Some data collection, done at newly drilled wells, would likely need to be conducted if complete and contemporaneous modeling data were not already available from existing records.
+Stakeholders would need to be involved at every level and stage of planning. Significant resistance would be expected if stakeholders became concerned that their access to clean and sufficient quantities of water might become compromised. Careful groundwork could, however, show to stakeholders how adding desalinated water to aquifers would improve the quality and reliability of their water supply.
+ 
+
+Quoting Dr. Chen: "Your idea is conceptually sound in my opinion, but the costs and CO2 emissions are key in my mind, and I agree that this kind of issue is about stakeholder engagement. Groundwater aquifers are often misunderstood by the public -- they're mostly porous sedimentary rock, and not like underwater rivers -- and people tend to be rather selfish with water and groundwater."
+
+Regarding CO2 emissions, we would like to point out that some desalination methods can be energy intensive. If the energy source were fossil fuels, then the concern about CO2 emissions would be valid. However, whenever we recommend the use of desalination to augment water resources, we also recommend using renewable energy resources to power that desalination.
+
+ 
+
+Answers to Some Key Technical Questions
+
+1. How will adoption of the proposed project affect emissions of greenhouse gases?
+
+So far, we have not estimated the amount of greenhouse gases that will be produced by Desalination Hopscotch. However, we have asserted that it will be minimal because renewable energy sources will be tapped whenever and wherever possible. In Texas, we have access to copious supplies of green energy from solar and wind farms.
+
+Below, in our proposal, we have estimated some lowered emissions of GHG over business-as-usual plans to tap water resources from aquifers. We will return to this topic with more complete estimates after the fact-finding trip to the San Antonio area that we have planned to take place in February 2018.
+
+2. Is the volume of water available in an aquifer visible through earth observations and/or some other open source method?
+
+There is no a direct method to measure the volume of water available from an aquifer. However, the Texas Water Development Board (TWDB) provides an accessible Groundwater Database (GWDB) with records for approximately 140,000 water wells across the state. The information includes the water level [7]. Texas aquifers have an estimate of 16.8 billion acre-feet of water, and between 25-75 % of this amount is probably recoverable. Numerical modeling is used to estimate groundwater availability per unit of time. Models are designed for specific aquifers, under defined conditions [8].
+
+3. What is the feasibility of 'injecting' water equal in quantity to the quantities needed to replace the amount of water abstracted?
+
+Based on a comparison to other projects involving the injection of water, the amount needed to replace the amount of water subtracted in our project is feasible. Injecting 50,000 acre-feet of water for Desalination Hopscotch per year can be compared to the injection rate that has been achieved in an aquifer replenishment program in The Orange County Water District of California. That project involves injecting up to 300,000 acre-feet per year of purified water to recharge underground storage [9].
+
+4. How feasible will it be to pump water from one aquifer to another? How much geological resistance will there be, what will be the efficiency of attempting to direct water in this way?
+
+The technology for pumping, transporting, and injecting fluids is well known. Resistance to injection is a potential problem at any specific location. Fortunately, Texas is a large state and with extensive aquifers; and, therefore, specific sites for injection can be selected from among sites where resistance to injection is not a problem that cannot be overcome. The Texas Board of Water Development is conversant with the topic of injecting water into aquifers for storage, as evidenced by the following quote: "In order to achieve cost-effective, sustainable and reliable water supplies sufficient to meet projected future demands for Texas, large volumes of water storage will be required. … ASR [Aquifer Storage and Retrieval] can provide a significant portion of the storage needed to meet that future demand. The existing ASR systems in Texas have shown that the technology is feasible using different water supply sources as well as in different types of aquifers and that the technical aspects of ASR are not the major factors inhibiting its implementation." [10]. The cost-efficiency of ASR in Texas can be expected to be no less than the cost-efficiency of the successful Orange County, California, project, given that costs in Texas are much lower than in California for land, labor, and energy.
+
+5. What quality of the water will be produced, and how it would be used?
+
+We do mention on our proposal, that the water injected into the aquifers will be desalinated and treated to the same or better quality than waters in the aquifers. Therefore, the water that is produced can be used for the same purposes as the existing water in the aquifers.
+
+The process to make drinking water from desalination of water includes three steps [11]:
+
+Pre-treatment: Coagulation and filtration are used to remove the organic matter and particulate.
+Desalination: In the past, the common method used was Flash distillation, but new technology allows the use of Reverse Osmosis methods to remove dissolved solids.
+Post-treatment: Desalinated water is disinfected and conditioned (i.e. blended and minerals added).
+We have contacted Dr. Wes Tunnel, a marine scientist at Corpus Christi campus of Texas A&M University who has dedicated more than 50 years to research along the coast of South Texas. Dr. Tunnel stated that the desalinated water produced from water taken from the open ocean is safe to drink. However, there are some bay areas along the Gulf where contamination could be an issue. Once the potential sites for the development of Desalination Hopscotch are determined, evaluation of water quality will be made for each particular site.
+
+Who will take these actions?
+We will advocate for desalination plans that can help provide solutions to water scarcity in ways that are environmentally responsible. Such plans will be welcomed by public water officials in drought-stricken areas where pumping and transport of groundwater (a) becomes overly expensive, (b) is not feasible as a long-term solution because aquifers will not recharge fast enough, or (c) is resisted by environmentalists and concerned citizens. See Figure 1 where a sign protests pumping of groundwater 142 miles from Texas’ Burleson County to San Antonio. That particular plan does not constitute a long-term and environmentally responsible solution to San Antonio’s long-term needs for a reliable supply of clean water for its growing population. The amount of water that can be responsibly pumped and transported from Burleson County to San Antonio is limited and can be expected to become even more limited with a drying climate. Even now, the San Antonio plan is meeting resistance by stakeholders in Burleson County who are concerned about over-pumping.
+
+Figure 1 - Sign Protesting San Antonio’s Groundwater Pumping and Transport Plan  
+
+Protest Sign
+
+ 
+
+Implementing the Desalination Hopscotch Plan by public water officials will:
+
+Help owners of water rights maintain their ability to exercise their rights in spite of climate change causing reductions in recharge rates for aquifers;
+Mitigate negative environmental effects that would be caused by falling aquifer levels;
+Augment availability of water in a cost-effective way that also protects water quality; and
+Make seawater desalination part of water conservation planning that emphasizes responsible use, reuse, and recycling.
+ 
+
+The Vista Ridge plan does not constitute a long-term and environmentally responsible solution to San Antonio’s long-term needs for a reliable supply of clean water for its growing population. There are several controversies over this project, as expressed by environmental groups, landowners and citizens. The plan proposes to pump 50,000 acre-feet annually, from the Carrizo-Wilcox aquifers, widely exceeding the amount recharged every year by this aquifer (15,000 acre-feet/year), which already has several pumping permits approved. The over-pumping will create collateral damage, lowering the water table by several hundreds of feet (up to 466 feet over 60 years) and will affect the groundwater discharge to the Colorado and Brazos rivers. [1]. The amount of water that can be responsibly pumped and transported from Burleson County to San Antonio is limited and can be expected to become even more limited with a drying climate. The project is supposed to protect the Edwards Aquifer in San Antonio during drought, while securing the depletion of water of a different aquifer. Also, pumping the water uphill as in this case will require large amounts of energy contributing to more greenhouse gas emissions. In conclusion, the Vista Ridge project is not a sustainable development.
+
+ 
+
+Where will these actions be taken?
+If public water officials in the US were to adopt a Hopscotch plan to add desalinated water to their systems of water distribution, certain regulatory standards would be required by the Environmental Protection Agency (EPA) for Underground Injection Control (UIC) of Aquifer Recharge (AR) and Aquifer Storage and Recovery (ASR) wells. AR and ASR well owners or operators must submit basic well information to either the EPA or the state. The well is typically authorized if (a) the owner or operator submits the well information and (b) the well injection does not endanger a USDW (underground source of drinking water). [2]
+
+Additional regulations adopted by states for AR and ASR wells vary. State-specific AR and ASR regulations do not supersede federal regulations that prohibit USDW endangerment.
+
+Desalination Hopscotch can be used to benefit water users in many places around the world. A specific example is the state of Texas in the United States of America where:
+
+The desalination plant is in the area of the Gulf of Mexico where seawaters touch upon shores of South Texas;
+Aquifer A is the Gulf Coast Aquifer;
+Aquifer B is the Carrizo-Wilcox Aquifer; and
+Aquifer C is the Edwards Aquifer, which is tapped by water users in San Antonio
+ 
+
+Figure 2 - Major Texas Aquifers
+
+Major Texas Aquifers
+
+Thus, the following hopscotch steps would take place:
+
+Step 1:  Seawater would undergo desalination at a location near where waters of the Gulf of Mexico touch the Texas coast.  See Figure 2 showing Texas, part of the Gulf, and aquifers in Texas. A coastal part of Texas and a possible site “D” for a desalination plant is shown in Figure 3, where other salient locations are zeroed in upon and described in subsequent steps.
+
+Figure 3 - The Desalination Hopscotch
+
+Desalination Hopscotch - San Antonio, TX
+
+ 
+
+Step 2:  Desalinated water from Step 1 would be injected into the Gulf Coast Aquifer at location “GCI”, very near “D,” thereby augmenting and improving the aquifer’s water. 
+
+Step 3:  Further inland, a location “GCP” is shown, where water from the Gulf Coast Aquifer is removed by pumping from the aquifer and transported toward the Carrizo-Wilcox Aquifer by pipeline “P1.”
+
+Step 4:  At location “CWI” water is injected into the Carrizo-Wilcox Aquifer. Prior to injection, the water is treated as necessary so that it is as pure or purer than the water already in the Carrizo-Wilcox Aquifer.
+
+Step 5:  At location “CWP” water is pumped from the Carrizo-Wilcox Aquifer to be transported by pipeline “P2” to the Edwards Aquifer.
+
+Step 6:  At location “EI” water is injected into the Edwards Aquifer. Prior to injection, the water is treated as necessary so that it is as pure or purer than the water already in the Edwards Aquifer.
+
+Step 7:  At location “S” water is pumped from the Edwards Aquifer for use by consumers in San Antonio.
+
+In addition, specify the country or countries where these actions will be taken.
+United States
+
+Country 2
+Egypt
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+The impact of the Desalination Hopscotch proposal on greenhouse gas emissions will be profound. That assertion is easy to make because the Hopscotch approach replaces the Vista Ridge approach, and Vista Ridge has a "business-as-usual" approach that contains no stated policy for reducing greenhouse gas emissions.
+
+By comparison, the Hopscotch approach specifies the use of renewable energy at every possible level of construction and operation. Under the Hopscotch plan for water conveyance, once water is inserted for storage into one part of an aquifer, water at a distant part of the same aquifer will become available for recovery with no direct cost for conveyance and no need for burning fossil fuels.
+
+Use of fossil fuels in constructing and operating the Vista Ridge pipeline is not specified. Unfortunately, not preparing an environmental impact statement is legal in Texas. Subsequent lack of evidence that the Vista Ridge Project will be an environmental disaster should not be considered evidence that the Vista Ridge project will not be a disaster.
+
+In estimating the impact on greenhouse gas emissions, we have to consider the following:
+
+The Vista Ridge Project is considering pumping water from 39 wells with an average depth of 1,315 ft.
+San Antonio sits at an average elevation of 711 feet above sea level. Burleson County sits at an average elevation of 397 feet above sea level. This means San Antonio sits at an average elevation of 314 feet above Burleson County.
+The Vista Ridge Project is planning to bring 50,000 ac-ft of water per year to San Antonio.
+Assuming 100% efficiency, a pump can lift 319.5 gallons of water 1 foot with 1 watthour of energy. Water pump efficiency runs 40-70%. We choose the middle of this range: 55%. This means 175.7 gallons of water can be lifted 1 foot with 1 watthour of energy.
+ 
+
+Not knowing exactly the conveyance plan of the Vista Ridge Project to transport water from Burleson County to San Antonio, we assume that water from the Burleson County wells will have to be lifted at least 1,629 ft (1,315+314) before it reaches San Antonio.
+
+So, lifting 50,000 ac-ft (16,293 million gallons) of water 1,629 ft will require 151.1 GWh.
+
+Getting 151.1 GWh of energy from coal (anthracite) will yield 53,461 tonnes (117,860,354 lbs.) of CO2, or 27,362 tonnes (60,322,228 lbs.) of CO2 if natural gas is used instead. Most likely, a mix will be used resulting in between 27,362 and 53,461 tonnes of CO2 being emitted into the atmosphere every year. That’s how much CO2 emissions the environment will be spared when the Desalination Hopscotch Project is implemented using 100% zero-emissions renewable energy.
+
+This assessment does not include the negative impact to the natural environment that will result from building the 142-mile pipeline to transport water from Burleson County to San Antonio. Such negative impact can be prevented if the Desalination Hopscotch Project replaces the Vista Ridge Project.
+
+What are other key benefits?
+Water Wars
+
+Applying Desalination Hopscotch could determine the difference between war and peace in various parts of the world. For example, war is threatened between (a) Egypt, which depends on water flowing in the Nile River, and (b) Ethiopia, which is building a dam to contain the Nile River far upstream from Egypt [3]. An alternative to war would be for Egypt to offset any loss of Nile River water by tapping an unlimited supply of desalinated water from the Mediterranean Ocean and the Red Sea. Desalinated water from those sources could be injected into the nearby and very extensive Karstified Carbonate and Nubian Sandstone aquifers. Virtually all of Egypt could be supplied with an abundance of water from those aquifers or by a single hopscotch step from those aquifers to other aquifers in Egypt. See Figure 4.
+
+Figure 4 - Egypt Aquifers
+
+Egypt Aquifers
+
+The map below [12] shows locations of the 37 largest aquifers in the world. Those aquifers, as well as many others of smaller size, could serve as channels for delivery of water to areas where water scarcity is (or is likely to become) a problem for millions of people.
+
+
+
+Potential for Scaling-Out Desalination Hopscotch
+
+There are 22 aquifer systems around the world close to seawater [12]:
+
+Atlantic and Gulf Coastal Plains Aquifer (North America, Gulf Coast Atlantic Ocean)
+Californian Central Valley Aquifer System (North America, Pacific Ocean)
+Amazon Basin (South America, Atlantic Ocean)
+Maranhao Basin (South America, Atlantic Ocean)
+Guarani Aquifer System (South America, Atlantic Ocean)
+Nubian Aquifer System (Africa, Mediterranean Sea)
+Northwestern Sahara Aquifer System (Africa, Mediterranean Sea)
+Senegalo-Mauritanian Basin (Africa, Atlantic Ocean)
+Ogaden-Juba Basin (Africa, Indian Ocean)
+Karoo Basin (Africa, Indian Ocean)
+Paris Basin (Europe, North Sea, Atlantic Ocean)
+Russian Platform Basins (Europe, Artic Ocean)
+Pechora Basin (Asia, Artic Ocean)
+Arabian Aquifer System (Asia, Indian Ocean)
+West Siberian Basin (Asia, Artic Ocean)
+Tunguss Basin (Asia, Artic Ocean)
+Indus Basin (Asia, Indian Ocean)
+Ganges-Brahmaputra Basin (Asia, Indian Ocean)
+North China Aquifer System (Asia, Pacific Ocean)
+Song-Liao Basin (Asia, Pacific Ocean)
+Great Artesian Basin (Australia, Pacific Ocean)
+Canning Basin (Australia, Indian Ocean
+Potentially, all the aquifer systems listed above could be good candidates for hopscotch water transportation. Determining which ones could be used would require analysis of the hydrogeology of each aquifer system (e.g., the flow rate between aquifers, as determined by nature of the substrate).
+
+Costs/Challenges
+What are the proposal’s projected costs?
+The San Antonio water utility, San Antonio Water System (SAWS), is planning to pump and transport water from Burleson County to San Antonio (Bexar County) through a pipeline project—the Vista Ridge Water Supply Project. The contract between SAWS and the Vista Ridge Consortium, the project contractor, will bring San Antonio up to 50,000 acre-feet (1 ac-ft = 1,233 m3) of water per year for 30 years with the possibility of extending water delivery beyond the end of the 30-year period.
+
+Here is what it will cost SAWS to get 1 ac-ft of water through the Vista Ridge Water Supply Project [4]:
+
+Vista Ridge Costs
+
+Here is what it will cost SAWS to get 1 ac-ft of water through the Desalination Hopscotch Plan [4,5;6]:
+
+Hopscotch Costs
+
+
+
+Answers to Some Key Questions about Sharing Water and Sharing Costs
+
+1. What if there are no rainy seasons to pump between aquifers?
+
+This question will be answered in the agreement that will be negotiated by parties who participate in Desalination Hopscotch If complete and lasting drought in Texas were to happen in areas seaward from San Antonio, Desalination Hopscotch would be needed more than ever. It would provide water for users who now depend on drawing groundwater directly from the Gulf Coast Aquifer. Because of San Antonio's investment in the Desalination Hopscotch system, it would be in a strong position to negotiate a fair agreement for sharing of water during an unending drought.
+
+2. The Desal itself is paid for by only those who get their water from Aquifer B? Shouldn’t water rates rise for both Aquifer A and B, since both see an improvement in water quality and water security?
+
+Users of both Aquifer A and users of Aquifer B will benefit from Desalination Hopscotch. Given that reality, representatives for users of Aquifer A water should be willing to cover part of the costs for Desalination Hopscotch operations. We do not have enough information at this time to speculate on what a fair rate structure might be arrived at during negotiations.
+
+3. What sociopolitical and geopolitical issues are raised by sharing wáter desalinated water, even if it is at heart a business deal.
+
+Because water is substance crucial to maintaining life, the decision for water to be shared goes beyond being a business deal. Nations will threaten to war to secure access to water (e.g., Egypt vs Ethiopia), and poor people will suffer if socioeconomic forces work to deny them clean wáter. (Sometimes this is the case in areas where people are poor and have little political power).
+
+Desalination Hopscotch will not solve all the problems of the geopolitics and sociopolitics of water, but it will make those problems easier to solve. If the pie that represents water resources is made larger, slicing the pie so that everyone gets a slice is made easier.
+
+Timeline
+Phase 1 – Information Collection
+
+The authors of this proposal will travel to meet and interview a number of public water officials in Texas during the month of February 2018. The Desalination Hopscotch Plan will be modified, based on input from those officials, representatives from environmental groups (e.g., the Sierra Club), and other concerned citizens.  
+
+Phase 2 – Advocacy
+
+Based on information and advice collected during Phase 1, a detailed proposal will be prepared during the following few months and distributed to water officials, elected officials, media representatives, environmental groups, and concerned citizens. 
+
+Phase 3 – Implementation
+
+If the Desalination Hopscotch Plan is accepted by officials for implementation, the authors will be available for consultations. Successful implementation in Texas could lead to later efforts to implement similar plans in places like Egypt.
+

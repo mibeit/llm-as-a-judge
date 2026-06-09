@@ -1,0 +1,208 @@
+Proposal number: 1334082
+
+Proposal: Global Environmental Monitoring network
+
+Pollution kills, just as wars, accidents & terrorism do. Deploying IoT automated devices increases awareness & can lead to viable solutions.^
+
+Summary
+The problem:
+
+Pollution kills, just as wars, accidents and terrorism do. There are places where the air is so polluted, that the sun never shines and people are wearing masks. Our children breath the poisons in the air, and for those with respiratory diseases, life becomes a lottery.
+
+A fundamental human right has become uncertain, because we wanted more and cheaper industrial products and some communities built factories in proximity to residential areas. Timid legislation, corruption, and poverty seem to leave the problem of ongoing and often lethal pollution unsolvable.
+
+
+
+Youtube: https://www.youtube.com/watch?v=2F9gySctcbo
+
+The proposed solution:
+
+uRADMonitor or "The Global Environmental Monitoring Network" means two things: IOT devices equipped with sensors for Air Quality monitoring of cities, offices and homes, and a global network of about 800 such devices spread in more than 40 countries. They generate uniform and comparable Environmental data so we can understand the big picture on pollution.
+
+With the data at our fingertips, this directly increases our awareness on the impact of our daily activities on the pollution and the climate change. uRADMonitor systems were installed in schools and Universities, to contribute to the educational aspects of pollution awareness. All this is meant to positively influence attitudes, and once the proper attitudes are in place, it offers a tool for analysing and addressing the problem. While that is happening, we gather enormous amounts of data globally. 
+
+
+
+Youtube: https://www.youtube.com/watch?v=Btk1EAwO4Cs
+
+Environmental surveillance is a big thing, important to our health and to the integrity of the world we live in. To optimise the air quality assertion, we need better resolution (more monitoring units deployed) and better sensors. To help resolution, sensors will have to conquer more in the space of wearables but also be part of the places we live in, and that includes cities.
+
+Help us make it happen faster!
+
+
+ 
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+For the past two years we've been busy building the hardware, the sensors and the infrastructure, but equal effort was put into spreading the number of units available around the globe. For this project to be truly successful, it needs to address the following key points:
+
+1. Network size
+
+Deploy more of the uRADMonitor IoT devices to cover more of Earth's regions. Underdeveloped countries are poorly covered at the moment and those are the most in need due to uncontrolled pollution levels.
+
+
+Source: URADMonitor https://www.uradmonitor.com/the-devil-is-in-the-details/
+
+We partnered with George W. University to implement an air quality monitoring system in schools to involve youth in air-quality related experiments, so we can raise awareness from early stages.
+
+2. Advertising
+
+Increase awareness of the network, it's capabilities and benefits via media channels, so more people adopt the solution. In the end with a higher resolution we all benefit of increased awareness positively adopting attitudes.
+
+
+
+Youtube: https://www.youtube.com/watch?v=zzgYCI9bVIw
+
+uRADMonitor units on globe in May, 2016.
+
+3. Research and development
+
+Develop more uRADMonitor hardware to address the pollution problem better. The challenge is also in reducing costs, so we can push more of the uRADMonitor schools in homes and retail stores. This is meant to impact awareness directly.
+
+
+
+Picture: the five uRADMonitor hardware units available as of 2017
+
+4. Wearables
+
+Currently we're prototyping the first uRADMonitor wearable, a system to be used by bicyclists and joggers to map their cities entirely. The uRADMonitor AIR, is a low cost product, equipped with high quality sensors, that pairs to a mobile phone via Bluetooth and uses phone's internet access to centralise measurements online. Being low cost, it is projected to quickly spread on the consumer market. This brings us back to what happens when people see the pollution numbers correlated to their daily activities:
+
+
+
+The data is correlated to location to build interactive maps. Here's the visual representation of pollution levels in the city of Prangendorf, Germany, done by a user of the uRADMonitor model D portable unit and shared online:
+
+
+
+Data on: http://uradmonitor.com/?open=6400003A&sensor=pm25
+
+Summary
+
+The technology is here to help us do good: in this case to try to limit the negative effects of climate change. The uRADMonitor project grows to spread across the entire globe, to raise awareness and help shift attitudes, and to be available for the people that want to see the numbers and evaluate the effect of their efforts.
+
+Who will take these actions?
+The uRADMonitor network is being developed and implemented by Magnasci SRL, a startup company based in Romania and founded by Radu Motisan, one of the authors of this proposal.
+
+End users: As of November 2017, about 800 uRADMonitor units were online all over the world monitoring the environmental parameters at their locations. The community was the strongest support pylon for this project, and that is a good thing at it means we are impacting the environmental awareness of the masses. The new wearable products will increase the adoption rate of the uRADMonitor technology. This is our first key actor.
+Corporations: In 2016 we partnered with Orange Romania to implement the first Romanian SmartCities (Press release here). As a result, five cities were completely covered with uRADMonitor A3 detectors, offering real time 24/7 air quality data to the citizens, both on mobiles and the web portal. This is an ongoing partnership. Here are the results:
+
+1. Cluj Napoca installation - live data:
+
+2. Alba Iulia installation - live data:
+
+3. Bucharest installation - this time in a park - fixed locations:
+
+4. Timisoara - live data here:
+
+5. Iasi
+
+These five cities have a total population of over three million. The data is sent in real time and presented on smartphone apps and web portals. We're impacting the way these people see pollution, with real numbers and facts:
+
+
+The plan is to continue our cooperation with Orange, as one of our major partners for taking the proposed actions. More companies are interested in similar projects, and we expect to expand our corporate relations in 2018. This is the second key actor.
+Universities: we've partnered with the following universities:
+University of Hawaii and the Institute for Astronomy, deploying a number of uRADMonitor A3 units as high as Mauna Kea (>4200m altitude), in a research effort to understand pollution behaviour with altitude.  Live data, here and here.
+George Washington University , in a shared effort to bring air quality monitors to the schools so students can experiment with data and learn about air quality and pollution, resulting in increased environmental awareness. This project is scheduled for 2018.
+University of Evora, for air quality research.
+The purpose of these partnerships is to generate specialised research, bringing new knowledge on pollution & factors but also better exposure to the project.  
+Universities are also major consumers for the data we generate. Universities are the third key actor.
+
+Uniting these important resources we reach a critical mass of users. The further development of this project will continue to relay on these actors. They will be the major entities involved in implementing the effects of this proposal.
+
+Where will these actions be taken?
+The network is currently spread predominantly across western Europe, US and Australia.
+
+For the scientific interest of the project, but also to address pollution issues in developing countries, a uniform spread is required for comprehensive data to be realized.
+
+More units are planned to be deployed in Africa, South Asia and South America:
+
+
+
+Ideally, more URADMonitor units will be deployed in regions with the worst pollution so that greater and focused attention on pollution issues can be realized so work on solutions with governments and industries can commence. It's common that such regions also have economical issues, resulting in lower adoption rate for climate-change related tech such as uRADMonitor which are not a priority.
+
+This is why we plan to do this by addressing the three key actors identified at previous step as a landing base for more deployment in the target areas.
+
+The end users might not be able to finance the hardware directly, so a part of this proposal tries to get the involved resources to resolve part of this aspect (money for air quality equipment donations to individuals and schools).
+
+We're now implementing our second crowdfunding campaign (first was successful, back in 2016, for a total of $33,768 USD) to support this effort. Backers will be required to support two hardware units, where one will be donated to places in need.
+
+In addition, specify the country or countries where these actions will be taken.
+Madagascar
+
+Country 2
+Uruguay
+
+Country 3
+Kenya
+
+Country 4
+India
+
+Country 5
+China
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+The purpose of uRADMonitor is to influence mitigation. It is impossible to calculate the impact in numbers due to unavailable data. That said, when people have information (data) they are empowered to make decisions to correct situations, such as high levels of pollution.
+
+For example, if China's heavily polluted cities had networks of URADMonitor units online, more people could make the cognitive connection between economic activity and air quality. It is hoped that with such a system in place, governments would be motivated to make different land use decisions leading to higher quality air and water so that people can experience healthier lives.
+
+What are other key benefits?
+You can't design a solution for a problem until you know enough about the nature of the problem to be able to define it.
+
+uRADMonitor addresses pollution, the kind that we are unable to see, but directly affects our health and can cause life threatening diseases. Airborne toxic chemicals, radon and radioactive dust, are correlated with cases of pulmonary cancer, asthma and heart disease. Since our biological senses can do little to warn us of such possible dangers, we have designed uRADMonitor as a first line detection and warning system. Sensitive sensors are put to work to deliver all readings to the Global uRADMonitor network using integrated Internet connectivity. With a click, you see the entire world mapped in colors, hopefully as green as possible.
+
+The main benefit is that access to environmental data combined with increased awareness on environmental issues is shared globally.
+
+With data in hand, people can make informed decisions
+For the end users, having automated environmental readings will improve their attitudes towards climate change.
+
+For cities, like those where we implemented monitoring with Orange, the impact is to municipalities, that can control traffic or illegal activities (emissions, construction sites) and can take action immediately.
+
+For the national impact, we get a uniform system to correlate readings to legal limits and avoid possible infringements.
+
+Enforcement of codes/rules/laws, with respect to pollution and health, is possible when data exists
+Infringing factors become visible before irremediable damage is done.
+
+we save lives, costs and prepare a cleaner tomorrow
+Costs/Challenges
+What are the proposal’s projected costs?
+The cost of current uRADMonitor hardware is available here:
+
+Products http://uradmonitor.com/products/?sel=4&sp=v
+
+For convenience, the numbers are as follows:
+
+uRADMonitor A, $199 + tax
+
+uRADMonitor KIT1, $159 + tax
+
+uRADMonitor D, $599 + tax
+
+uRADMonitor A3, $499 + tax
+
+uRADMonitor CITY, $1299 + tax
+
+uRADMonitor AIR, (not yet available, projected cost <$60 + tax)
+
+We propose deploying a total number of 1000pcs mixed uRADMonitor hardware units to the 5 countries listed. 
+
+To the cost of hardware, there are logistic costs for travel, accommodation and setup - costs for establishing local contacts (universities, local companies).
+
+Timeline
+The time-frame is between 2 and 3 years.
+
+URADMonitor has already begun delivering units to partner/customers globally for a total approaching 800 nodes. You can see the units sending data here:
+
+
+Source: URADMonitor https://www.uradmonitor.com/
+
+There are two impact categories:
+
+- short term, related mostly to our relations with end-users and corporations, resulting in direct use of the data
+- medium-term, related to implementations in cities or to research programs with universities.
+
+The project as it is now, is already having an impact and it will continue to do so.
+
+

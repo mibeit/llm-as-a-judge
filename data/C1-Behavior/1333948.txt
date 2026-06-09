@@ -1,0 +1,182 @@
+Proposal number: 1333948
+
+Proposal: The GreenLine: Shop your values for health, the environment and society
+
+Summary
+Online marketplace that enables you to customize your search based on your values for health, the environment and society.
+
+We are consolidating independent verifications for health (e.g., GoodGuide, EWG and MadeSafe) and certifications for the environment and society (e.g., Carbon Neutral, Fair Trade, Rainforest Alliance etc.), as well as values (e.g., fragrance-free, vegan, plastic-free etc.) so people can quickly and easily shop based on what’s important to them.
+
+We ship products carbon neutral and offer a less waste program that help guide proper disposal of products (towards a circular economy). We track the positive impact for emissions, waste and society benefits in individual customer accounts, as well as collectively, for all purchases with us.
+
+Platform works similar to Etsy or Ebay but with additional search criteria that can be customized and with a fulfillment system that reduces the environmental impact.
+
+Problem 1: according to Ivanova et al., consumerism accounted for 60% of global greenhouse gas emissions. According to Jambeck et al., 4.8 to 12.7 million metric tons enter the oceans every year.
+
+Problem 2: no one is making it easy for people to shop based on what’s important to them from a system that reduces the impact on the environment and society.
+
+Solution: Make it easy for people to shop based on their values while supporting a system that reduces emissions and waste in an effortless and convenient way and show people the difference they’re making by tracking the impact with smart software in customer accounts and collectively, for all purchases.
+
+Sources:
+
+1. Ivanova, D., Stadler, K., Steen-Olsen, K., Wood, R., Vita, G., Tukker, A., Hertwich, E. (2015). Environmental Impact Assessment of Household Consumption. The Journal of Ecology. Link
+
+2. Jambeck, J., Geyer, R., Wilcox, C., Sigeler, T., Perryman, M., Andrady, A., Narayan, R., Lavander, K. (2015). Plastic waste inputs from land into the ocean. The Journal of Science. Link
+
+ 
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+We are a startup in Boston that just completed the MassChallenge program.
+
+We are consolidating independent verifications for health (e.g., GoodGuide, EWG and MadeSafe) and certifications for the environment and society (e.g., Carbon Neutral, Fair Trade, Rainforest Alliance etc.), as well as values (e.g., fragrance-free, vegan, plastic-free etc.) so people can quickly and easily shop based on what’s important to them. This will be in the form of advanced search criteria where we will be collecting data based on shopper behavior to offer the option of personalization in customer accounts, based on specific needs and values such as allergies/intolerances, upcycled/recycled and Fair Trade certification, among many other options.
+
+We ship carbon neutral in partnership with Carbon Fund, who verify that the shipping emissions are offset. We have our own Less Waste Program that helps people properly dispose of products based on best practices giving people options based on drop off, mail, donation closest to their geographical location (USA only).
+
+We expect that impact tracking for emissions, waste and society benefits with smart software (a technology) will help to encourage people to support us because we can equivalencies savings to show people the tangible difference they’re making. We will also be able to gamify this tracking to show how well people do compared to others and provide incentives for those with the highest footprint reductions.
+
+Product criteria standards
+
+We have an established list of values, independent certifications for the environment and society, and verifications for health (as relevant) that products must meet to be on our site. These criteria are differ according to a product category. For example, for shampoo, products must meet one or more criteria across verifications for health, such as GoodGuide, EWG or CleanCert, or certifications such as Fair Trade, Organic and Non-GMO, or values such as Fragrance-Free, Handmade and Plastic-Free. This method enables us to provide a complete list of values, certifications and verifications that show customers the standards products we list have to meet and empowers customers to choose one or more criteria for products while they shop, based on what’s important to them. Local will also be offered in the future and be based on shopper’s IP addresses. We chose these criteria based on the latest research from Euromonitor International about what is most important to consumers in the ethical labels shopping space in the USA.
+
+This method offers transparency and choice to our customers. If they want to support a small brand that isn’t independently certified, they have this option (many emerging quality new brands cannot afford the certification costs yet) and if customers want to ensure that products have been verified, they can quickly and easily do this. It supports transparency and choice with advanced search and customization options in the health, environment and society benefits space.
+
+Competitive Space:
+
+No one is offering exactly what we offer with the advanced customization (shop based on your values) and the fulfillment reduction (impact tracking).
+
+Our competitive advantages: In addition to price, brands and product reviews, we enable people to shop with selection and variety across multiple product categories with advanced customization, and we offer our sustainability logistics (carbon neutral shipping, less waste program, impact tracking). We also have list of tens of thousands of products, across multiple product categories, that meet values and certifications for health, the environment and society.
+
+Competitors:
+
+Thrive Market
+Focused on food categories. No offer for personalization and no product shipment offset for emissions. No waste reduction and no impact tracking software.
+Amazon
+Only 16% of businesses rely on Amazon as a sales channel, instead, business rely on Amazon for order fulfillment (BigCommerce, 2017). In fact, it is becoming increasingly difficult for products in the health and sustainability space to reach their audience on Amazon because Amazon requires payment to show up at the top of their product searches. Amazon search engine is not built to look for specific categories of products in the health or sustainability space. When people shop on Amazon they already know exactly what they are looking for, rarely do people actually shop on Amazon (BigCommerce, 2017)
+BigCommerce. (2017). Link: https://www.bigcommerce.com/blog/consumer-behavior-infographic/
+DailyDot (2015). Link: https://www.dailydot.com/irl/etsy-reselling/
+Etsy
+Only focused on Handmade, no quality standards for products they offer and recently, Etsy now allows products coming from mass production to be sold, such as from companies in China (*). No certifications or independent verification for health, the environment or society and no sustainability logistics.
+ 
+
+Earth Hero (New)
+Offers carbon-neutral shipping, but not for waste and no tracking. No customization or personalization.
+Strategy:
+
+For launching, we are focus on these categories: Household Staples, Baby, Beauty and Personal Care
+We are doing this to systematically build our selection and to be able to communicate our offer to customers. These product categories are of the highest concern for certifications and values and help to drive regular site visits (because they are fast moving consumer products) to begin building relationships with our customers and have. Furthermore, they have the highest emissions and waste impact because they are products that are most frequently purchase, therefore producing a lot of emissions, and our system will help to improve the environmental impact most quickly in these categories. We will then expand our category offerings based on customer needs and feedback.
+Short-Term focus
+
+We will be building this idea one piece at time. Currently, we are focused on optimizing the customization so that people can find and search for what's important to them, building our brands and products base and building customer relationships. All products will be shipped carbon-neutral verified by the Carbon Fund
+Early next year, we will add the Less Waste Program, to help people properly dispose of products according to best practices. We will enable people to find options for mailing, drop off, donation etc, based on the type of product and their zip code
+Later next year, we will add the impact tracking to begin showing people the difference they're making in individual customer accounts and collectively, for all purchases 
+ 
+
+Marketing Plan:
+
+ 
+
+Marketing Strategy:
+
+Demographics with the heights conversation potential are: people age 25-45, democrats, leave in the main metropolitans of New York City, Boston, and San Fransisco. Our personas advocate for values of healthy body and mind, mankind effects on the environment, social justice issues, brands who support social impact, ending animal cruelty and support locally made products.
+
+On a daily basis, our demographic thrive to Eat organic, drive electric cars, read product label, make their own food. Many are subscribed to SCAs, have a pet,  go to the gym, practice yoga and like the outdoors. They shop at WholeFoods, Trader Joe’s, Target and Amazon.
+
+As a marketing strategy we are spreading our opportunity for growth into various channels simultaneously:
+
+Social Media:
+
+YouTube: We are reaching out to influencers that have above 300K followers in the different categories we offer. The primary category of interest on this channel is non-toxic cleaners.
+
+Instagram and Facebook: We are attracting followers and attracting our target market by posting shoppable posts featuring a mix of popular and innovative products. We are A/B testing the witch links get the higher conversion. There is a conversion rate of about 1% at facebook, however, shoppable links can get a conversion rate of 8% per post.
+
+Content Creation: We are attracting traction to our website by creating content posted by third-party bloggers that write in areas that interest our demographics. For example, care2.com, OnePlanet.com, inhabitat.com among others.
+
+Affiliates: Participate in affiliate pay per conversions programs. The commission per  is higher than in programs where you pay per click, however,  the risk is significantly  lower. We are expecting conversion of 10% for a 1000 visits.
+
+Conferences: We are planning on exhibiting at conferences and festivals in the Boston area related to the sustainable industry. for example, Boston Vegetarians Society, Supply Chain Ecosystem, sustainable apparel conference, Herbalism festival, Ext.
+
+Spreading the word: Contacting key-people inside organizations supporting our mission to help us send introduction emails inside their organizations. For now we have the Sierra club in MA and the MA chapter the the USGBC willing to do that.
+
+Traction to date:
+
+In soft Launch phase collecting and adjusting to early customer feedback
+Brands have been reaching out to sell with us over the summer and we currently have 500+ (28 brands) products on our list.
+Customers placing orders even though our site is not yet fully launched.
+Have the ability to integrate with multiple e-commerce sales fulfillment software such as Etsy, Amazon, Shopify and many more
+Possible to offer warehousing and logistics through partner that competes with Amazon Prime in delivery time and enables shipments to be sent in our own branded boxes
+Climate Change: 
+
+by making it easy for people to shop the way they want with customization, we help them more easily support products that reduce their environmental footprint.
+by shipping carbon-neutral, we reduce the impact of online shopping in a way that is effortless for the consumer.
+by tracking the impact, we can show people the difference they're making. 
+Together, these factors help to change consumer behaviour by making it easy for customers to 'shop better' in a personalized way and by showing the impact through tracking, which can be used for marketing and to highlight the equivalencies in cars off the road, waste diverted from the landfill etc. 
+we have built a system that does the work for the customer while still maintaining the conventional online shopping benefits of price, brand options and product reviews.
+Who will take these actions?
+Businesses and individuals are the key actors involved in taking the actions needed to reduce emissions and waste from shopping. 
+
+Individuals: will be needed to support the e-commerce platform and purchase products they need from us. 
+
+Businesses: listing their products with us (provided they meet our listing standards). 
+
+The GreenLine (us) will be the central system by which businesses and individuals collectively work together to reduce the footprint, and in the future, we track the savings from the purchase cycle for emissions and waste.
+
+Carbon Fund: verify and complete the offset for emissions from purchases.
+
+Terracycle: possible partnership as an option for some products for our Less Waste Program.
+
+Where will these actions be taken?
+Our offer is initially being brought to market in the USA. Our framework for shopping customization, fulfillment and smart software are a scalable process that could be replicated in other countries.
+
+ 
+
+In addition, specify the country or countries where these actions will be taken.
+United States
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+Emissions: 
+
+Assuming we have 1,000,000 people in the USA buying 5 products per month (assumes $100 spend) and those products ship individually 300 miles, we could offset the equivalent of 1,000,000 cars off the road. 
+
+Please note that this section is a big part of why we are applying to the Climate CoLab because we want to find a few team members to help us calculate future emissions based on different scenarios for product savings and shipping savings.
+
+What are other key benefits?
+Other environmental benefits:
+
+Our system facilitates the reduction of waste. We do this in several ways. Firstly, we tell customers how to properly dispose of a product on all product pages. Secondly, we offer filters for customers to find and support plastic-free options while shopping or find and support products that specifically incorporate waste into the product's production (e.g., recycled/upcycled goods). Thirdly, we offer a Less Waste Program where customers enter the product type and zip code and then we tell them their options for resale, upcycling/recycling, donation or disposal, as appropriate, and provide options for mailing, drop off or pick up. 
+
+Society & Economy: 
+
+Our system benefits society because it enables people to quickly shop based on what's important to them from a system that helps to reduce emissions and waste.
+
+Enabling people to easily support independently certified products, such as Fair Trade, which helps support fair wages for the stakeholders involved in product production. Reduction of waste, described above, is also a benefit to society because landfill space is limited and landfill leaching can compromise drinking water and human health. 
+
+ 
+
+ 
+
+Costs/Challenges
+What are the proposal’s projected costs?
+The challenges will be raising awareness once the solution is available on the market. Because it is a platform, building both suppliers and our customer base in tandem (or close to it) will be difficult which is why we choose to focus solely on this for the first six months. 
+
+One side effect could be that people shop more because some might feel that because the system reduces the impact of the purchase cycle, it alleviates guilt associated with consumption. 
+
+Timeline
+This impact section is a big part of why we are applying to the Climate CoLab. We need to put together a small team to begin building the right infrastructure to track emissions, waste and societal benefits based on last year's data. 
+
+ 

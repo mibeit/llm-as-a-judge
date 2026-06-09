@@ -1,0 +1,188 @@
+Proposal number: 1333907
+
+Proposal: Shutter-like turbine for low head shallow river/canal/sewer hydropower system
+
+Summary
+The renewable energy is so plentiful, especially a great source of the running water hydrodynamic energy in all rivers and oceans. Nowadays, only high water head resources can be effectively utilized for hydro electricity, but the main resource is of low water head, and never well developed in prior arts, though some experimental tidal turbine projects are under research, such as the Fundy bay tidal energy project in Canada.
+
+But why we have to be addictive to rotary turbine for tide or wind energy harvest? Now I propose a rectangular cross section turbine that works in reciprocation mode to harvest energy from any flowing fluid. In a sense, fluid flows in similar way of electric DC (Direct Current), but reciprocal motion of device’s ram behaves in similar way of AC (Alternating Current), thus a DC-AC mechanic inverter is needed.
+
+Just imagine a virtual river-lock that occupies almost full cross section of waterway, if this virtual lock moves forwards and backwards along current direction driven by water head pressure like a piston, then it certainly works in max efficiency for energy production.
+
+Physically it is equivalent to a 4-thrystor bridged DC-AC inverter, as illustrated below:
+
+
+
+
+
+Work principle: when shutters are closed, work stroke in action; else shutters open, idle retract in action, though there is negligible resistance during counter-current motion. Programmed water jet triggers shutters open or close, though it consumes small energy. The harvestable hydro power should be far larger than jet pump.
+
+Such turbine can be customized to fit shallow river cross section, e.g. this scenario:
+
+river-coss-section.png
+
+It can automatically adapt the peak or valley load. Heavy load makes the shutter move slow, light load then fast.
+
+
+
+Below scenarios are good sites for this application:
+
+
+
+
+
+Not only this turbine is a good fit for shallow river, but also for city sewer system or rain/storm drainage tunnel, even waste water treatment plant.
+
+
+
+
+
+
+
+If sewer & storm tunnel need SCADA, it power transducer & camera in situ.
+
+
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+Who will take these actions?
+Where will these actions be taken?
+This is the huge turbine for Fundy bay in Canada, do you believe its efficiency high enough?
+
+
+
+We may consider building and deploying an undersea shutter turbine "shoulder-to-shoulder" with the said rotary turbine in same location for efficiency comparison if we could gain enough financial support.
+
+But now, our limited resource can only focus at applications for rivers, canals, city sewers, etc. 
+
+Even it can be used in pumped reservoir electricity peak-valley balancer (PSH). Below is a typical plant scheme:
+
+
+
+The efficiency of a conventional axial turbine & pump in above site, is about 70% to 80%, that is why all PSH plants (global capacity 168 GW) most likely can not make profit even electricity peak-price is the double of the valley-price.
+
+Now that current PSH no profit, why does it must exist? In fact, it is a hard choice to shut down PSH, because fossil or nuclear fueled power plants can not reduce its output too much even no use in valley time, that is why there is peak-valley pricing incentive policy to encourage people to use electricity in valley time, but avoid peak time.
+
+If the turbine for PSH can increase efficiency up to 95% above, then they will make lot of money by the price difference between peak & valley.
+
+By reverse engineering, this shutter turbine "motor" can be easily converted into shutter impeller pump with on par efficiency for replacement of PSH low efficient submersible or centrifugal pumps, and this special pump can also be driven by wind or solar PV. In a sense, it is the type of positive displacement pump.
+
+Before the future break-through of chemical energy storage technology, the PSH is so important to stablize electricity transmission grid and other intermittent renewable energy such as PV, wind power, etc, but current PSH is far less than demanded capacity, therefore, there is still huge growth space.
+
+The USA has 40 PSH plants at total of 22 GW, and are planning to add 40 GW in near future, in contrast, Canada is a loser of PSH, only 1 PSH plant & 0.17 GW, she must work hard to catch up. Without enough PSHs, solar PV & windpower is just null!
+
+Anyway, anywhere is welcome to contact us for applying this revolutionary innovation in hydro power industry.
+
+ 
+
+In addition, specify the country or countries where these actions will be taken.
+Canada
+
+Country 2
+United States
+
+Country 3
+India
+
+Country 4
+China
+
+Country 5
+Germany
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+What are other key benefits?
+The power density = 500*V*V*V watts per square meter, here V is velocity of water stream.
+
+For example, if V = 1 m/s, then 500W/m^2, almost 5 times the expensive photovoltaic PV panel, and dirty cheap for shallow installation, because the material for shutter vane even can use cheap wood or plastics.
+
+For rapids river with V = 2 m/s, the power density soars up to 4000W/m^2, so powerful!
+
+Sample: given river width 400m, depth 0.5m, V = 2m/s, then total cross section 400*0.5 = 200m^2, assuming the shutter turbine only cover 90% the said area, then the generator capacity is 200*90%*4000 = 720kW.
+
+Assuming averagely 300kWh per family per month, i.e. 300/30 = 10kWh daily, or 10/24 = 0.42kW per family, then such a shallow river can serve 720/0.42 = 1714 families.
+
+For such a shallow river, regular rotary turbine even can not be wetted totally, or even could apply, but efficiency is extremely low, perhaps less than 20%.
+
+The efficiency of this invention can easily reach 95% above. If the swing rods are replaced with gears system, the highest efficiency could touch 98%!
+
+The old-school water wheel's efficiency can fall in anywhere between 20%-90%, depending on the configuration: the higher the waterhead, the higher the efficiency, as illustrated in this figure:
+
+
+
+For shadow water body, water wheel's efficiency is likely less than 20%.
+
+Another important benefit is that: we do not have to convert reciprocal motion to rotary motion for driving a generator, though a cranking conversion is not difficult, instead, we can customize reciprocal generator in a fraction cost of commercial rotary generator in market.
+
+Following figure illustrate such a simple generator:
+
+
+
+What a substantial reduction of capital of initial investment, and saving of the inevitable energy loss of cranking conversion mechanism!
+
+Ecologists & biologists will be happy with this invention, because fishes can always find a chance to pass through the shutter!
+
+Some other benefits are worthy to mention too: portable, immersible, and closely cascading deployable.
+
+The system does not have to stay at a location permanently thought better permanence. If municipal permit is to change in future, it is easy to relocate to other position.
+
+The system is not necessarily to make full use of waterbody cross section. If it is installed under surface of river, then it can allow some size-restricted boats to pass over, though harvestable energy is not maximized. 
+
+If permit, even as short as 50 meters span along river bank possible to deploy multiple such system in cascade.
+
+Prospect of wind application
+
+Shutter turbine can be used in windpower too, but should sit on platform with complicated yaw system because of capricious direction change, so I temporarily ignore it.
+
+The efficiency of Betz' limit 60% can only apply to rotary turbine in wind, not include planar reciprocal turbine, my shutter turbine can greatly break the 60% limit.
+
+When used in wind app, shutter material can be the same with regular sail-driven boat, dirty cheap sailcloth. 
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Two pilot projects are going to build: one is for use in waste water treatment plant, another is for use in canal.
+
+An interested city with 1 million population at least is welcome to contact us for a pilot project to recover energy from WWTP (Waste Water Treatment Plant).
+
+Estimation: considering residential & industrial water use, reasonably assuming 500 liters per person, then the outfall flow rate of WWTP, Q = 1000,000*(500/1000)/(24*3600) = 5.8 m^3/s.
+
+As per to formula: Power = 500*Q*V^2, V is the outfall end velocity.
+
+Assuming V = 5m/s, then max power = 72500 watts.
+
+In fact, end velocity of outfall depends on height h of WWTP to discharge river: V = sqrt(2gh), the respective height of 5m/s end velocity is about 1.25m. If your h = 10m, then V= 14m/s, and max power = 580,000 watts, a big increase!
+
+Above calculation does not include the rainfall.
+
+The rainfall of regular zone is circa 1000mm/year, assuming the city area is 10km x 10km, the daily average precipitation = [(1000/365)/1000]*(10000*10000) = 273973 m^3, then additional flow rate of WWTP outfall = 273973/(24*3600) = 3.2 m^3/s.
+
+Therefore, the total flow rate = 5.8 + 3.2 = 9 m^3/s, the power estimation is adjusted to 112500 watts, i.e. 112kW.
+
+For the second pilot project, I wish find a canal in north America to implement, as long as its flux is 10 m^3/s at least. 
+
+The estimated cost for material is about $500 per square meter of shutter, but it is not significant, even negligible in a prototype system.
+
+If V = 5m/s, then energy density = 500*5^3 = 62500 W/m^2, so the said WWTP project only needs 72500/62500 = 1.16 m^2 shutter.
+
+For river application, the velocity of stream is most likely 1 to 2 m/s, then the respective energy density of shutter will be 500 to 4000 W/m^2. 
+
+Such a low energy density can only need the cheapest shutter material, perhaps as low as $20/m^2, despite the area of shutter will be increased more. 
+
+For example, a river of 100 meters width by 1 meter depth, will need 100 square meter shutter at max, however, the shutter material may only spend $2000.
+
+To my optimistic estimation, the prototype cost for my wanted 2 pilot projects is about $300,000.
+
+The total budget for 2 projects is really small & economical, but do you know that even only the dam infrastructure for a regular low water head (< 5m) hydro station with same power rating will cost more than herein, not to mention the expensive equipment & installation? Thanks this great dam-less & station-less technology, though a small riverside shed for equipment is still needed!
+
+Perks:
+
+If you can offer us $100,000 before Sep. 15th 2017, then I can offer you 50% lifetime royalty income of all Canada license, i.e. if I got $1, you $1 too.
+
+We do need fund to boost our business, because some potential  customers wish taste this state-of-art innovation as early as possible!
+
+After the said time, your perks for the same amount investment will be reduced, however still attractive: the fund can be set convertible debt for equity share.
+
+Timeline

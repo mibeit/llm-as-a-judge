@@ -1,0 +1,174 @@
+Proposal number: 1334202
+
+Proposal: Sustainability gaming creates and implements environmental solutions
+
+Summary
+People need to believe that sustainability is in their best interest; the benefits must be clear, immediate, and personal. The most compelling reasons to change are those reasons that fit with a person or community’s values and world-view. Once motivated to change, people need resources, tools, and a pathway to change. To make sustainable options available to consumers and decision-makers we need innovation, and we need the policy and pricing structures to make them accessible. In order to motivate shifts in behavior we need clear targeted messaging that helps people understand that climate change impacts are local, personal, and immediate, and that also empowers them to be part of the solution. In order to effect real change, we need to mobilize people to adopt more environmentally sustainable practices and behaviors, to engage in political activism and policy discussions, and to transform policy and economic conditions.
+
+The resolution of multiple environmental concerns can be approached using methods to determine situational strengths and weaknesses, augmenting that which is too little and reducing that which is too much, in order to rebalance many environmental concerns. One might look at a town with lots of problems, some visible, some not. You have the current water budget with not enough per person for agriculture, at least in some years. The goal would be to find and fix problems, so that there is optimal health and well being across the board.
+
+Other examples might be the coordination of shelters to optimally protect people during emergencies, not only the location of the shelters but routes for food and water supply, supply storehouse placements, location of national guard, methods of rescue and transport, timing of warnings, special concerns such as evacuation of prisons and hospitals, etc., and how that transfers over into rebuilding concerns.
+
+Then end goal is to get doable, affordable solutions into the hands of the people who can make the necessary changes.
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+The larger purpose of the proposal is to encourage people to change their behavior, even in small ways; inspiring conversations engaged with through media, such as gaming, that can shift perceptions of climate change science, alter cultural norms, and promote stronger sustainability values. This is a tremendous opportunity to craft messages that inform and motivate, shifting attitudes, norms, and values to engender real action at a large scale. Gaming is a popular and effective learning technique that may succeed.
+
+Environmental conditions need balance in areas such as land use and irrigation; population explosion and education; cattle/deforestation; bio habitat enrichment; smart cities and green energy production; extinction and preservation, etc. The intricate relationships of plant, animal, vegetable and mineral worlds according to and in combination with social compasses, such as who should be educated and who should reproduce, or how we can possibly guide people toward vegetarianism and ecotourism, will be analyzed through examination of excess and need. Areas of science available to aid in research may include, geophysics, geobiology, economic geopolitics, environmental science, environmental regulation; and management experts such as mediators; together moving from supporting participation in gamer creation of virtual simulations to addressing and implementing physical solutions among the planet’s great crises.
+
+According to economist Edward Castronova, “We’re witnessing what amounts to no less than a mass exodus to virtual world and online game environments.” Our case study, Troubled Waters – the App “TW – A” addresses water supply shortage, and is assessed according to multiple contributing factors and solution trajectories: such as water levels and population; and regional agricultural, livestock, and forestation properties and ratios; which, through assessment share integrated data across disciplines.
+
+TW - A is based within the actual ability of computer users anywhere to build virtual hydrological system modifications of both structural needs and of water management, in preparation for actual geophysical, crowd-designed (potentially many players) construction and management modifications.
+
+Learning to model healthy hydrological changes will be based within a life-like 3D Unity^2 format familiar to conventional games such as Populus^3, or Godus^4. Algorithms may be used to estimate relationships such as average water output during a specified period of time.
+
+Beginning gamers will start their learning process using clicks of the mouse to take them through the execution of necessary steps in order to gain their first categorical win, the successful integration of the entire generic hydrological system into a healthy, future-safe entity.
+
+The first pilot game in preparation for later product roll out will examine, evaluate and plan according to scientifically-and-technologically-measured structural problems and possible solutions. STEM experts along with game designers will experiment with modifying the model geophysical system and will determine a variety of solution pathways. Mediation experts and game marketers in turn will examine the material in the context of player rewards, integrating concerns and possible solutions around regulations, trading, water resource plans, etc.
+
+Later, crowd-based or individual gamers construct and manage on the cloud alongside expert guidance. They will examine and determine specific feasible systems according to science and engineering and sociopolitical conflicts, arriving at possible solutions that are determined to be moral and ethical in consideration of ground water integrity. Top winners may, down the road after much politicizing and many negotiations, gain access to modification tools, funding, and collaborative human resources.
+
+Here is data regarding the specific concern of the Troubled Waters case study:
+
+Ground water levels, sometimes called terrestrial water storage supplies, are diminishing to critically- low levels for the health and safety of people around the world, especially in some of the most overpopulated and poor nations and regions.
+
+ 
+
+Terrestrial Water Storage Changes in China and Surrounding Regions derived from GRACE data, 2003 – 2010 ^5
+
+
+
+
+
+The Tibetan watershed, once it is drained from snow melt resulting from increased climate temperature will cause an upward scaling of drought and flood effects in China and India, ones that have not been experienced in human history.
+
+
+
+
+TW - A players will learn through game tools to understand how hydrological systems work, and how to improve their health and welfare in parts, in whole, and through time.
+
+The U of VA’s Bay Game^8 has real-life stakeholders; they determine management decisions through the gameplay in order to bring about balanced changes in the Chesapeake Bay watershed. TW - A instead focuses on learning and building through Populous-like 3D construction and management strategies, with the results assessed according to hydrological standards, and socially. The players will move from studying stylized micro systems within a generic hydrological system to examining the more complex real systems such as those identified by the GRACE satellites' mapping out of underground reserves of water. ^5
+
+Community volunteer advisory specialists such as hydrological research scientists, construction engineers, regulators, macro and micro economists, plus administrative experts versed in conflict resolution will together with game designers build and “test drive” player choices; these will determine rules guiding how one gains or loses points. Task complexity will be based on age, aptitude and interest. Instruction will encourage curiosity and discovery playing.
+
+Gamers, be they based at hydrological concern non-profits; or at large; who may want to partner/ compete with others within a social/ collaborative game format, can together learn for example how to build a house as team members, installing a rainwater harvesting system, utilizing the Minecraft “M-C” tool by building above and below ground level in order to correct and enhance current hydrological conditions; eg desalination, sea water intrusion, and water catchment. Collaborating or solo players construct and manage all the participating systems to simulate a whole healthy hydrological system first on micro and then on macro levels, first generically, then specifically, then out into the field.
+
+First we engage the gamers’ imaginations, playing collaboratively and with copious “hidden” information available for reference. The player determines solutions that make systems adhere internally and in relationship. Parts bind together into segments of and then whole generic systems. Evolving skills learn to think about and remediate specific virtual systems. The epic winner and her/ his collaborators may simply use this template technique to analyze options, or to take the final step, to emplace the healthy, working system into physical reality. This is a call to action for the epic gamer.
+
+Collective curiosity and drive for engagement not only provides excellent projects and educational opportunities for people at every skill level. Funding and support aids in leading the physical environment’s exodus from destruction. The construction and management visualization-to-reality simulation method has the capacity to profoundly change the outcome of the planetary extinction scenario that we face.
+
+“Complex systems are systems of many interacting parts where unexpected patterns emerge as a result of many individual parts and their interactions. This shows how individual agents affect the behavior of the system as a whole.”^9: Each TW - A player will contribute to these drifts and directions that accord with nature’s natural systems and their rhythms.
+
+According to Wendy Huang, “we can modify, build and adapt existing models to investigate different parameters of a simulation. Guides foster reflection and making connections, helping concretize their ideas in parts and as a whole to build on.”^10 As we build the parts and wholes of the hydrological systems, if our walls bump into each other, collapse, or fall down, we can have fun in the game and at the same time build our knowledge based on structured feedback.
+
+On a non-cognitive level, one needs the skills of grit, enthusiasm, and determination, to keep at it at each opportunity, using the forces of active learning to answer and resolve physical climate concerns. Telling the TW - A story to others gives us feedback and helps us to reflect on how to, along with low failure penalties, find greater and greater opportunities.
+
+In TW - A, learners will be assessed according to their ability to work collaboratively using a constructivist approach, one that “constantly reorganizes information in the brain, making mental maps from among a family of images in the brain.”^11
+
+Unlike the behaviorist attitude that the brain is akin to an empty vessel that operates to fill the mind with what is known; instead constructivism has the ability to separate, integrate and unite concepts through non-cognitive skills such as grit^12 and enthusiasm, and cognitive skills, traveling with the support of a facilitator, through trial and error, and aided by “hidden” data slides, visuals aids supplied on prompt when the necessary information to educate, learn and succeed along the way is needed.
+
+Once an expert-based TW - A pilot game app has been developed, there are two, sometimes three, levels of gaming to be implemented within school-based learning or self-taught technologies.
+
+Let’s look at the water supply concern of rainwater harvesting.
+
+Level 1 - Generic:
+
+Here we would employ a visualization software analyzing geological modeling to help develop an app for field measurements, well logs, point measurements, faults, etc via various what-if scenarios, looking at geological and geophysical data, and creating 3-D cross sections. ^13
+
+Let’s say that you have an online virtual house and it’s really dilapidated. The gutters are not working, the rain barrel is over on its side and there’s no water in it. It’s not functioning properly so people don’t have water to drink.
+
+Then, using M-C, the gamers make a better one, so the rain barrel is in the right position, the gutters are bringing the water down into the rain barrel and they’ll move through how to use sand to filter the water, how to pour it in using sand to filter the water, how to pour it in using a bucket, to make sure that it is clean, drinkable water.
+
+They may choose to take each component, such as rainwater harvesting, or seawater catchment, eg using M-C to build a sea wall. A desalination plant could be examined and addressed. The gamer ties the independently- operative systems together into a healthy system.
+
+Level 2 – Specific
+
+We come next to the analysis and restructuring of a specific hydrological system, adding in a negotiation app ^14 to address stakeholder concerns. Let’s say we choose a hydrological system in the Brahmaputra region of India. We have deltas so we have flooding that comes in. And then for agriculture we have the boreholes, which are drying up and we need to keep drilling deeper and deeper; and then you have the cattle. The area has been deforested for a long time so all of the healthy silt goes out into the delta area. If there is a rapid increase in the volume flow the river floods more easily, making channels shallower and access to sea resources more difficult. Ideally, professional experts in various fields will advise players.
+
+Individual systems within the hydrological system are integrated into a whole, healthy system, united with the aid of professional help and advice.
+
+Level 3 - Physical implementation
+
+In Level 3 the gamer has won the game design process, and will be in a position to transfer/ send what has been created virtually into the physical environment.
+
+Who will take these actions?
+Anyone, anywhere with computer access may participate in this solutions-based modeling game app utilizing new technologies that encourage positive behavioral and societal shifts, ones that result in opportunities to emplace safe and vital changes throughout hydrological systems around the globe.
+
+Ideal dispositions for game activists are those who are engaged and purposeful, resilient, rigorous optimizers, creative problem solvers, effective collaborators, persons available for multi-stakeholder partnerships, who may be funders, domain experts, etc.
+
+From family members learning how to filter water at their homes to sustainable treaties established between regions and nations, following fair methods of conducting water is necessary and urgent.
+
+“Good assessment makes good use of design, mentors, copious information, and problem solving over time, with possible collaboration, using every tool at our disposal to assess learning. Games do it so well. The teacher becomes a coach or facilitator, with fairness, validity, reliability being fair, regardless of language, race, etc. No learning method is equally good or bad for everyone.
+
+The intricacy of evaluative assessment looks at immediate direct feedback using multiple variables. Gaming as a method for problem solving across fields collapses assessment and learning into each other while providing copious amounts of information about skill level, assessing everything from algebra and physics to civics. Gaming’s iterative and challenging nature results in an ideal assessment method.”^15
+
+
+
+Schools would be an ideal venue for introducing Troubled Waters - the edutainment. Green Schools would be of primary interest. The tension between science literacy and curriculum has a lot to do with the amount of time spent doing what, and science has the opportunity to “ turn people on and educate them; …to facilitate the process of naming something…in an intense and wonderful kind of learning,…joining forces in real time.”^17 One of the great challenges of TW - A will be acceptance and integration into curricular systems, in the area of climate change. As active autonomous learning becomes more de rigueur there will be more successful implementation in the classroom.
+
+Sustainable, scalable (game) interventions provide us with the necessary evaluative information to disrupt and reframe current education tools, to include evolved capacities for participatory design, strategic education research, science literacy, and the concurrent achievement of curriculum goals. Cumulative iterations build sufficient knowledge and user interface tools for school-global community use.
+
+Learners will be assessed according to their ability to work collaboratively using a constructivist approach, one that “constantly reorganizes information in the brain, making mental maps from among a family of images in the brain.”^18
+
+Where will these actions be taken?
+Everywhere there are hydrological systems, and especially at crisis locations.
+
+In addition, specify the country or countries where these actions will be taken.
+India
+
+Country 2
+China
+
+Country 3
+Pakistan
+
+Country 4
+Saudi Arabia
+
+Country 5
+United States
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+What are other key benefits?
+The benefits are ultimately inclusive, holistic and universal in nature, designed to benefit all of Gaia through popular and progressive methods.
+
+Achievement goals will address work to resolve problems such as border tensions between the US and Canada and the US and Mexico; drought concerns in California; pollution concerns in Flint, Michigan; community versus corporation struggles, and aging infrastructure; with solutions such as desalinization, recycling wastewater, efficiency and conservation.
+
+Virtual gaming can help people to examine rational arguments regarding for example water wealth as power and politics; looking at specific concerns such as: in the Jordan River Basin; Yemen's cities running out of water supply; Syrian drought and civil war; pervasive pollution; water poverty; water scarcity; economic drive; pollution, and the rise of cancer in affected areas.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+What are the proposal’s projected costs?
+
+The most time-effective and economical approach to game app development would be to utilize:
+
+1) an existing geological modeling software analytical app for Level 1, examining system imbalances through algorithm, satellite depiction and other science-based methods; perhaps used as a backend device;
+
+2) a negotiation app to bring us through Level 2, perhaps a practice and assessment app, with an added emphasis on stakeholder positions from a holistic perspective, to complement the personal development of gamer’s negotiating skills;
+
+3) Level 3, utilizing distribution channel methods perhaps through a distribution service provider, or more as a gamer’s or school programs’ individualized search and outreach, to reach affected individuals and groups and to share the virtual assessments with those in a position to make the changes, anywhere on the globe. Anyone skilled in app development could take this on as a personal or shared project.
+
+Alternatively, one could seek funding for a full-blown computer game, which would probably cost in the area of $500,000, including all aspects from design through rollout. The primary hurdle in acquiring funding for such an expensive project could be in finding an academic or other strategic partner with whom to seek and apply for it. Another option is to seek a business partner from a game publishing house outlet such as E-Line, or Broderbund. In the long run experts from among a wide array of disciplines will need to work together on various aspects of the project. The major risk with this endeavor as well as any other groundbreaking discovery is to make sure that it doesn’t fall into the wrong hands with priorities that will unfairly imbalance the distribution of ground water supply.
+
+App development costs would be a small fraction of that required for full game development, although apps can also be expensive, anywhere from $1 - $50,000 ^19; under any circumstances the time spent by concerned individuals and groups would be of great value/ cost. There are many freelancers, entrepreneurs, students, and other volunteers, all game-changing grass roots activists, interested in both app development and in effecting sustainable practices.
+
+One example of a full game format is the University of Virginia whose Bay Game acquired major funding through IBM.^8
+
+As with SimCity^20 it would be ideal to make TW - A an easy-to-use, effective, engaging and free game, with charges for data and other services. Features such as largely concealed data and narrative will make the game feel more natural and fun to play.
+
+Timeline
+Over the period of 18 months, the following is proposed:
+
+1) in the first 6 months Level 1 of the operation will develop an analytical/ visualization app and apply it to generic and specific situations;
+
+2) in the second 6 months we test the Level 1 analytical app in concert with the Level 2 negotiation app, with regard to generic/ theoretical training, and in this case specific, hydrological concerns, looking at whether there is too much benefit to one party; rebalancing so that more benefit goes to others.
+
+3) After product integration, an additional 6 months will provide time for Level 3, including staged and then general roll out. An important aspect of this will be the staged creation of an access database. This will help direct the virtual representations and implementation training tools to people and organizations at the places where there are hydrological systems that have been analyzed by the integrated app, and need correction. The responsibility would be that of the receiving individuals, groups and governments to fund and implement the actual physical hydrological changes.
+
+TW - A is targeted as a product and service that may or may not make money but would provide social impact. In the eventuality of full game development we would have a double bottom line: youth empowerment through financial/ market-based learning.
+
+Within the school systems over a period of the next 5 - 10 years TW - A may gain the interactive capacity to provide the necessary feedback and scaffolding to make learning enjoyable and masterful, meaningful when the game is turned off.

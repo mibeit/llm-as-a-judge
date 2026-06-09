@@ -1,0 +1,171 @@
+Proposal number: 1333980
+
+Proposal: Waterspots : Watering Holes for the 21st century
+
+Summary
+Waterspots are decentralized water catchment & treatment hubs that harvest rain, fog & dew. As climate change progresses, capturing fog & dew for drinking purposes will become an increasingly important tool for water security. At the same time, climate change will cause rainfall in many semi-arid climates across the globe to decrease. Rain events that do occur are slated to become stronger & shorter. Maximizing our capacity to capture that water when it falls is vital to enhancing water resilience as climates shift.
+
+Waterspots accomplish these goals. Layers of plastic mesh span a stainless steel pipe frame. Acting much like redwood tree needles, mesh captures passing fog & transfers it to storage & treatment containers below.
+
+
+
+Steel support pipes have two additional functions. Hollow, they catch & store rainwater. They are also textured to maximize dew catchment, serving as dew catchers during nighttime & dawn hours. Once treated in onsite filters, water is pumped to waist-height water spouts, where users can source fresh potable water onsite.
+
+
+
+Because fog flows differently in different places, Waterspots come in four versions. Square models are designed for areas with consistent wind direction, such as coastlines & ridge tops. Round models are designed for areas with less consistent wind direction, such as denser urban streets & centralized neighborhood parks. Each model comes with educational touch screens to spread information about water use & alternative catchment systems.
+
+
+
+Waterspots also serve as public gathering spaces. Seating invites people to linger, learn about water resilience issues & connect with each other. Waterspots bring water catchment & treatment to the public realm, creating accessible spaces to celebrate the value of water.
+
+
+
+By harnessing rain, fog & dew, these decentralized catchment & treatment systems are watering holes for the 21st century.
+
+
+
+Our first prototype successfully collected water during California's most arid season.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+As climate change progresses, more urbanized areas worldwide will experience increased water stress. (Schuetze and Chelleri, 2013) Freshwater scarcity threatens infrastructural systems, urban development patterns & human health across the globe.
+
+Two of the most under-utilized resources for water security in drier regions is fog & dew. In semi-arid climates from San Francisco to Peru to Ethiopia, the influx and outflow of fog is a major part of daily life. Morning dew is likewise a daily occurrence. At present, however, there are few widespread systems in place to capture either for drinking purposes. Onsite rainwater catchment will likewise become an increasingly important way of increasing water security as climate change progresses.
+
+Waterspots are designed to maximize on-site water catchment capabilities from all three water sources, while providing vital community gathering & education space. Doing so creates important opportunities for public engagement, learning & collaboration around water security issues.
+
+Refine the prototype
+
+Working with collaborating scientists & design fabricators at UC Santa Cruz, Cal State Monterey and UC Berkeley to measure the efficacy of water catchment techniques, we will refine Waterspots product designs. Particular attention will be paid to innovations in mesh type & materials, temperature ranges for dew catchment, as well as seating orientation & educational interface success. When we reach our goals of 10 liters per day of water collection per Waterspot, we will begin deployment.
+
+While fog catching materials in certain areas typically catch 101 m-2 of mesh per day, those levels can’t be expected everywhere throughout the year. (Klemm et al, 2012) 10 liters per day would be an average for Waterspots projects for the entire year, wet & dry seasons both, & would be sufficient to engage a small urban neighborhood -- defined here as an urban area a quarter- to a half-mile of radius with a population of about 5,000 people – in a viable demonstration project. (Yummi and Rogers, 2014; Coulton and Jennings, 2012)
+
+While 10 liters per day seems small, that is the level at which Waterspots water prices become competitive with processed bottled water market prices. Current global market prices for bottled water are an average of $0.32/L. (Boesler, 2013) With Waterspots models priced at $1000 per unit (this does not include the interactive educational components and ongoing maintenance costs), Waterspots water is competitive price-wise once each model catches an average of 8.57L/per day.
+
+We just installed our first prototype at the Berkeley, CA marina in October 2017. September, October and the early weeks of November are traditionally the driest months of the year in the San Francisco Bay Area, yet the prototype successfully caught water in these low-humidity conditions. The prototype used Rachel mesh, a plastic filament fog catchment mesh fabricated in Chile. Typical water production rates from this material range from 7.5 to over 100 L/m2/day (2008, FogQuest). Typical catchment rates for the prototype were 2oz/day in conditions that were below 20% humidity. In conditions of 90% humidity (this occurred on October 17th), we caught 2L/m2 of fog mesh area per day, for a total of 5 liters/day for the prototype. These levels, caught during the driest months of the year, present exciting possibilities for significant water catchment levels during wetter seasons.
+
+We are now working on incorporating rainwater catchment and dew harvesting techniques, both active (with solar panels) and passive (with textured polymer surfaces and coated polyethylene materials). With these systems incorporated, we’re confident that Waterspot catchment levels will easily reach and surpass a daily average of 10L/day. Water catchment rates for super hydrophobic/hydrophilic material surfaces with which we are working can reach 1.7mg of water caught per mm2 surface area, which could translate to thousands of liters of water harvested on a single Waterspot unit per day. (Mondal et al, 2015)
+
+All Waterspots include onsite water filers. Our models use ceramic filters coupled with chlorine tablets. Treated water is transferred to taps onsite at Waterspots models through foot pumps. Health codes in each deployment site will be vastly different but it's our hope that by designing filtration systems to abide by more stringent health codes in developed countries, we can achieve successful systems for deployment in developing countries as well. Even when not connected to municipal water systems, Waterspots are designed to provide fresh potable water onsite via embedded filtration systems & taps powered by foot pumps (think of them as public watering fountains that catch water onsite).
+
+As the efficacy of the Waterspot catchment system increases, the product will transition from demonstration project to consistent water source. 
+
+Install Waterspots in arid and semi-arid areas across the globe
+
+Once prototypes are refined, Waterspots is deployed. Designed for use in semi-arid & arid areas worldwide, Waterspots are particularly effective in areas with high humidity & low rainfall. Again, target numbers for initial installation of Waterspots are an average of 10 liters per day (this is the point where Waterspots water becomes competitive with packaged water prices; later models will go beyond these levels of efficiency but initial deployment becomes viable at 10 liters per day).
+
+For each new deployment site, Waterspots goes through a similar community-based design process. Before deployment, we partner with communities on the ground to further refine & develop Waterspot models to reflect & honor local cultural norms and practices. Throughout installment periods, we collaborate with our community partners to conduct ongoing evaluation & refinement assessment of the utilized fog and dew catchment technologies, as well the educational designs. Those assessments inform design refinements moving forward.
+
+Working with local partners, we identify viable urban areas for deployment & the appropriate model for a given location. Rectangular models are crafted for areas where wind forces are more consistent, typically along coastlines & ridgetops. Round models are designed for areas where air flows are more variable, such as alleyways & downtown urban plazas. Local & national governing bodies are invited to deploy these models in their urban centers.
+
+We are currently working with San Francisco public school Abraham Lincoln High to develop Waterspots for student learning & onsite water catchment.
+
+Cultivate social engagement in understanding climate change issues
+
+In addition to providing valuable, diversified water catchment for urban areas, Waterspots serve as community gathering spaces. Modular seating invites users to stay after they’ve gathered water, to learn more about Waterspot utility & water issues in their region, & connect with others in their community. Just as people have gathered at springs & wells for centuries, Waterspots act as a central gathering space for urban dwellers to connect with their water sources & each other.
+
+Creating these interactive opportunities for education & engagement generates greater community involvement in climate adaptation planning. Today, climate change awareness remains one of our greatest collective challenges. While identifying potential solutions & adaptation measures is critical, developing widespread support from communities that either don’t believe climate change is happening or don’t feel that it’s necessary to take action is a goal we can’t ignore. Even as scientists & policymakers increasingly agree that human-induced climate change is real, its effects remain largely invisible to the wider public. Because the consequences of climate change differ depending on geographical location – manifesting in everything from increased drought to more intense storms to raging forest fires — most can’t see its wider scope. The potential consequences of inaction are more virtual than real. As researchers have noted, that lack of physical connection to the issue encourages many people to respond to conversations about climate change from a point of pre-existing beliefs, cultural mores and prejudices. In this way, climate change has become as much a cultural issue as it is a scientific one.
+
+In light of this, the time has come to go beyond our more traditional forms of communication & outreach. It’s not enough to share more data about rates of sea level rise & projected annual decreases in rainfall. In order to cultivate more inclusive, action-oriented dialogues about climate change, we have to engage people’s emotions, sense and imaginations. For decades, research has shown that more engaging educational experiences encourage more participants to absorb information & share their own expertise (Thier and Linn, 1979). Translating facts in ways that invite rather than demand participation is key to spreading awareness & action. As such, embedding projects with whimsy & fun is as important as the data itself.
+
+By providing people with a space to gather, collect & learn about water, arguably our most critical natural resource, Waterspots engage people on practical & emotional levels. Placing them in publicly accessible urban areas creates opportunities for casual interactions & conversations, increasing social awareness about climate change issues & enhancing community connections.
+
+Build a diversified water security system
+
+Waterspots are a scalable tool for onsite water catchment & public engagement around water security issues. When deployed strategically, Waterspots create a decentralized & diversified water catchment system, harnessing rain, fog & dew in watering holes designed for the 21st century.
+
+As efficiency of the catchment systems improve, Waterspot installations can be linked up to municipal water systems. Much as solar panels can feed power back into the grid, Waterspots can add fresh water back into city water systems. In areas where water infrastructure is less developed, Waterspot catchment cisterns can be enlarged by adding on more modular seating options, all of which double as water storage compartments.
+
+Again, even when not connected to municipal water systems, Waterspots are designed to provide fresh potable water onsite via embedded filtration systems & taps powered by foot pumps. Think of them as public watering fountains that catch water onsite.
+
+In doing so, they also serve as critical disaster planning & response tools. When disaster strikes, humans need support. In addition to food, shelter, power & information, what people need most during an emergency is water. Oftentimes in emergency situations, such as earthquakes and hurricanes, pipes break and municipal water systems shut down. Maintaining water access during these emergencies is critical to maintaining community health. Waterspots provide this essential service, providing water collection & distribution capabilities before, during & after disaster strikes.
+
+As the technologies improve & designs are refined, Waterspots will be developed for larger urban districts, more rural areas, & agricultural scales. We will also work with partners to develop policies to encourage greater use of alternative water sources, such a rebate benefits for using fogwater in food & beverage products.
+
+Who will take these actions?
+Waterspots are designed for deployment through government sponsored partnerships. Financial & administrative support from municipal, regional & federal governing institutions is key to implementing Waterspots services.
+
+In certain circumstances, however, government sector investment may be challenging to obtain. In these contexts, public-private partnerships will be pursued. We will also be exploring micro-finance options for installation in more developing countries and smaller communities. We are also pursuing collaborations with water-focused international charities such as Charity.water, Water.org and WaterisLife to explore opportunities for non-profit investment and distribution platforms.
+
+Urban Fabrick will be conducting the design & fabrication work necessary to bring Waterspots to the installation phase. We will also be partnering with key research organizations to monitor & measure efficacy of the Waterspots catchment systems. We are currently working with researchers at UC Santa Cruz & California State University Monterrey to develop initial prototypes, as well as designers and material fabricators at UC Berkeley. In each area where Waterspots is installed, we will cultivate new partnerships with researchers on the ground to ensure ongoing monitoring & assessment capabilities.
+
+Other essential actors are the day-to-day Waterspots users – the diverse peoples who comprise the communities & neighborhoods where Waterspots are deployed.
+
+Where will these actions be taken?
+Waterspots are designed for semi-arid & arid urban regions across the globe. Its models accommodate a range of fog & dew conditions in urban areas, in developed & developing countries alike. For urban areas with less rainfall, Waterspots can provide valuable water security services.
+
+Climates where Waterspots collections systems are most effective are areas with low rainfall & high atmospheric humidity. These conditions exist in areas across the globe, including sites such as Lima, Peru, where atmospheric humidity is almost 98%; Santa Barbara, where average humidity can get into the 80s and Los Angeles districts like Santa Monica where average humidity is 74%; Arica, Chile and Iquique, Chile where average humidity ranges from 70% to 80% throughout the year; Cape Town, South Africa; and Addis Ababa, Ethiopia where humidity reaches significant levels between July and September. 
+
+The sites chosen thus far for Waterspots testing & deployment are: Lima Peru; Arica, Chile; Cape Town, South Africa; Addis Ababa, Ethiopia; Kathmandu, Nepal; San Francisco, California.
+
+As we are based in the San Francisco Bay Area, San Francisco will be our first testing & deployment site. 
+
+ 
+
+In addition, specify the country or countries where these actions will be taken.
+Peru
+
+Country 2
+Chile
+
+Country 3
+South Africa
+
+Country 4
+Ethiopia
+
+Country 5
+United States
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+As climate change progresses, more urbanized areas worldwide will experience increased water stress. (Schuetze and Chelleri, 2013) Freshwater scarcity threatens viability of infrastructural systems and urban development patterns.
+
+One of the most under-utilized resources for water security in drier regions is fog and dew. As climate change progresses, capturing fog & dew for drinking purposes will become an increasingly important tool for water security. Maximizing on-site rainwater catchment capabilities is likewise critical for enhanced water resilience in decades to come.
+
+In semi-arid climates from San Francisco to Morocco, the influx and outflow of fog is a major part of daily life. Morning dew is likewise a daily occurrence. At present, however, there are few widespread systems in place to capture either for drinking purposes. As climate change progresses, doing so will become an increasingly important way of increasing water security.
+
+At the same time, climate change will cause rainfall in many semi-arid climates across the globe to decrease. Rain events that do occur are slated to be stronger and shorter. Maximizing our capacity to capture that water when it falls is a key to enhancing water resilience as climates shift.
+
+Integrating decentralized water catchment strategies into regional water systems can increase resilience of urban spaces. In addition to technologies such as onsite water re-use, harnessing often overlooked resources such as rainwater, fog and dew can contribute essential value to water resilience across the globe.
+
+Additional benefits include enhanced spatial quality and value of properties, and improved recreational and community spaces. (Schuetze and Chelleri, 2013)
+
+Enhancing existing urban water infrastructures with more decentralized water management structures can contribute essential improvements to greater resilience and livability in the decades to come. Integrating decentralized water catchment strategies into regional water systems increases the resilience of our water supplies. Harnessing often overlooked resources such as fog, dew and rainwater creates a more diversified water supply, thus increasing water security across the globe.
+
+What are other key benefits?
+In addition to providing diversified, decentralized water catchment services, Waterspots enhance public & recreational spaces. In doing so, they provide greater opportunities for community connection & education on water security issues, a critical ingredient of resilience. As more researchers agree, the best bet for creating more resilient systems is to foster community awareness & organization, thus strengthening our collective capacities for learning & adaptation.
+
+Collecting water from rain and fog is nothing new -- humans have developed the practice since long before Romans colonizing the African coast discovered they could harvest water from trees when fog rolled in. Yet in modern society, municipal water systems have left people increasingly disconnected from where their water comes from. For many, particularly in the developed world, the source of water is the tap.
+
+Waterspots create opportunities for people to learn about & engage with the physics of how their water gets from source to tap. In less developed arid areas where people are well aware of where their water comes from & how far they have to go to get it, Waterspots provide relatively cheap & passive onsite catchment capabilities. That the catchment system is paired with education & gathering spaces, increases awareness of water security issues that many might not have known before. As research increasingly shows, this increase in community awareness is essential to fostering more resilient communities as climates change.
+
+The need for the kind of climate change outreach that WaterSpots provides cannot be overstated. Studies have shown that when climate science is presented in more experiential ways, it resonates across more diverse groups. It’s not enough to share more data. To cultivate more inclusive, action-oriented dialogues, we have to engage the emotional roots that frame our feelings about the issue. Doing so allows us to find the common ground from which we can work together.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Costs to get the Waterspot project off the ground are $325,000. This includes $150,000 for current design refinements and prototype testing, during which time we will be partnering with community organizations in target countries to develop iterations of Waterspots designs that reflect local customs and engagement patterns. $75,000 is allocated for interface design and backend server development, and $50,000 covers certain administrative costs and salary support.
+
+The remaining $50,000 serves to fabricate initial Waterspot modules for deployment and testing. Fabrication for each base module is currently priced at $1,000 (this accounts for materials and fabrication costs of water catchment tools, including water storage compartments and treatment/filter systems, foot pumps, fog catchment mesh, and water harvesting frames) and $5,000 for the system’s interactive community learning and measurement tools (this includes solar panel powered interactive touch screens, battery systems, water level sensors, and seating modules).
+
+These numbers do not reflect ongoing costs of physical and technological maintenance services for the Waterspots systems.
+
+Timeline
+Short Term (1-5 years)
+
+Secure funding. Proceed with design development and refinement. Identify locations, communities and public/private partnership opportunities. Deploy WaterSpot models, continually monitoring and measuring viability of different water catchment types, particularly the utility of dew vs fog in different areas. Refine design according to water catchment assessments and user feedback. Scale up where appropriate.
+
+ 
+
+Medium Term (5-10 years)
+
+Continue refining Waterspot model designs. Conduct in-depth analysis on viability of systems to collect water (amounts etc). Facilitate cross-scale applicability for other water uses beyond urban areas, including agricultural and industrial purposes. Identify new areas for operation. As materials and designs for fog and dew collection improve, it will likely be possible to collect fog and dew water more efficiently in more regions of the world. Explore different scales for WaterSpot installation, from hand-held options for individual use to smaller versions for single apartments and/or households.
+
+ 
+
+Long Term (10-20 years)
+
+Re-assess whether WaterSpots are still the most useful medium through which cultivate decentralized water collection, spread climate change awareness and engagement. Depending on findings, either continue to refine and deploy WaterSpot models or shut the program down in favor of more effective tools.

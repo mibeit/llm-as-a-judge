@@ -1,0 +1,123 @@
+Proposal number: 1334101
+
+Proposal: User-Maintained, Highly Efficient Solar Powered Water Purification Systems
+
+Summary
+The technology tackles what is already a global crisis:
+
+As many as 700 million people today lack access to clean water. Over 80 percent of illnesses are linked to water issues and more than 400 million school days are lost. In addition, between 15 to 45 percent of the annual average income can be spent on potable water. With the growing threat of climate change-related disaster, these numbers will only grow. 
+
+PV Pure specializes in on-site, solar-powered water purification that can provide portable water at a fraction of the cost of commercially available water – typically less than ten percent the price charged by commercial producers. Our off-grid smart systems can be used anywhere in the world to produce clean drinking water, are exceptionally sustainable, are customized for every specific environment and water source, are rapidly designed, and can easily be operated and maintained by the non-experts who will use it.
+
+The concept of solar powered water purification small-distributed systems has existed for some time. However, it has not been economically or technically feasible because of the price of system solar power elements and the very wide range of local water sources that must be accommodated by purification systems, such as brackish ground water, sea water, hard water containing large amounts of dissolved solids, contaminated well water or rain water stored in open ponds or concrete cisterns. For these, and other common contaminates, a single system design will not work. A truly efficient system would need to be designed to function with the specific nature of the water source, account for the solar power available to the system, and the need for operation and maintenance by local, part time, non-experts. PV Pure accomplishes all of the above while also saving money and using sustainable technology. Every aspect of environmental impact is taken into consideration and drastically reduced.
+
+These systems put high quality water access directly into user hands.
+
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+There is a lack of small scale, sustainable and efficient systems that can be operated by non-experts. The large gap in this market has forced consumers who are already feeling the drastic affects of climate change and lack of clean water to purchase bottled water that is often too expensive for them to afford. This is a global issue, and not just a rural one. Urban areas also suffer from a lack of potable water due to insufficient or aging infrastructure. The bottled water industry is US$8 billion in Mexico alone, and that only accounts for ten percent of the global market.
+
+This gives us a great opportunity to design and deploy decentralized water purification plants attending to the most variable conditions in off-grid communities. Clearly, there is a need for small (250 - 25,000 LPD) systems that are able to produce purified drinking water locally, using local water sources at a price substantially below that charged by commercial producers. The solution: Solar powered distributed water purification systems.
+
+This is achievable through three key features of our technology:
+
+PV Pure configures the optimal system design from various treatment processes, using inventories of commercially available components, starting with key field parameters including climate, water chemistry and user demand. We utilize in-house knowledge based design software to rapidly generate the optimal system configuration and size for that application.
+Control software allows operation by a local non-technical expert and responds to fluctuating environmental variables, such as extended periods of cloud cover or shifts in water chemistry profiles.
+
+Being ‘smart’ and off-grid, the stand-alone systems can be operated and maintained easily by the users, allowing communities to manage their own water quality and quantity, and exist effectively independent of electricity or unreliable water supplies. Those that need the technology are the ones that do not have access to it, and are those relying on unsustainable, polluting practices to obtain it. By giving a sustainable solution to the millions of people that need it and putting it in their hands, we can build the green mentality and capacity for green technology from the grass roots level. PV Pure believes large scale change starts on the local scale. Thus, we work with the communities at the forefront of the impacts of climate change, and give them the tools to endure it and build a more sustainable world for them and around them.
+
+As far as how we build on current technology and the competition that exists, we are actually not competitive with a lot of technology because our system is built off of integrated parts. This means we can continuously update our system with novel technology as it is developed in a plug-and-play manner. Our system, in essence, never becomes obsolete or outdated.
+
+Who will take these actions?
+Where will these actions be taken?
+The technology has potential on a global scale, as it is customized to treat different water sources and their unique contaminants in the most effective and sustainable way. However, it is most beneficial to those in off-grid communities, schools, facilities, and those most directly affected by climate change.
+
+So far, the technology has proven itself in laboratory-scale and full-scale semi-autonomous stand-alone modular systems of various configurations in areas that include a Middle East site and MIT, Tulum Mexico, climate-change devastated Tikopia in the Solomon Islands of Melanesia, and the rural farming village of La Mancalona, Yucatan, Mexico, where the system is now under operation by the community, who have developed an ancillary business model by selling the water produced to the community’s members at a price affordable enough for members and high enough to cover the costs of system operation, maintenance, and distribution. 
+
+A 400 liter per day system for which was shipped and installed in October of 2015, is now operating to produce clean water.
+Two individual 2500 liter per day modular systems have been sent in July 2016 as a humanitarian project.
+Additionally, we are currently being sponsored by Mexican energy infrastructure firm IENOVA, to bring clean water to 15 villages and 18,000 people from the indigenous Yaqui tribe of Western Mexico. The collaboration with Sonora’s water authority to create the PV Pure systems is part of IENOVA’s large corporate social responsibility portfolio.
+
+In addition, specify the country or countries where these actions will be taken.
+Mexico
+
+Country 2
+Colombia
+
+Country 3
+Haiti
+
+Country 4
+Puerto Rico
+
+Country 5
+Brazil
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+We believe that a global energy transition cannot occur unless alternative energy is indeed implemented globally. Our product is affordable and many off-grid communities can move straight into clean energy while bypassing pollutive technologies entirely. Everywhere is different and a 100 percent renewable world would reflect that, with products taking into account variations in environmental factors and adapting to them, as our design does. A system with no unnecessary elements left in merely for uniformity is a cheaper system, and people clamor for technologies that save them money.
+
+In the most direct sense, we are replacing unsustainable services with a very sustainable solution. Actual solutions implemented in rural communities currently include diesel power. Besides the energy being unsustainable, the carbon footprint of these applications is around one kg of CO2 per day, which is equivalent to planting one small tree per day. Similarly, with trucked water, transports produce 1.9 kg of CO2 per mile. In this case, this means two small trees per mile. Our systems are grid-electricity free and are designed to be 100 percent powered by solar energy. Compared to other similar solar solutions, the PV Pure's grid-free solar energy approach without the need for batteries is more energy efficient and effective.
+
+Compared to bottled water, because we reduce plastic bottle waste, we can also offset by the following metric:
+
+· 3 liters of water to produce 1 liter of bottled water (industrial process)
+· Manufacturing 1 ton of PET (2007 American consumption) produces around 3 tons of carbon dioxide (CO2)Conventional water treatment plants account for 4 to 13 percent of the national energy consumption (the equivalent carbon footprint to 62 coal fired energy plants) and may represent between 30 and 40 percent of the municipal energy bill in many countries.
+
+Our design framework is based on an optimal design and manufacturing from commercially available components to reduce energy, material, and water waste. Most of the water components consist of low and high pressure elements, including filtration, nano-filtration, and reverse osmosis, among others. If produced at all, brine streams will be addressed by collaboration with local land management teams, but these streams are already significantly reduced as compared to conventional systems because of the PV Pure system’s smart design. As for its land footprint, the design reduces the size of our modular system as much as possible.
+
+In order to reduce fuel consumption due to material transportation, we utilize locally available construction materials to build the supporting elements of our systems, such as panel mountings, water storage, and system housing. As such, we reduce pollution associated with the transport of materials and enhance local labor and business. To reduce maintenance material transportation, systems are delivered with bulk components for up to five years and with access to a local supplier warehouse.
+
+What are other key benefits?
+Benefiting Communities
+
+The remoteness and marginality of rural communities and the limited income of its people make the purchase of commercially produced purified bottled water an unfeasible option. Locating small-scale, local, renewably powered systems could solve these communities' clean water problems at a low cost.
+
+The best way for our system to operate is when community members learn how to operate them and are able to set-up their own method for distributing the potable water it produces. This has already been implemented in the two remote Mexican locations. One of the system’s greatest social impacts is in the creation of employment and the technical apprenticeship of field operators. In Mexico, maintenance operators will earn US$850 per month: more than two times the average agricultural wage. Our water production cost allows for an average production cost of US$0.151 per gallon (decreasing as water production increases). By selling water at 25 cents per gallon, investors can reach breakeven point in less than one year.
+
+Our system engages community members in sustainable practices, and by building rural economies, we can help limit rural migration to cities, which increases urban carbon footprints.
+ 
+
+Benefiting Government
+
+We build our systems to produce water that meets WHO standards. Also, we are aware that individual countries and states may have their own specific water regulation standards. It is important for us that we comply with them.
+
+Large-scale infrastructure, such as piping for water transport, implies much bigger upfront cost for governments, besides much longer deployment time for people who need water. For example, pipe conductions from existing Mexican plants ten miles away from the end users will have an annual cost six times more (i=5%, 30y) than our system, with installation likewise taking longer than our two month deployment solution. Therefore, our system will save the government from spending money on piping in some areas.
+
+In addition, estimates of water treatment energy usage vary from 4 to 13 percent of the national energy consumption (equivalent to 62 coal fired energy plants) and may represent between 30 and 40 percent of the municipal energy bill in many countries. By implementing our proposed solution, the energy consumption of the country will be greatly decreased.
+
+
+Disposal
+
+The system is designed to be sustainable and to have very little, almost no, negative environmental impact.
+
+To improve the sustainability of our system, we are building partnerships with local land management groups and NGOs to devise safe disposal and recycling procedures. The risk of disposal will include bulk hardware recycling. However, none of the components that make-up the PV Pure system contain hazardous materials, which makes disposal environmentally safe. It also does not require any additional chemical product for the water purification product. Up to 75 percent of our parts are reusable and about 10-15 percent recyclable.
+
+ 
+
+Costs/Challenges
+What are the proposal’s projected costs?
+The principal challenge we found in the installation of our system is funding.
+
+In order to finance the system installation for those who cannot afford the upfront cost of the equipment, our business development team is in contact with several humanitarian organizations and private donors. It is important to note, however, that financing small projects are difficult because of overhead costs, while securing financing for larger ones, particularly through humanitarian groups, are often slow moving. Our new focus for financing larger projects has become securing funds through corporate social responsibility portfolios.
+
+Also, PV Pure will not add any profit on the system cost and offer our solution at the cost of goods and freight charges.
+
+In Mexico (our principal target market), as well as in many other countries, several programs have also been implemented for the development and financing of efficient equipment. Programs such as “Efficient Use of Municipal Energy” are meant to provide economical support to municipalities and other small districts in order to install energy efficient potable water equipment (among others) and reduce the national electricity consumption. By this way, private investment risk will be reduced by getting financial support from local and national government projects.
+
+Additionally, no more than twenty percent of the capital cost of system is annual. That money is covered by production and sale of water locally.
+
+Timeline
+Environmental, social, and economic impact is immediate and continuous.
+
+Our Phase 1 business plan (for remote decentralized water purification plants) and Phase 2 (a utility based model on the installation and operation of remote decentralized water purification plants for small off-grid communities) have investments that will be recovered in less than one year due to the low water production cost (US$0.03 per gallon), allowing high margins by selling the high quality water at US$0.10 per gallon, while bottled water is actually sold at premium prices of US$0.25-US$0.37 per gallon.
+
+Energy sustainability and efficiency can be easily measured and tracked when quantifying the water production, as the system energy consumption is proportional to this value. In addition, considering 1.321- gallon per day per person consumption, we can estimate the social impact of the plant installation. The employment creation is a function of the plant system installation. It is expected to triple our field labor force by 2018, double that in 2019 and keep increasing it at a rate of 150 percent per year. Energy sustainability and efficiency will be enhanced as well as make a monetary impact on the community’s economy. The savings from the reduction in price per gallon offers a payback period of less than three months.
+
+We feel confident in our ability to meet the needs of millions in the long term, and do so in a financially sustainable way. We have a broad, sustainable market with great growth potential. Our starting commercial and humanitarian sectors include rural communities, hospitals, and hotels in Mexico, and extend to Central America, Latin America & Caribbean.
+
+Mexico has the highest consumers of bottled water per capita in world, with 122 million people creating an US$8 billion per year industry. 4.8 million people in Mexico lack potable water and 30 percent are off-grid. The country’s 9,500 modern hotels make it a top five commercial water consumer, as does its 5000 hospitals. Mexico is a large recipient of foreign aid for water, and the internal budget for water development and access is increasing at 14 percent a year.
+
+In addition, we are already building a network of distributors across the Caribbean and Ecuador, and are receiving requests for the technology globally. We have been establishing a larger network of NGOs and field partners who have already identified sites and field projects, are preparing for feasibility studies and looking for sponsorship.

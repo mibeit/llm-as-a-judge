@@ -1,0 +1,88 @@
+Proposal number: 1333957
+
+Proposal: A new paradigm for plant health assessment and methane gas mitigation
+
+Summary
+
+
+METHANE EMISSION = METHANOGENESIS - METHANE OXIDATION
+
+Microbial fuel cells convert any kind of organic waste into electricity generation with a help of bacterial metabolism. These fuel cells, fundamentally are same as traditional fuel cells like hydrogen fuel cells, solid oxide fuel cells, comprising typical two electrodes, anode and cathode with a current collector to complete a circuit. The difference lies in the fuel supplied, which is organic matters in microbial fuel cells and water as a byproduct which doesn’t leave any environmental footprints like fossil fuels. A promising way to address issues like waste to energy, green house mitigation, electricity generation in small scale is to deploy newly developed technology called plant microbial fuel cell (PMFC).
+
+The idea developed in this project is to use plant microbial fuel cell (PMFC) concept to track the plant health, soil health, and microbe’s health in paddy production. The principle behind it is that power output in PMFC is a function of health of plant, soil microbial and physical parameter, microbe’s nature. Most importantly, establishment of bio electrochemical system in rhizosphere region in plant (paddy) drives the competition among methanogens, and electrogens, in favorable conditions (such as organic matter content), electrogens surpass the methanogens, thereby reducing the greenhouse gas methane emission from paddy. Paddy is chosen for model plant since it is a great contributor for methane emission, most staple food crops, and favorable for PMFC operations. One of evidences of electrogens surpass methanogens is that affinity of former one for organic carbons is much lower than than that of the latter one.
+
+ 
+
+ 
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+The action can be divided into three different phases: Initially, to set the novelty of work and development of baseline for its application, the experiments would be conducted in lab scale by developing microcosm that imitate the real field condition. It would be done by graduate students trained in PMFC research under the supervision of professors. Track of methane gas emission, effects of plant vitality, soil health, and microbial analysis will be done. After establishing of science of relationship among these factors, the second phase would be to work in paddy field considering the variation in ecological types. Third step would be development of prototype of PMFC system to install in a farm field if a hypothesis is correct after thoroughly analyzing the amount of methane gas mitigation over a large scale.
+
+
+
+Who will take these actions?
+University professors will be mentors/ advisor for the project.
+
+Research students will conduct the lab scale experiments.
+
+Author will be leading a research group.
+
+Farmers will  work closely to initiate the practical application.
+
+Business company will provide possible lab materials.
+
+At final phase, government and NGOs will be collaborated to make it a policy for implementation in paddy program.
+
+ 
+
+ 
+
+Where will these actions be taken?
+Initially, the action will be taken in a lab scale green house and open veranda conditions. After three complete cycle of assessments, it will be applied in one acre of rice field in an ambient environmental condition, this rice field would be of University research field. After three complete cycles of application in a research farm field, prototype will be designed to be installed into a farm field. In third phase, it will be trialled into different locations in collaborations of NGO and research universities in three different countries Thailand, Nepal and India. Altogether it will take three years for three different phases. Given the enough funding, methane mitigation and objective be achievable, government bodies like department of agriculture will be included in the process for application in a farmer's field under paddy planting program.
+
+In addition, specify the country or countries where these actions will be taken.
+Thailand
+
+Country 2
+Nepal
+
+Country 3
+India
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+
+
+Farming and agriculture shares 10-12 percent of the total anthropogenic global methane emissions and 40% of methane has been attributed to agriculture. Methane emissions from rice production has been predicted to increase substantially by 42% with an increase of atmospheric CO2 concentration to levels between 550 and 743 ppm (van Groenigen et al., 2013), predicted to be reached between 2050 and 2080 (IPCC, 2001). 
+
+In paddy farming, anaerobic digestion of organic matter forms methane gas accompanied with series of biochemical reactions. At first bacteria degrade the complex organic matters resulting into simple monomers, which transfers to organic acids, at final stage CO2 and H2 combined to form methane by methanogens. This occurs at optimum and favourable conditions like pH, extent of organic matter availability, substrates present, and ammonia concentration. These parameters provide an opportunity to reroute the mechanism for biochemical transformation and suppress the activity of methanogens which should focus on finding the operational parameters in which biomass retention time for electrogens (acetogens) is higher than methanogens and or keeping growth rate for former one larger than the latter one. Development of bioelectric generation system might provide the suitable environment for electrogens by providing suitable electron receptor ( anode). Therefore, current generation from paddy field can divert the pathways for methane emission and finally mitigating it.
+
+It has been reported that upto 60 mgCH4 m. -2 h. -1 is emitted from paddy which is equivalent to 804 mA.m-2 of current ( Arends et al, 2014). In our recent study, we are able to produce 440 mA.m-2 from our prototype as shown above which means theoretically half of methane is mitigated. However, we did not measure methane directly in this experiment. In nutshell, any favourable conditions for enhance electricity generation means electrogens surpass the methanogens, resulting in methane mitigation.
+
+What are other key benefits?
+It will contribute in plant science arena by keeping track of plant health ( biosensor).
+
+Methane emission and mitigation can be monitored in a facile way.
+
+Conversion of paddy field into electric energy source can provide power in those rural areas who are still devoid of electricity.
+
+This technology is very promising for future green cities development.
+
+ 
+
+ 
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Total proposal's cost depends on each stage of project cycle i.e., lab scale, demonstration farm trial, and real field applications. The last implementation phase depends on the success of prior two stages. The  expenditure for the whole project for three years is estimated to be $ 50,000.
+
+Timeline

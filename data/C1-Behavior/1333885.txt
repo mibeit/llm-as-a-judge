@@ -1,0 +1,236 @@
+Proposal number: 1333885
+
+Proposal: LET'S WALK! - climate change awareness day event
+
+Summary
+
+
+Purpose: helping to rise the climate change awareness our world so urgently needs. 
+
+Suggested actions: During that day we encourage people to walk and to:
+
+leave their cars at home,
+skip the bus,
+avoid the subway and
+turn to their own bodies in order to move around the city, by walking, by using their bicycles, their rollers, their skates.
+If you are not lucky enough to be living near your work space you can still collaborate by doing home office and other activities such as walking to the grocery or the club.
+Using a smartphone app we intend to track how much people walk during the day of the event. This information will then be published by social media and traditional media. The data provided by the app will also be translate in the reductions already mentioned, calculating savings in relationship  with the kilometrers walked and avoiding using transportation during that day.The application may use a similar alogorithm that "calculate your ecological footprint" uses, that is available at the Government web page [14].
+Because of the altruistic spirit of the cause, we expect to have support from the local ONG´s, health organizations and the government.     
+Main value generation loops v1.0.png
+
+
+Short term Impacts: we expect to save energy and money, GHG emissions, and we will contribute to build sustainable habits, for a healthy environment in the war against the dangers of a sedentary lifestyle.  
+
+Long term impacts:
+
+Since the proposal is to make people aware of how important it is to care about the planet. More climate change aware people would naturally support the following initiatives:
+
+Recycling: We forecast that it could increase by 10 %,
+ 
+Energy savings: recommendations use increment by 10 %
+ 
+Distributed solar photovoltaic electricity law: is approved and covers 5 % of city demand.
+ 
+Electric buses: their use is implemented in 2 % of city bus lines.
+Is this proposal for a practice or a project?
+Practice
+
+What actions do you propose?
+a) The main thrust of “Let’s Walk” is walking, because Buenos Aires has a high population density, and distances might be shorter than in other cities, so walking to work is a real possibility for some people. People can
+
+Walk 10 - 15 blocks to their offices or back home.
+
+Use public transportation, including buses, underground / subways and then walk the rest of the way to their offices or homes.
+
+ 
+
+b) Cycling also adds value to the “Let’s walk” proposal for the population 10 to 30 blocks from their office. The Buenos Aires City already has implemented an “ecobici” (eco bikes) program [15]. The ecobici system has bikes parked in several distributed city points, and anyone can use one of these bikes for free using his / her document. You just return the bike in another bike parking place near your destination.
+
+ 
+
+REVIEW OF SOME “BIKE TO WORK” PROGRAMS IN CANADA AND USA:
+
+USA Today informs that Bike to Work programs might be rising in US [21].
+
+Through a google search we found the following relevant links:
+
+table-bike-to-work-projects.png
+
+
+ANSWERS TO SOME OBJECTIONS TO “BIKE TO WORK”
+
+The Huffpost article [16] mentions 9 objections to “Bike to work”, here are our thoughts about them!
+
+main-objections.png
+
+“LET’S WALK BUSINESS MODEL CANVAS”
+
+LET`S WALK PROJECT BUSINESS CANVAS v2.0.png
+
+As we know we have different partners in this event, which play a fundamental role.
+
+On one side, the people enrolled in the event, that will participate registering using a mobile app. They will either walk to their works or commute by bike. In order to be eligible to receive a prize, each participant will allow the app to register information about distances walked / biked, which transportation they usually use to commute in order to calculate GHG emission savings due to the event. Those people that contribute with the biggest GHG emission savings will win prizes as well as  benefits from companies that sponsor the event.
+
+It´s necessary to distinguish, that by incentivizing the movement we are preventing obesity, decrease bad cholesterol and increase good cholesterol, improving the state of mind and incorporating healthy habits, so typically HMOs and the city government will be very much interested, as in Argentina poor people use public hospitals maintained by city taxes.
+
+On the other side, we need to be able to organize this event with which we need the Government's support to convey the event to the society. It will be benefited by an increased use of the public transport by the population, better flow of the traffic (less cars in the streets)  and at the same time it will reaffirm it´s commitment with the environment.
+
+In addition to this, it will be a great opportunity to advertise the use of the eco-bikes(“ecobicis”) [15] and, as a result, the bike lanes.
+
+On the other hand, the information generated by the app (big data)  will be of great utility since it will show which are the population's needs (for example: the best locations for entrances of subways , routes of buses or even which are the areas that are disconnected and need public transport).
+
+It is also important to have the companies that will join on this great event allowing the use of “home office”. In addition, they will collaborate as sponsors and obtain in exchange Big Data to improve its business and find niche.
+
+Sponsorships are one of the best ways of promoting a business and winning popularity between the target and generate good marketing for a brand. It can be specially used to increase credibility, image and prestige of the brand.
+
+All participation is voluntary, and public transportation will still be available to those who want to use it.
+
+LGC Team will ask for suggestions and advice from NGOs(such as WWF, who implemented "The earth hour"). In order to have more tools to guide the team on how to develop the project. 
+ 
+Once LCG Team recieves feedback from NGOs.They will present the formal proposal to the Institute of Technology of Buenos Aires (ITBA) and to the MIT Colab
+ 
+The team is looking forward to receive feedback from CLIMATE COLAB in order to improve the project. ITBA will give their consent and support to it.
+ 
+We received the recognition and prize from MIT Colab thanks to the backing through votes from ITBA.
+ 
+LGC Team will contact several organizations to help with fundraising and to add value to the final event (GOOGLE, MASS MEDIA, SPONSORS, etc). Nevertheless to make it happen we need firstly the GOVERNMENT authorization.
+ 
+The government will notificate the companies of the proposal and ask for their cooperation by allowing the employees to work from home. They will also have to arrange with the transportation about the modification of their routes.
+ 
+Distance walked and GHG savings: To have an estimation of the GHGs saved is necessary an app (develop by GOOGLE if possible) that will measure them.The application may use a similar alogorithm that "calculate your ecological footprint" uses, that is available at the Government web page.But it is important to keep record of the route like Google Maps does. 
+ 
+Once the proposal is accepted the next step is to settle a date and communicate it to the society, a key actor in this process is MASS MEDIA. 
+ 
+The day of the event SPONSORS will play an important role by motivating the population to walk more. This could be achived by offering refreshments and prizes. 
+ 
+Finally,all the information is collected by GOOGLE. Including steps per person and the equivalence with the reduction of GHGs obteined.
+ 
+The LGC Team will analyze the results and make papers to be published and to communicate it to the community, the government and the MIT. 
+ 
+As the results will be positive this idea can be implemented in other countries, all over the world. By this the proposal will reach a greater impact and a change in people's habits worldwide.
+
+
+Who will take these actions?
+LGC Team at ITBA: designs proposal and presents it to Climate Colab.
+ 
+Argentine Government sponsors "LET'S WALK day"
+ 
+Media covers the events publishing metrics on energy saved, emissions saved and money saved.
+ 
+5 % local city population participates in the "LET'S WALK day"
+ 
+NGOs sponsor event.
+ 
+Transportation works as usual.
+
+Other countries can implement the proposal to have a higher impact
+Where will these actions be taken?
+City level: The first objective is to do it in Buenos Aires City as is the most populated region, the most contaminating one and the principal concentration of companies.
+
+Country level: Later by the positive results our goal is to carry out the experience at country level, in cities like Cordoba, Rosario, Mendoza and San Luis.
+
+Worldwide: Finally, other countries can use the proposal to make their own impacts since everything counts.
+
+ 
+
+In addition, specify the country or countries where these actions will be taken.
+Argentina
+
+Country 2
+Brazil
+
+Country 3
+Chile
+
+Country 4
+United States
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+1) City of Buenos Aires
+
+a) Short term CO2e emissions saved in Buenos Aires city:
+
+We postulate that 5 % of the population will participate in the event.
+Public transportation use: 80% of population [1]
+
+ 
+Emissions saved by cars commuting from Buenos Aires Province:
+
+10410352 cars/month [2] /30 days/month x 15 km/trip  x 0.1 kg CO2eq / km [3] x 0.05 ( 5 % population participates  in event) = 26 tCO2e (metric tons) / day.
+ 
+
+Emission saved by cars inside the city:
+
+2.89 million people x 5% people participation x 20 % people use cars x 7 km average trip to work x 2 trips /day x 0.1 kg CO2eq / km [3] = 40.46 tCO2e / day
+ 
+
+Total short term CO2e savings = (26 + 40.46) = 66.46 tCO2e /day
+
+b) Long term CHG savings (5 years) in Buenos Aires city:
+
+We forecast that recycling could increase by 10 %. Today only 23% of Buenos Aires city recycle [4]. And recycling saves from 0.34 to 10 Tonnes of CO2e from each ton of recycled material [5]. Considering an average 1 Tonne of CO2e saved per Tonne of recycled material, current Buenos Aires savings from recycling would be 976 Tonnes of domiciliary residues [6] x 23% people recycle x 0.1 (10 % recycling increase ) x 1 tCO2e/1 t recycled material = 22 Tonnes of CO2e / year saved.
+ 
+Energy savings recommendations [7] use increment by 10 %. The average electricity consumption per electrified household in Argentina is 3600 kWh [11], so we estimate that the savings will be of 360 kWh/home per year * 963 thousand homes * 0.05 (5 % of participation) = 17334 kWh per year. This could save up to 17334 kWh x 0.0005925 tCO2e/kWh = 10.2 tCO2e/year
+Distributed solar photo voltaic electricity law is approved and covers 1 % of city demand.
+2.89 million people x 4100 kWh/person [10] x 0.01 (1% of demand) x 0.0005925 tCO2e/kWh = 70205 tCO2e/year
+ 
+It incentivates the use of public transport in this way, so the Government must make it more efficient.For example, the use of electric buses is implemented in 2 % of city.[8] [9] Each bus will save 175 metrics tones of pollutant emissions and 22.700 liters of fuel per unit and year. We estimate that there are 10200 buses in Buenos Aires,so 2% is 204, the total reduction will be 204*175 mtones= 35700 metric tones of pollutant / year saved.[10]
+ 
+Total emission savings = (22 + 10.2 + 70205 + 35700) = 105937 tCO2e/year
+
+2) Extrapolation to world:
+
+a) Short term:
+
+66.46 tCO2e/(2.89million people) x (1087 million people) = 24997 tCO2e
+
+b) Long term:
+
+105.937 tCO2e/year /(2.89million people) x (1087 million people) = 39 million tCO2e / year.
+
+The transportation sector accounts from 19 % to 25 % of total GHGs emissions, according to [12] and [13]
+
+So the total GHG due to the transportation sector may be calculated as
+
+46.000 million tCO2e x 22% = 10.120 million tCO2e
+
+So the proposal savings would be 39 / 10120 = 0.38 % of the transportation sector emissions.
+
+What are other key benefits?
+Generate awareness on using more public transport
+Government will have to improve the efficiency of public transport
+Change the habits of the society towards a sustainable and ecological life
+Smog and sound pollution will be reduced
+People´s stress levels will be reduced
+Increase the use of bicycles
+Change habits and weaken sedentary lifestyle
+Cut costs of transport and so combustibles
+By implemeting home-office besides helping this cause, the employeers will have a cut down of their costs
+Decrease GHGs emissions by reducing the use of cars and public transport
+Costs/Challenges
+What are the proposal’s projected costs?
+1) Cost of security forces involved in organizing the event.
+
+2) Cost of health support personnel, ambulances, paramedics,
+
+3) Cost of traditional media ads
+
+4) Cost of blog, SN ads and  social media managers / influencers
+
+5) Cost of winner prizes
+
+6) Cost of collaboration agreement with smartphone apps that calculate distances walked by people participating in the event
+
+7) Cost of webpage that summarizes energy savings, money saved, GHGs emission saved.
+
+Timeline
+The day of the event, there will be an immediate impact by the reduction of the GHGs emissions.
+In the short-term we are looking forward to make people realize that their can make a huge change on a daily basis.For example, they can avoid the use of cars in short distances.
+Over more, we can affirm that one of important change will be the use bikes. Nowadays, Buenos Aires city provides free bikes and bicicles in the downtown. Our idea is to massify these kind of habits and became a green country free of sedentarism.
+What's more, we want to Incentive companies to stablish a home-office day. This will allow people who live far from their jobs to colaborate to this cause.
+Medium-term: These "Homeoffice days" could at first be once a year, but once people catch the habit, it could be done monthly.
+Long-term: Eventually people could do these "Homeoffice days" weekly, so that people enjoy life a little more and savings of energy, money and GHGs emissions are multiplied.

@@ -1,0 +1,65 @@
+Proposal number: 1334085
+
+Proposal: Socio-ecological vulnerability of reef fish systems in the mexican Pacific.
+
+Summary
+Reefs are ecosystems of ecological, social and economic importance. Reef associated fisheries generate around 6 millon metric tons of fish catches worldwide, provide employment for millions of fishermen and represent an essential source of protein for the poorest communities. The increasing frequency of extreme weather events affects fish habitat, its distribution, as well as fishing operations and the physical infrastructure of coastal communities. This leads to fishermen having to make much greater efforts to achieve fishing: the use of more intensive nets and travel longer distances in search of the resource. These impacts are increasing and will become annual events as early as 2030 to 2050 if sea temperatures continue to rise at the current rate. The effects of climate change on marine taxa will be felt primarily by small-scale fishermen in developing countries where the spatial context of their activities is limited, adaptive capacity is low and there are few mitigation options. Knowledge about how vulnerable a system is and the specific conditions that make it vulnerable can help provide a basis for the development of key actions that minimize the impacts of environmental changes on people.This points to the urgent need to understand the potential impacts of climate change on the distribution of fish species, the ecological adaptive capacity they have to cope with and the resulting environmental disturbances of global climate change, since these forecasts can be included in the fisheries management plans.
+
+Our goal is to design a simple understanding and accessible software capable of predicting vulnerability in reef-associated socio-ecological systems, based on changes in the distribution and adaptive capacity of the ichthyofauna, and of the adaptive capacity of fishing communities in the Gulf of California and mexican Pacific.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+Our goal is to design a tool for the rapid assessment of vulnerability to the effects of climate change on socio-ecological systems associated with reefs, in addition to assessments of the potential impact of the new conditions. The tool is aimed at managers of protected natural areas, decision makers, NGOs, civil associations and the scientific community to help them formulate adaptation strategies.
+
+First step: Research.The potential impact (exposure) of climate change on species and societies, combined with their potential to receive a disruption and readjust (adaptive capacity), make it possible to estimate the vulnerability of ecosystems. The latter is the general equation for the calculation of vulnerability in socio-ecological systems. The first step in our effort to solve this equation is to understand the exposure that will be exposed both systems. For that, models of climate change scenarios (temperature) will be generated at regional scale (spatial resolution of 9km2), using as basis the global scenarios proposed by the IPCC RCP 4.5 and 8.5. In the ecological scale we propose the construction of an indicator of ecological resilience to variations in the surface water surface temperature of the ocean. For the latter, an intense literature revision of ecological and evolutionary characteristics of the fish species that make them cope with variations in ocean´s temperature is proposed. On the other hand, models of distributions and abundances of commercially important species in weeks time lapses (using neural networks as a prediction tool) will be designed. Finally in the social scale, an indicator of social vulnerability that will allow predicting the state of communities dependent on the resource of interest, from data on their potential adaptive capacity will be generated. These data must be carefully selected and will be obtained from Mexico government's official databases. The combination of these three models will allow a broader vision and a tool capable of predicting the synergistic consequences of climate change on fisheries management and marine conservation.
+
+We seek for the software to be accessible and easy to understand in order for decision-making entities, NGO's, civil associations, and the scientific community can evaluate the condition of these systems by simply uploading specific key data.
+
+Taking action: We propose to carry out multidisciplinary participatory workshops aimed at local communities, decision makers, social and environmental NGO's and civil associations, etc. to teach then how to use the software and empower these actors to use it for themselves and therefore evaluate the conditions. These workshops will have the objective of improving readings of results, discussing ideas on the implementation of adaptation and mitigation measures and that academia, governance and society act together. Based on the results predicted by our indicator, decision makers may design plans that to alleviate the impacts in both scales. Either through fishing management, through appropriate closures, changes in target species, or education plans in alternative activities (such as educating communities to be providers of ecotourism).
+
+Who will take these actions?
+The literature review, analysis, generation of indicators and the necessary studies are already being conducted by members of the proposed team here.
+
+The software design is intended to be performed by experts in a way that is easy to use and understand for those who need the evaluation.
+
+Communication and education to the community over the benefits of respecting closures while shifting to other activities during specific poor resource seasons must be done by government, protected area managers and backed by civil associations and ngo´s. Shifts in regulations need to be taken by decision-makers advised by the scientific community and experts; education and training for alternative activities may be taken by civil associations and ngo's. Accompaniment to the communities is essential throughout the process of change, in order for it to be sustainable over time.
+
+Where will these actions be taken?
+As a first approach, results will be generated for the Mexican Pacific and the Gulf of California: 15 rocky reefs and more than 300 coastal communities associated with these will be evaluated. These communities are located within a maximum radius of 80 km from a reef. As a second step we intend to extend the area of analysis to all coastal areas with reefs, which could be assessed once the first part of this study is concluded. We intend to extend the area of analyses worldwide in the future.
+
+The study of shifts in distribution will be made for fishes of commercial importance for social communities in the coasts of Mexico.
+
+Actions will be taken in fishing communities where the vulnerability was previously calculated using the former indicator.
+
+The study of shifts in distribution will be made for fishes of commercial importance for social communities in the coasts of Mexico.
+
+Actions will be taken in fishing communities where the vulnerability was previously calculated using the former indicator.
+
+In addition, specify the country or countries where these actions will be taken.
+Mexico
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+Predicting distributions and abundances of target species, avoid wasting large amounts of gasoline (usually invested in finding these). If the implementation of the tool in time is successful, in turn will improve the socioeconomic condition of communities dependent on the resource, and thus decrease poverty rates. This empowerment of communities will increase their resilience to the effects of climate change.
+
+What are other key benefits?
+Besides being a tool with multiple applications, it is a baseline for the study of ecological changes in the reef ecosystems. In addition, from this model, indicators can be constructed in the same way for different ecosystems affected by environmental disturbances due to climate change. This would encompass multiple species, ecosystems and socio-economic realities dependent on ecosystem services. For example in mangrove, riverine, delta, forest, forest, etc. systems.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+Timeline
+In the short term the impact is direct on the daily economy of fishing dependent communities: being able to predict the distribution of the target species will allow them to save gas in the search for them and be able to change to other target species. At the same time, the training towards other alternative activities and the implementation of the same could impact very positively on the environment, and in the beginning it is in the short term, but if it is carried out successfully and is sustained in the community, being this one that takes care of and defends the resource, this could be seen only in the medium term. If the tool is used in each of the communities dependent on different ecosystem resources that are labile to climate change, and if it is accompanied by social actions, it could reduce poverty rates, empower communities to carry out sustainable activities and all this in the long term to palliate many consequences of the misuse of the resources that is, at most, a factor that worsens the equation of exposition of the ecosystems to the disturbances by climatic change

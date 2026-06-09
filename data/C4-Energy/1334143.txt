@@ -1,0 +1,89 @@
+Proposal number: 1334143
+
+Proposal: Turning Air pollution into ink
+
+Summary
+Our work is an innovative device that captures over 90% of the particulate matter being emitted from sources burning fossil fuels without causing any adverse impact on the engine. The current device is retrofitted on diesel generators, used extensively for power backup in developing countries. After capturing the pollutant, we have developed a way to reuse it as inks and paints. We have captured over 250 kg of particulate matter in the last 1 year of pilots running across Delhi NCR, India
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+Problem
+
+Ambient air pollution is a leading cause of deaths, with an estimated 3 million deaths per year and 88% of those deaths were in low and middle income countries (WHO, 2015). Emissions due to combustion of fossil fuels consists of particulate matter (PM10 and PM2.5), which are known to cause lung cancer, COPD, ischemic heart disease and stroke (Jonathan O. Anderson). The situation is worse in India with 10 Indian cities making it to the list of top 20 most polluted cities of the world for PM2.5 ambient air pollution. Moreover, PM emissions contribute extensively to radiative forcing due to absorption of radiation and by settling on the glacial ice caps and reducing the albedo. PM also has indirect effect by changing cloud formation patterns and contribute heavily to climate change. The carbon dioxide equivalent of PM is ~460, which means that PM has ~460 times the adverse impact as compared to that of carbon dioxide (Myhre & Shindell).
+
+While the sources of air pollution are scattered, it is clear the diesel exhaust are a major contributor to PM10 and PM2.5 emissions. Moreover, the particulate matter released from diesel exhaust has been classified as Class I carcinogen by IARC (WHO). Diesel generators contribute to ~16% of PM2.5 in Delhi and thus are a major source of pollution (Reddy, Sagar, Chaturvedi, & Chaturvedi, 2015). Moreover, this contribution is worsened by the fact that diesel exhaust is severely carcinogenic as compared to other particulate matter like construction dust. While diesel vehicles are being phased out, diesel generators are here to stay for at least 10 years. The norms and guidelines on emission standards exist, but they are seldom adhered to, especially for small diesel generators which have been running for years. Hence, the emission from diesel generators is an immense problem, causing drastic health and environmental impact.
+
+Our Solution
+
+Chakr Shield is an emission control device which can be retrofitted on diesel generators and captures 90% of the particulate matter emission. Created using a novel self-cleaning method, it is a one of its kind device which controls pollution without causing any adverse impact on the engine’s performance or the environment. The back-pressure exerted is 1/10th of the permissible limit and the energy required is less than 0.1% of production. The device has a long product life and low maintenance needs.
+
+Currently, there are no commercially successful carbon particle collection devices available for diesel generators despite diesel generators being significant contributors to air pollution because of soot emission. The current alternatives which are used in vehicles and other industrial exhaust streams like DPF, Catalytic Converter and scrubbers create significant back pressures, are expensive and use significant energy. Moreover, these technologies oxidize the soot particles to Carbon Monoxide and Carbon Dioxide or dump it in a landfill or water stream, which is not a sustainable solution. Chakr Shield, on the other hand, is able to capture particulate carbon itself without significant back-pressure. Moreover, the captured pollutants are processed and used to make ink pigments which can be used in textile printing, paper printing, paints, pens, etc.
+
+ 
+
+Who will take these actions?
+Our technology currently has two significant value proposition for the user:
+1. Device (Chakr Shield): Chakr Shield can be useful to anyone who uses a diesel generator - industries, telecom tower companies, commercial and residential apartments. The value proposition to the customers will be:
+a. Regulatory market: Since the Central Pollution Control Board and the Environment Protection act had laid out clear rules and regulations for PM emissions from diesel generators, all diesel generators are supposed to comply with the standards. However, they are not able to meet the PM emission standards as the engine gets old. This is where our device is the appropriate tool to control emission and meet regulatory requirements.
+b. Sustainability: Given the tremendous health and environmental impact of PM emission, any company which is using innovative technologies to curb that impact would be able to contribute to sustainable development.
+2. Ink (POINK): The ink pigment made using the captured pollution can be used across industries. After mixing with the right medium, it can be used in textile printing, paper printing, as paints, etc. The ink is not only made from pollution; it also reduces the carbon footprint of ink pigment formation being made from waste.
+
+Where will these actions be taken?
+We are based out of Delhi and the current installations are located across the National Capital Region - Delhi, Gurgaon, Noida and Ghaziabad. We are also looking at expanding to other heavily polluted cities. Our technology has the potential to work across geographies, within India and in other countries where diesel generators are used extensively. As the technology is comprehensive, it can be expanded to all developing nations. As we achieve significant market space in India, we plan to take this to other developing nations who use diesel generators, face issues with ambient air pollution and hence need to reduce emissions.
+
+In addition, specify the country or countries where these actions will be taken.
+India
+
+Country 2
+Bangladesh
+
+Country 3
+China
+
+Country 4
+Pakistan
+
+Country 5
+Indonesia
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+we believe the device could be installed on at least 70% of the DGs in the targeted areas. Thus, it will reduce total PM generation from all diesel generators in the area by ~63% (with 90% efficiency). Thus, in Delhi, it will reduce the total emission of PM2.5 by almost 10% (since DGs contribute to ~16% of PM2.5 emission). 
+
+The devices have been running successfully for over 6 months and these devices have captured over 180 kg of particulate matter, which would have otherwise entered the atmosphere, polluting ~900 billion litres of air and entering the lungs, blood streams of the population. Thus, we have reduced the environmental and health impacts which would have been caused by these PM emissions.
+
+What are other key benefits?
+Environmental Impact
+
+In 8 Months, we have captured 180 kg of particulate matter which would have polluted 900 billion litres of air if not purified.
+
+Economic Impact
+
+The technology converts air pollution into a useful product - each device can produce ~500 litres of ink per year.
+
+Social Impact
+
+Reduction in PM level will significantly improve the health outcomes by reducing deaths due to ambient air pollution.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+For Device, a customer has to invest capital investment for installation of the device. Once installed, the operational and maintenance costs are free of cost for the customer as it can be met by the revenue generated from ink sales. Thus, the project will be able to sustain itself with the initial funding. Moreover, Chakr Shield, as a device can and has already been sold to many buyers in the industry. However, for the current target population, the initial investment may seem too high. Once installed and operationalized, people will be able to recognize the value of the product and hence create an acceptance and willingness to buy. 
+
+Challenges
+
+Our device as well as the ink is targeted at multiple markets, and thus has low risks. The potential problems in the market could be:
+
+Low willingness of people to pay for the technology
+Acceptance of ink created from pollution for large-scale use (though it has been accepted and sold for small-scale usage)
+To address these challenges, we have ensured that our technology is certified to reduce emissions and meets regulatory standards. We are also working to include the technology as a regulatory measure. The ink has also been tested and certified fit for use and free of any toxics.
+
+Timeline
+As we aim to create pioneering, sustainable, inclusive and scalable technologies to combat the grave threat posed by pollution, we plan to combat the perils of air pollution as follows:
+
+Near-Term Plan:
+Current Application: As we see traction from the industrial clients, we plan to expand the market footprint of our current devices across NCR and other heavily polluted cities in India.
+New Application: We are also working on application of the device for small scale industries which use furnace. The device can be deployed on their chimney controlling the air pollution. We plan to commercialize this application over the next 3-4 months.
+Long-Term Plan: Over the next few years, we plan to continue research and development in the air pollution space exploring pollutants like NOx, SOx as well as sources of pollution like commercial vehicles and thermal power plants. We have collaborated with BOSCH India for commercial research and development.
+Thus, our plan for future development is to fully commercialize the existing product - taking it to all target industries and cities which rely heavily on diesel generator. Along with growth in current portfolio, we are identifying ways to control other pollutants and sources of pollution. Through these measures, we plan to create significant health and environmental impact which can reduce the harmful effects of air pollution on people’s health and the climate.

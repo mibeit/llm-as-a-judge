@@ -1,0 +1,97 @@
+Proposal number: 1334123
+
+Proposal: Circulating Air Heating Furnace
+
+Summary
+
+
+At present, electric heating furnace includes electric furnace, induction cooker. Gas heating using gas stove.
+
+Electric furnace with internal resistance wire coated with insulating material of the absorbing tube, electric tube can also be buried in the cast aluminum radiator. Induction Cooker uses high-frequency magnetic field induction vortex heating principle to heat the pot of food. Gas furnaces use heat from the combustion of gas, LPG and natural gas.
+
+The above three kinds of cooking appliances were implemented radiant heating, induction heating and convection heating principle.
+
+This project is tantamount to propose an energy-saving stove that can circulate the heating section to reduce the heat loss by heating the heating air.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+
+
+The furnace will heat the air after the use of air recovery through the micro-fan, repeated heating and recycling.
+
+The air circulation furnace includes the jacket structure. The air flow to return to the bottom of the fan chamber through the bottom of the pot and then through the jacket, the micro-fan blows the air again into the nozzle, and the cycle is taken up.
+
+The ducts extend as much as possible increase the contact area so that more air is heated and the heating nozzle temperature is increased. Including the use of spiral duct, wave type duct, or narrow duct.
+
+Expanded design: The air circulation heating furnace comprises an electric heating pipe, the air inlet and the outlet nozzle at the beginning end of the heating air duct. The blowing device constitutes a micro-blower and its blade, the jacket between the heating furnace cover and the lining is a circulating air duct. When the food appliance is given to the heating furnace to start heating, the heated air returns from the return-air-outlet to the reheat heat conduction channel.
+
+Who will take these actions?
+1.Start-up companies.
+
+2. Energy companies
+
+3. Electric enterprises
+
+Where will these actions be taken?
+American
+
+In addition, specify the country or countries where these actions will be taken.
+No country selected
+
+Country 2
+No country selected
+
+Country 3
+No country selected
+
+Country 4
+No country selected
+
+Country 5
+No country selected
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+1. Saving Energy
+
+Achieved hot air recycling, recycling heating can improve the electric efficiency.
+
+2 Environmental protections
+
+electricity instead of gas. To avoid gas stove combustion of carbon dioxide and other toxic gases, the goal is to replace natural gas, like electric vehicles instead of fuel oil.
+
+3. Changes the nature of the heating
+
+the radiation heating becomes convection heating. More efficient?
+
+What are other key benefits?
+1. Fit the traditional
+
+Suitable for the habit of the fried and spoon, and induction cooker can not be achieved.
+
+2. Safety
+
+Through hot air heating, non-contact power system, improve safety, there will be no poisoning or fire and other hazards by caused gas leakage.
+
+3. Can be double adjustment with electric and wind
+
+Achieved fried, boiled, stewed and other cooking methods by adjusting the power supply and blower air intake.
+
+4.Blower device nozzle can make a sound, imitation fire. Cooking effect.
+
+Costs/Challenges
+What are the proposal’s projected costs?
+1. Comparison of microwave ovens
+
+The structure is simpler than the microwave oven, the cost is lower than the microwave oven.
+
+2. Comparison of induction cooker
+
+The structure is simpler, lower cost than the induction cooker.
+
+Timeline
+1. Design: 2 months
+
+2. Development: 3 months

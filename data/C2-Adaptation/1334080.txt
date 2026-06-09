@@ -1,0 +1,184 @@
+Proposal number: 1334080
+
+Proposal: Climate Information Mobile App. Vr. 2.0
+
+Summary
+Climate change Adaptation is about planning and acting for a more variable and uncertain climate. In order to do this, we must first be able to increase our ability to tackle the climate today. Then we must plan for increased flexibility in our ability to respond to changes in our future climate. Information on projected weather conditions together with agronomic advisories is critical in enabling farmers to make informed decisions.
+
+Innovative solutions to enhance access to reliable and usable climate information could mitigate the negative impact of climate change.
+
+C.I.M.A is a business strategy that uses climate information to provide weather data based on farm geo - location thus improves accuracy on forecasts. With this we aim to assist vulnerable communities to evade life threatening situations and to better tackle climate uncertainty and risk.
+
+Another challenge posed to adaptation is Language barrier. This poses a challenge to accessing and using climate information. By facilitating translation from English to other local dialects through linking the climate information to a language database for translation we can prepare communities adapt to the impacts of climate change.
+
+Is this proposal for a practice or a project?
+Project
+
+What actions do you propose?
+Proper planning using up to date climate information could minimize negative impact of climate change on people's livelihoods and economy. Accurate & decision-relevant climate information is critical to plan & minimize negative impact of climate variability
+
+For this to be achieved there needs to be community driven initiatives that are successfully changing people’s lives for the better; that are helping communities respond to real and expected climate change risks.
+
+Banking on the availability of affordable smartphones, the team is developing a mobile application that will be able to provide the local farmers with timely and relevant climate information to better help them plan accordingly.
+
+In order to accomplish this, the proposal aims to give timely access to relevant climate information needed to ensure farmers are able to adapt to climate change to build resilience and sustainable livelihoods.
+
+Overcoming Language Barrier
+
+Communication and awareness initiatives are critical in enabling adaptation to climate change.
+
+The advent of affordable smartphones has contributed significantly in bringing more people online across the continent and with it .
+
+With smartphone technology it’s possible to facilitate translation from English to other local dialects and in addition, adding familiar images and symbols to help users easily understand what we are trying to convey.
+
+
+
+How Generated Climate Information Will Be Delivered
+
+Through the Climate Information Mobile App, we plan to offer an interactive interface with weather icons that are easily identifiable by farmers even in their local dialects.
+
+By delivering minute-by-minute precipitation forecast, hyper-localized to a farmers exact area, farm address or GPS location as shown in the below figures, we aim to enhance delivery of climate information.
+
+In the below figure, Push notifications (a message that pops up on a mobile device) created by App publishers is used to send a notification for severe weather alerts in the area to the specified farmer or users in the community.
+
+
+
+Another mode of delivery through the mobile app would be through short weather videos within the app both in English or their preferred dialect.
+
+How Communities will use the Climate Information
+
+With the apps interactive interface and easily identifiable Climate Information, communities can:-
+
+Get localized weather forecast based on farm geo - location thus improved accuracy on forecasts and analysis of past trends giving farmers details like temperature, rainfall and wind speeds.
+Obtain A set of alarms for the various crops planted. Farmers get a reminder when an action (like watering) should be performed. For instance: If the weather condition has been too, which hot which would lead to loss of soil moisture. The alarm would be able to inform the farmer when to water his plants.
+Receive high quality weather and agronomic data to farmers, field officers in real-time and usable formats.
+Receive scientifically vetted agronomic models and alerts on pests and disease to watch out for.
+ 
+
+One of the biggest challenges to communities in receiving climate information is Language Barrier. Most climate information is distributed in English thus by facilitating translation to local dialects via linking through a language database, we can enhance delivery of the information.
+
+By making use of this information, they can readily anticipate climate hazards and prepare adequately for it.
+
+
+
+Information Exchange
+
+Through the app, sustainable agriculture / ecological agriculture can be fostered to improve agricultural production, health and natural resources. For instance farmers can share Management practices that increase soil organic carbon (SOC) content through organic matter management as shown below. This information can be shared with farmers in (ASALs) Arid and Semi-arid lands where climate change effects have adversely affected the lives and livelihoods of smallholder farmers.
+
+
+
+Enhancing use of Smartphone Features
+
+Hardware support features of some smartphones include:-
+
+Barometer – measures atmospheric pressure.
+Accelerometer - a device that measures proper acceleration;
+Magnetic flux – measures the direction, strength, or the relative change of a magnetic field at a particular location.
+Gyroscope - helps indicate orientation.
+GPS - provides geo-location and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites.
+Thermometer - measures temperature or a temperature gradient.
+ 
+
+Working in a different way or reverse, the Climate Information Mobile App can start collecting information from the user smart phone’s passive sensors like barometer, accelerometer, magnetic flux, gyroscope, temperature, etc.
+
+It can then measure quantities like temperature and pressure, sorts all this information received from thousands of users and forecasts weather for a particular place. This data can be synced with a central server but if its to be independent, the forecasting would be found to be accurate wherein the density of users of the app is high. (Crowd-sourced weather observations.)
+
+More information exchange features can be added onto the app, like in instances where communities send climate hazards in their location and request for aid as shown below.
+
+
+
+Who will take these actions?
+The proposal is hinged on coordination efforts by a number of public, private and civil society organizations. Thus actions to be taken here vary across the different key actors involved, as shown below
+
+Organization’s (business or non-government organizations) that represent, work with, or intend to work with, communities that are vulnerable to climate variability and change in Kenya.
+County governments, national, or local/community-based
+Partnerships between communities, innovators and climate science providers and will be able demonstrate the greatest impact at community level over the course of the program.
+ICT service providers like Safaricom and Airtel, both of who will have another accolade to their name that they can use for advertisement and community service through their corporate social responsibilities.
+Agricultural Extension Officers, Staff at the Meteorological Department of Kenya, all of who will benefit by seeing the different opportunities for partnerships and shared information.
+Translators to assist the researcher in interpreting climate information
+Where will these actions be taken?
+Performance of agricultural sector, the mainstay of Kenyan economy, is heavily dependent on climate. Adaptation is key to sustainability thus as a pilot it can be started here.
+
+Furthermore, these actions to be taken will have the most impact in developing countries. Especially the Arid and Semi-arid lands (ASALs) regions.
+
+World Map of ASALs Regions
+
+
+
+The proposal seeks to be implemented and scaled up in such Hot Spots where climate change effects have adversely affected the lives and livelihoods of smallholder farmers within the agricultural sector.
+
+In addition, specify the country or countries where these actions will be taken.
+Kenya
+
+Country 2
+Sudan
+
+Country 3
+Namibia
+
+Country 4
+Angola
+
+Country 5
+Australia
+
+Impact/Benefits
+What impact will these actions have on greenhouse gas emissions and/or adapting to climate change?
+C.I.M.A offers best practices that provide an integrated course of action and approach that address vulnerabilities brought about by climate change, promotes sustainable land management both in the short-term and longer-term climate change
+
+It promotes proactive, demand driven interventions to achieve positive outcomes for communities and societies in reduction of GHG’s and climate-sensitive sectors such as agriculture, forestry, fisheries, water resources, environment and energy.
+
+What are other key benefits?
+It is estimated that annual cost of impact of climate change in Kenya could be as much as USD 500 million a year or 2.6% of GDP. Agriculture mainstay of Kenya's economy, is almost entirely rain fed. Variability in rainfall not only impacts livelihoods but entire economy.
+
+Thus other key benefits include
+
+Strengthening and scaling up the capacity of individuals and households to adapt to climate change.
+It targets poor populations with high vulnerability to climate shocks and stressors and
+Climate information can be used, with associated services, to reduce their vulnerability.
+Encourages the creation of partnerships between the organizations with strong community links, and the creation of self-sustaining models of improved climate information use.
+Stimulates and incentivize new Research & Development to develop and deploy solutions for low-income consumers, with a particular focus on improving poor people’s access to affordable clean energy, safe drinking water and improved sanitation, and resilience to climate change.
+Enables farmers adapt to varied climatic conditions. This helps to mitigate crop loss
+Equips extension officers and farmers to know when to plant their crops by giving relevant climate information.
+Helps livestock farmers to find markets for to avoid the adverse impacts of drought
+Costs/Challenges
+What are the proposal’s projected costs?
+Based on geographic size, location of community and manpower required, estimated Total approximations come to about $ 220,000
+
+App Development = $ 40,000
+
+Community engagement Scale up & Replication = $ 150,000
+
+Project Evaluation and Monitoring = $ 30,000
+
+
+
+Timeline
+Climate Change adaptation practices should be implemented in the shortest time possible to ensure benefits is realized in the long term. The timing element of the project is thus less than 2 years.
+
+Apps take a good deal of time to plan out, design, develop and launch. While they rarely take as long to develop as a full software application or website, they typically take at least two to three months to develop from start to finish.
+
+Short Term Timeline - (1st Month – 3rd Month)
+
+Sourcing of funds
+Architecture & Planning. All facets of the app are thought out. Beyond a simple idea of what the app needs to do and how it needs to look. Basically the entire app is mapped out from start to finish.
+Design. Comps are created to show how the app will look. Color schemes are implemented, images are inserted and place holder text is generally used at the start of this phase with it being replaced by the actual content either at the end of this phase or during development.
+Development. Design is turned over to the developers so that they can properly code the application.
+Testing. This phase ensures that the app works properly, all databases are connected, there are no broken links in the app, and everything works as was designed.
+Deployment. The app is submitted to Google or Apple and awaits approval.
+ 
+
+Medium Term Timeline - (4th Month – 11th Month)
+
+Identification of local communities to engage with.
+Management and monitoring of test/demonstration.
+Awareness and Sensitization of communities.
+Environmental and Social Impact Assessments
+Scale Up & Replication.  Here is whereby the proposals geographic scale is expanded.
+ 
+
+Long Term Timeline - (1st Year – 2nd Year)
+
+Measurement and Monitoring.
+Verification - Independent agencies will then ensure that the projects are being implemented successfully. 
+Permanence - Is the life of the project .The most desirable are  projects that have Built resilience and capacity to understand and effectively respond to climate extremes and climate-induced disasters
