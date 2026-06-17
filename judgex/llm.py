@@ -209,6 +209,7 @@ class OpenAICompatibleInstructorProvider:
         base_url: str | None = None,
         api_key: str | None = None,
         max_tokens: int = DEFAULT_MAX_TOKENS,
+        disable_thinking: bool | None = None,
     ):
         from openai import OpenAI
         import instructor
@@ -222,11 +223,16 @@ class OpenAICompatibleInstructorProvider:
             or os.environ.get("OPENAI_API_KEY")
             or "not-required"
         )
+        # Read from env if not explicitly passed; default True for self-hosted vLLM endpoints
+        # that serve Qwen3/DeepSeek-R1 thinking models (Blablador alias-large/-huge).
+        if disable_thinking is None:
+            env_val = os.environ.get("JUDGEX_DISABLE_THINKING", "true").lower()
+            disable_thinking = env_val not in ("0", "false", "no")
+        self.disable_thinking = disable_thinking
         client = OpenAI(api_key=resolved_api_key, base_url=resolved_base_url)
-        # Mode.TOOLS works for OpenAI proper and most OpenAI-compatible servers.
-        # Self-hosted servers without tool-use support would need Mode.JSON instead -
-        # add that as a knob if your cluster needs it.
-        self.client = instructor.from_openai(client)
+        # Mode.JSON is used instead of Mode.TOOLS because self-hosted endpoints
+        # (vLLM, Blablador) often drop the connection when receiving tool-call requests.
+        self.client = instructor.from_openai(client, mode=instructor.Mode.JSON)
 
     def complete_model(
         self,
@@ -235,17 +241,37 @@ class OpenAICompatibleInstructorProvider:
         response_model: type[T],
         max_retries: int = 0,
     ) -> T:
+        import time
+        from openai import APIConnectionError
+
         composed = [{"role": "system", "content": system}] + [
             {"role": m.role, "content": m.content} for m in messages
         ]
-        return self.client.chat.completions.create(
-            model=self.model,
-            temperature=DEFAULT_TEMPERATURE,
-            max_tokens=self.max_tokens,
-            messages=composed,
-            response_model=response_model,
-            max_retries=max_retries,
-        )
+        extra: dict = {}
+        if self.disable_thinking:
+            # Disables Qwen3/DeepSeek-R1 extended-thinking via vLLM chat template flag.
+            extra["extra_body"] = {"chat_template_kwargs": {"enable_thinking": False}}
+
+        # Outer retry for transient server errors (502 Bad Gateway, stale connections).
+        from openai import InternalServerError
+
+        for conn_attempt in range(4):
+            try:
+                return self.client.chat.completions.create(
+                    model=self.model,
+                    temperature=DEFAULT_TEMPERATURE,
+                    max_tokens=self.max_tokens,
+                    messages=composed,
+                    response_model=response_model,
+                    max_retries=max_retries,
+                    **extra,
+                )
+            except (APIConnectionError, InternalServerError) as exc:
+                if conn_attempt == 3:
+                    raise
+                wait = 30 * (conn_attempt + 1)
+                print(f"[llm] transient error ({type(exc).__name__}), retrying in {wait}s (attempt {conn_attempt + 1}/3)…", flush=True)
+                time.sleep(wait)
 
 
 # ---------------------------------------------------------------------------
