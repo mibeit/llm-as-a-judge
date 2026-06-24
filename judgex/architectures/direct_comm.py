@@ -9,8 +9,13 @@ Three layers:
 
 Baseline flow:
   Phase 1a: each agent posts an initial AgentJudgment (no peer info).
-  Phase 1b: each agent reads its two cluster-peers' initial judgments and posts
-            a revised AgentJudgment.
+  Phase 1b: intra-cluster peer exchange, a single optional Q&A round:
+            - questions: each agent reads its two cluster-peers' initial judgments and
+              may direct at most one question (or point of challenge) at each peer.
+              Asking nothing is allowed.
+            - answers: each agent answers the questions directed at it.
+            - revision: each agent posts a revised AgentJudgment, informed by the peers'
+              initial judgments and the intra-cluster Q&A.
   Phase 2:  S1 and S2 produce cluster summaries (using the FinalJudgment schema,
             with contributing_agents scoped to the cluster).
   Phase 3:  E produces the overall FinalJudgment from S1 + S2.
@@ -26,7 +31,13 @@ from judgex.architectures.centralized import INTEGRATION_ORIENTED, Mechanism
 from judgex.llm import LLMProvider
 from judgex.personas import PERSONAS, Persona
 from judgex.runtime import call_model
-from judgex.schemas import AgentJudgment, FinalJudgment, PersonaId
+from judgex.schemas import (
+    AgentJudgment,
+    FinalJudgment,
+    PeerAnswerSet,
+    PeerQuestionSet,
+    PersonaId,
+)
 
 CLUSTER_1: tuple[PersonaId, ...] = ("A1", "A2", "A3")
 CLUSTER_2: tuple[PersonaId, ...] = ("A4", "A5", "A6")
@@ -41,6 +52,8 @@ class DirectCommState(TypedDict, total=False):
     proposal_id: str
     proposal_text: str
     initial_judgments: dict[str, dict[str, Any]]   # persona_id -> AgentJudgment dump
+    peer_questions: list[dict[str, Any]]           # {from_persona, to_persona, question}
+    peer_answers: list[dict[str, Any]]             # {from_persona, to_persona, question, answer}
     revised_judgments: dict[str, dict[str, Any]]   # persona_id -> AgentJudgment dump (post peer)
     cluster_summaries: dict[str, dict[str, Any]]   # "S1" / "S2" -> FinalJudgment dump
     final: dict[str, Any]
@@ -66,11 +79,31 @@ def _persona_system_initial(persona: Persona, mechanism: Mechanism) -> str:
     )
 
 
+def _persona_system_questions(persona: Persona, mechanism: Mechanism) -> str:
+    return (
+        persona.system_prompt()
+        + "\n\nYou have just read your two cluster-peers' initial judgments. You MAY direct at "
+        "most one question (or one point of challenge) at each peer - but only if you genuinely "
+        "have one. Asking nothing is a perfectly valid choice; do not invent questions.\n"
+        + mechanism.persona_preamble
+    )
+
+
+def _persona_system_answers(persona: Persona, mechanism: Mechanism) -> str:
+    return (
+        persona.system_prompt()
+        + "\n\nOne or more cluster-peers have directed a question at you. Answer each from your "
+        "persona's lens.\n"
+        + mechanism.persona_preamble
+    )
+
+
 def _persona_system_revised(persona: Persona, mechanism: Mechanism) -> str:
     return (
         persona.system_prompt()
-        + "\n\nYou have just read your two cluster-peers' initial judgments. "
-        "Update your judgment if the peer information genuinely changes it; otherwise restate.\n"
+        + "\n\nYou have read your two cluster-peers' initial judgments and the questions and "
+        "answers exchanged in your cluster. Update your judgment if that genuinely changes it; "
+        "otherwise restate.\n"
         + mechanism.persona_preamble
     )
 
@@ -83,13 +116,43 @@ def _initial_user(proposal_text: str, mechanism: Mechanism) -> str:
     )
 
 
-def _revised_user(proposal_text: str, peer_blob: str, mechanism: Mechanism) -> str:
+def _questions_user(
+    proposal_text: str, peers: list[PersonaId], peer_blob: str, mechanism: Mechanism
+) -> str:
     return (
         f"PROPOSAL:\n{proposal_text}\n\n"
         f"YOUR CLUSTER PEERS' INITIAL JUDGMENTS:\n{peer_blob}\n\n"
+        f"Your cluster-peers are: {', '.join(peers)}. "
+        "If you have a genuine question or point of challenge for a peer, post it - at most one "
+        "per peer, addressed via `to_persona`. If you have nothing worth asking, return an empty "
+        "list. Do not invent questions just to fill the round.\n\n"
+        + mechanism.persona_preamble
+    )
+
+
+def _answers_user(
+    proposal_text: str, own_judgment_blob: str, questions_blob: str, mechanism: Mechanism
+) -> str:
+    return (
+        f"PROPOSAL:\n{proposal_text}\n\n"
+        f"YOUR INITIAL JUDGMENT:\n{own_judgment_blob}\n\n"
+        f"QUESTIONS DIRECTED AT YOU BY CLUSTER-PEERS:\n{questions_blob}\n\n"
+        f"{mechanism.clarification_agent_instruction}\n\n"
+        "Answer each question from your persona's lens. Echo each question verbatim in "
+        "`question` and give your `answer`."
+    )
+
+
+def _revised_user(
+    proposal_text: str, peer_blob: str, qa_blob: str, mechanism: Mechanism
+) -> str:
+    return (
+        f"PROPOSAL:\n{proposal_text}\n\n"
+        f"YOUR CLUSTER PEERS' INITIAL JUDGMENTS:\n{peer_blob}\n\n"
+        f"INTRA-CLUSTER Q&A (questions and answers exchanged in your cluster, if any):\n{qa_blob}\n\n"
         f"{mechanism.clarification_agent_instruction}\n\n"
         "Return your revised AgentJudgment. Keep your persona's lens; update scores only "
-        "where the peer information actually warrants it."
+        "where the peer information or the Q&A actually warrants it."
     )
 
 
@@ -174,10 +237,107 @@ def _node_initial(provider: LLMProvider, mechanism: Mechanism):
     return node
 
 
-def _node_peer_exchange(provider: LLMProvider, mechanism: Mechanism):
+def _node_peer_questions(provider: LLMProvider, mechanism: Mechanism):
+    """Each agent may ask at most one question per cluster-peer (optional)."""
+
+    def node(state: DirectCommState) -> DirectCommState:
+        questions: list[dict[str, Any]] = []
+        for cluster in (CLUSTER_1, CLUSTER_2):
+            for pid in cluster:
+                persona = PERSONAS[pid]
+                peers = [p for p in cluster if p != pid]
+                peer_blob = json.dumps(
+                    {p: state["initial_judgments"][p] for p in peers}, indent=2
+                )
+                qset, _ = call_model(
+                    provider=provider,
+                    system=_persona_system_questions(persona, mechanism),
+                    user=_questions_user(state["proposal_text"], peers, peer_blob, mechanism),
+                    response_model=PeerQuestionSet,
+                )
+                # Enforce: only valid peers, at most one question per peer.
+                seen: set[str] = set()
+                for q in qset.questions:
+                    if q.to_persona in peers and q.to_persona not in seen:
+                        questions.append(
+                            {
+                                "from_persona": pid,
+                                "to_persona": q.to_persona,
+                                "question": q.question,
+                            }
+                        )
+                        seen.add(q.to_persona)
+        state["peer_questions"] = questions
+        _log(state, "direct_peer_questions", {"n_questions": len(questions)})
+        return state
+
+    return node
+
+
+def _node_peer_answers(provider: LLMProvider, mechanism: Mechanism):
+    """Each addressed agent answers the questions directed at it (skipped if none)."""
+
+    def node(state: DirectCommState) -> DirectCommState:
+        answers: list[dict[str, Any]] = []
+        by_target: dict[str, list[dict[str, Any]]] = {}
+        for q in state.get("peer_questions", []):
+            by_target.setdefault(q["to_persona"], []).append(q)
+        for pid, qs in by_target.items():
+            persona = PERSONAS[pid]
+            questions_blob = json.dumps(
+                [{"from": q["from_persona"], "question": q["question"]} for q in qs], indent=2
+            )
+            aset, _ = call_model(
+                provider=provider,
+                system=_persona_system_answers(persona, mechanism),
+                user=_answers_user(
+                    state["proposal_text"],
+                    json.dumps(state["initial_judgments"][pid], indent=2),
+                    questions_blob,
+                    mechanism,
+                ),
+                response_model=PeerAnswerSet,
+            )
+            # Zip answers back to the originating questions by order; unmatched questions
+            # simply go unanswered (acceptable for the single-round baseline).
+            for q, a in zip(qs, aset.answers):
+                answers.append(
+                    {
+                        "from_persona": pid,  # the answerer
+                        "to_persona": q["from_persona"],  # the original asker
+                        "question": q["question"],
+                        "answer": a.answer,
+                    }
+                )
+        state["peer_answers"] = answers
+        _log(state, "direct_peer_answers", {"n_answers": len(answers)})
+        return state
+
+    return node
+
+
+def _cluster_qa_blob(state: DirectCommState, cluster: tuple[PersonaId, ...]) -> str:
+    members = set(cluster)
+    qa = {
+        "questions": [
+            q
+            for q in state.get("peer_questions", [])
+            if q["from_persona"] in members and q["to_persona"] in members
+        ],
+        "answers": [
+            a
+            for a in state.get("peer_answers", [])
+            if a["from_persona"] in members and a["to_persona"] in members
+        ],
+    }
+    return json.dumps(qa, indent=2)
+
+
+def _node_peer_revision(provider: LLMProvider, mechanism: Mechanism):
     def node(state: DirectCommState) -> DirectCommState:
         revised: dict[str, dict[str, Any]] = {}
         for cluster in (CLUSTER_1, CLUSTER_2):
+            qa_blob = _cluster_qa_blob(state, cluster)
             for pid in cluster:
                 persona = PERSONAS[pid]
                 peers = [p for p in cluster if p != pid]
@@ -187,7 +347,7 @@ def _node_peer_exchange(provider: LLMProvider, mechanism: Mechanism):
                 validated, _ = call_model(
                     provider=provider,
                     system=_persona_system_revised(persona, mechanism),
-                    user=_revised_user(state["proposal_text"], peer_blob, mechanism),
+                    user=_revised_user(state["proposal_text"], peer_blob, qa_blob, mechanism),
                     response_model=AgentJudgment,
                     overrides={
                         "persona_id": persona.id,
@@ -196,7 +356,7 @@ def _node_peer_exchange(provider: LLMProvider, mechanism: Mechanism):
                 )
                 revised[pid] = validated.model_dump()
         state["revised_judgments"] = revised
-        _log(state, "direct_peer_exchange", {"n_revised": len(revised)})
+        _log(state, "direct_peer_revision", {"n_revised": len(revised)})
         return state
 
     return node
@@ -275,13 +435,17 @@ def _node_decisioner(provider: LLMProvider, mechanism: Mechanism):
 def build_direct_comm_graph(provider: LLMProvider, mechanism: Mechanism = INTEGRATION_ORIENTED):
     g = StateGraph(DirectCommState)
     g.add_node("initial", _node_initial(provider, mechanism))
-    g.add_node("peer_exchange", _node_peer_exchange(provider, mechanism))
+    g.add_node("peer_questions", _node_peer_questions(provider, mechanism))
+    g.add_node("peer_answers", _node_peer_answers(provider, mechanism))
+    g.add_node("peer_revision", _node_peer_revision(provider, mechanism))
     g.add_node("summarizers", _node_summarizers(provider, mechanism))
     g.add_node("decisioner", _node_decisioner(provider, mechanism))
 
     g.set_entry_point("initial")
-    g.add_edge("initial", "peer_exchange")
-    g.add_edge("peer_exchange", "summarizers")
+    g.add_edge("initial", "peer_questions")
+    g.add_edge("peer_questions", "peer_answers")
+    g.add_edge("peer_answers", "peer_revision")
+    g.add_edge("peer_revision", "summarizers")
     g.add_edge("summarizers", "decisioner")
     g.add_edge("decisioner", END)
     return g.compile()

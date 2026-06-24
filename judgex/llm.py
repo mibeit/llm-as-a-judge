@@ -155,6 +155,38 @@ DEFAULT_TEMPERATURE = 0.0
 DEFAULT_MAX_TOKENS = 4096
 
 
+def _is_transient(exc: BaseException, transient_types: tuple[type, ...]) -> bool:
+    """True if `exc` (or anything in its cause/context chain) is a transient fault.
+
+    instructor / tenacity wrap the real connection error inside a RetryException, so the
+    bare `except` clause never sees it. We walk __cause__ / __context__ to find it.
+    """
+    seen: set[int] = set()
+    cur: BaseException | None = exc
+    while cur is not None and id(cur) not in seen:
+        seen.add(id(cur))
+        if isinstance(cur, transient_types):
+            return True
+        # instructor surfaces the dropped connection in the message even when the
+        # concrete type is its own InstructorRetryException wrapper.
+        if "connection error" in str(cur).lower():
+            return True
+        cur = cur.__cause__ or cur.__context__
+    return False
+
+
+def _sleep_backoff(attempt: int, exc_name: str) -> None:
+    import time
+
+    wait = 30 * (attempt + 1)
+    print(
+        f"[llm] transient error ({exc_name}), retrying in {wait}s "
+        f"(attempt {attempt + 1}/3)…",
+        flush=True,
+    )
+    time.sleep(wait)
+
+
 class AnthropicInstructorProvider:
     """Claude via Anthropic SDK, wrapped in instructor for structured output."""
 
@@ -242,7 +274,7 @@ class OpenAICompatibleInstructorProvider:
         max_retries: int = 0,
     ) -> T:
         import time
-        from openai import APIConnectionError
+        from openai import APIConnectionError, APITimeoutError, InternalServerError
 
         composed = [{"role": "system", "content": system}] + [
             {"role": m.role, "content": m.content} for m in messages
@@ -252,9 +284,15 @@ class OpenAICompatibleInstructorProvider:
             # Disables Qwen3/DeepSeek-R1 extended-thinking via vLLM chat template flag.
             extra["extra_body"] = {"chat_template_kwargs": {"enable_thinking": False}}
 
-        # Outer retry for transient server errors (502 Bad Gateway, stale connections).
-        from openai import InternalServerError
+        # Transient connectivity faults we retry at this outer level. Self-hosted endpoints
+        # (Blablador) drop slow requests with "Server disconnected without sending a response".
+        transient = (APIConnectionError, APITimeoutError, InternalServerError)
 
+        # Outer retry for transient server errors (502 Bad Gateway, stale/dropped connections).
+        # instructor wraps its internal retries, so a dropped connection surfaces as
+        # InstructorRetryException / tenacity.RetryError rather than the bare APIConnectionError.
+        # We unwrap the cause chain and only retry when the underlying fault is transient;
+        # genuine validation failures are re-raised immediately.
         for conn_attempt in range(4):
             try:
                 return self.client.chat.completions.create(
@@ -266,12 +304,14 @@ class OpenAICompatibleInstructorProvider:
                     max_retries=max_retries,
                     **extra,
                 )
-            except (APIConnectionError, InternalServerError) as exc:
+            except transient as exc:
                 if conn_attempt == 3:
                     raise
-                wait = 30 * (conn_attempt + 1)
-                print(f"[llm] transient error ({type(exc).__name__}), retrying in {wait}s (attempt {conn_attempt + 1}/3)…", flush=True)
-                time.sleep(wait)
+                _sleep_backoff(conn_attempt, type(exc).__name__)
+            except Exception as exc:  # noqa: BLE001 - inspect wrapped retry exceptions
+                if not _is_transient(exc, transient) or conn_attempt == 3:
+                    raise
+                _sleep_backoff(conn_attempt, type(exc).__name__)
 
 
 # ---------------------------------------------------------------------------

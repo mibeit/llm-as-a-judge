@@ -81,6 +81,13 @@ class PoolReaction(BaseModel):
         ...,
         description="Concise reaction: what the persona adds, agrees with, or qualifies after seeing peers.",
     )
+    questions: list[str] = Field(
+        default_factory=list,
+        description=(
+            "Optional questions the persona raises to the pool (un-addressed; any other expert "
+            "may pick them up in the next round). Leave empty if the persona has nothing to ask."
+        ),
+    )
     revised_scores: dict[str, int] | None = Field(
         default=None,
         description=(
@@ -88,6 +95,34 @@ class PoolReaction(BaseModel):
             "judgment. Keys: feasibility, novelty, impact, presentation."
         ),
     )
+
+
+class PeerQuestion(BaseModel):
+    """A single directed question from one cluster-peer to another (Direct Communication)."""
+
+    to_persona: PersonaId = Field(..., description="The cluster-peer this question is addressed to.")
+    question: str
+
+
+class PeerQuestionSet(BaseModel):
+    """An agent's optional questions to its cluster-peers in the peer-exchange step.
+
+    At most one question per peer, and entirely optional: an agent that has nothing to
+    ask returns an empty list.
+    """
+
+    questions: list[PeerQuestion] = Field(default_factory=list)
+
+
+class PeerAnswerItem(BaseModel):
+    question: str = Field(..., description="The peer question being answered (echoed verbatim).")
+    answer: str
+
+
+class PeerAnswerSet(BaseModel):
+    """An agent's answers to the questions its cluster-peers directed at it."""
+
+    answers: list[PeerAnswerItem] = Field(default_factory=list)
 
 
 class Cluster(BaseModel):

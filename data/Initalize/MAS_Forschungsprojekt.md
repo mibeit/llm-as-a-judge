@@ -1,6 +1,6 @@
 # Vergleich von Multi-Agenten-Systemen für die Bewertung nachhaltiger Innovationskonzepte
 
-> **Status:** 🟢 Working Document · **Letztes Update:** 2026-06-05
+> **Status:** 🟢 Working Document · **Letztes Update:** 2026-06-24
 > **Semester:** Baseline-Phase
 > **Autor:innen:** *TBD*
 
@@ -82,12 +82,14 @@ Implementiert als reines **Prompt-Scaffolding**, das in jede Architektur eingeh�
 
 ### 4.2 Shared Message Pool
 **Komponenten:** A1–A6 + **Pool Curator** (neutral, filtert/clustert) + **Final Pool Summarizer / Judge** (neutral, synthetisiert).
-**Topologie:** Alle Agenten lesen und schreiben in ein gemeinsames strukturiertes Arbeitsgedächtnis (Blackboard-Pattern). Keine direkte Adressierung; Agenten entscheiden selbst, wann und worauf sie reagieren.
-**Ablauf (Baseline):**
+**Topologie:** Alle Agenten lesen und schreiben in ein gemeinsames strukturiertes Arbeitsgedächtnis (Blackboard-Pattern). Keine direkte Adressierung; Agenten entscheiden selbst, wann und worauf sie reagieren. Fragen gehen daher *an den Pool* (un-adressiert) — jeder Experte kann sie aufgreifen.
+**Ablauf:** Der Curator moderiert aus der Mitte heraus, nicht erst am Ende.
 1. **Round 1** — A1–A6 posten initiale strukturierte Urteile in den Pool.
-2. **Round 2** — A1–A6 lesen den Pool und posten Reaktionen (optional mit revidierten Scores).
-3. **Curator** — clustert die Pool-Beiträge in kohärente Themen, listet offene Fragen.
-4. **Final Judge** — synthetisiert aus dem geclusterten Pool das finale Urteil.
+2. **Curator (früh)** — clustert Round 1, benennt Konflikte und offene Fragen und postet diese zurück in den Pool.
+3. **Round 2 (Q&A)** — A1–A6 lesen den Pool inkl. der Curator-Fragen, beantworten was sie aus ihrer Perspektive können, dürfen eigene Fragen an den Pool stellen und ggf. Scores revidieren.
+4. **Round 3** — A1–A6 beantworten die in Round 2 aufgeworfenen Fragen und legen ihre Position fest (letzter Austausch vor der Synthese); optional mit revidierten Scores.
+5. **Curator (final)** — re-clustert den vollständigen Pool (Round 1–3).
+6. **Final Judge** — synthetisiert aus dem geclusterten Pool das finale Urteil.
 
 ### 4.3 Direct Communication
 **Komponenten:** A1–A6 + 2 **Summarizer** (S1, S2) + 1 **Decisioner** (E).
@@ -100,9 +102,13 @@ Implementiert als reines **Prompt-Scaffolding**, das in jede Architektur eingeh�
 
 **Peer-Kommunikation in Layer 1:** Agenten kommunizieren innerhalb ihres Clusters direkt untereinander (Cluster {A1,A2,A3} und Cluster {A4,A5,A6}). Die A4-Zuordnung folgt der Spec; sie ist als bewusste Annahme markiert und kann in einem späteren Schritt revidiert werden, ohne Code-Änderung.
 
-**Ablauf (Baseline):**
+**Ablauf:**
 1. **Initial Judgments** — jeder Agent postet ein initiales Urteil (ohne Peer-Information).
-2. **Peer Exchange** — jeder Agent liest die Urteile seiner beiden Cluster-Peers und postet ein revidiertes Urteil.
+2. **Peer Exchange** — eine einzelne, *optionale* Q&A-Runde innerhalb des Clusters:
+   - **Fragen:** Jeder Agent liest die Urteile seiner beiden Cluster-Peers und *darf* je Peer **maximal eine** gezielte Frage / Anregung stellen — muss aber nicht. Wer nichts zu fragen hat, fragt nicht.
+   - **Antworten:** Jeder adressierte Agent beantwortet die an ihn gerichteten Fragen.
+   - **Revision:** Jeder Agent postet ein revidiertes Urteil auf Basis der Peer-Urteile und der Cluster-internen Q&A.
+   Genau eine Frage-Runde (bewusst nicht iterativ, um die Komplexität gering zu halten).
 3. **Cluster-Summarizer** — S1 aggregiert A1–A3, S2 aggregiert A4–A6 (jeweils als FinalJudgment für den Cluster).
 4. **Decisioner E** — synthetisiert aus S1 + S2 das overall FinalJudgment.
 
@@ -110,11 +116,11 @@ Implementiert als reines **Prompt-Scaffolding**, das in jede Architektur eingeh�
 
 | Merkmal | Centralized | Shared Message Pool | Direct Communication |
 |---------|-------------|---------------------|----------------------|
-| Koordinationsrolle(n) | C0 (1) | Pool Curator + Summarizer/Judge (2, neutral) | S1, S2 (Summarizer) + E (Decisioner) |
-| Agent-zu-Agent direkt | nein | indirekt über Pool | ja (Intra-Cluster) |
+| Koordinationsrolle(n) | C0 (1) | Pool Curator (früh + final) + Summarizer/Judge (neutral) | S1, S2 (Summarizer) + E (Decisioner) |
+| Agent-zu-Agent direkt | nein | indirekt über Pool (Fragen un-adressiert) | ja (Intra-Cluster, gerichtete Fragen) |
 | Gemeinsamer Speicher | nein | ja (Pool) | nein |
 | Finale Synthese durch | C0 | Final Pool Summarizer/Judge | E (Decisioner) |
-| Iteration / Feedback | gezielte Rückfragen (Phase 4) | Pool-Round 2 | Peer-Austausch |
+| Iteration / Feedback | gezielte Rückfragen (Phase 4) | Curator-Fragen + Pool-Q&A (Round 2 + 3) | optionale Q&A-Runde im Peer-Austausch |
 
 ---
 
@@ -192,7 +198,8 @@ Die Cases sind als realer Datensatz vorhanden (`data/`):
 ### 8.3 Output-Schemas (Pydantic)
 - `AgentJudgment`: pro Persona, 4 Dimensionen mit Score (1–5) und Rationale, `perspective_summary`, `key_concerns`, `confidence`.
 - `FinalJudgment`: 4 Dimensionen, recomputed `average`, `synthesis`, `uncertainty`, `contributing_agents`.
-- `PoolReaction` (Shared Pool, Round 2): kompakte Reaktion mit optional revidierten Scores.
+- `PoolReaction` (Shared Pool, Round 2/3): kompakte Reaktion mit optionalen Fragen an den Pool (`questions`) und optional revidierten Scores.
+- `PeerQuestionSet` / `PeerAnswerSet` (Direct Comm, Peer-Exchange): gerichtete Fragen an Cluster-Peers (max. 1 je Peer, optional) und die zugehörigen Antworten.
 - Inline-Schemas: `ConflictReport`, `ClarificationResponse`, `ClusterReport`.
 
 ### 8.4 Mechanismus-Implementierung
@@ -281,7 +288,7 @@ llm-as-a-judge/
 1. **Foundation-LLM final wählen.** Aktuell Default `claude-sonnet-4-6`, pluggable. Vor Hauptdurchlauf festziehen.
 2. **Anzahl Wiederholungs-Runs pro Proposal** (Stochastik des LLMs). Vorschlag: 3.
 3. **A4-Cluster-Annahme in Direct Communication.** Aktuell A4 → S2 (gemäß Spec). Revidierbar ohne Code-Änderung.
-4. **Termination Criterion pro Setup.** Aktuell fix: Centralized 5 Phasen, Shared Pool 2 Runden, Direct Comm 1 Peer-Runde. Für Baseline ausreichend; für spätere Iterationen evtl. konvergenzbasiert.
+4. **Termination Criterion pro Setup.** Aktuell fix: Centralized 5 Phasen, Shared Pool 3 Runden (R1 + Q&A-Runden R2/R3, gerahmt von frühem und finalem Curator-Pass), Direct Comm 1 optionale Q&A-Runde im Peer-Austausch. Für Baseline ausreichend; für spätere Iterationen evtl. konvergenzbasiert.
 5. **Statistisches Design.** Welche Tests für den 6-Konditionen-Vergleich? Korrektur für multiples Testen?
 6. **Inter-Rater-Reliability nicht berechenbar.** Die Jury-Datei enthält nur Average-Werte über alle Judges, keine Einzel-Scores. Konsequenz für die Validität der Ground Truth dokumentieren.
 7. **Kosten-Budget für Hauptdurchlauf.** 104 Proposals × 6 Konditionen × 3 Wiederholungen × ~15 LLM-Calls = ~28k Calls. Modellwahl beeinflusst das deutlich.
@@ -289,5 +296,6 @@ llm-as-a-judge/
 ---
 
 ## 11. Changelog
+- **2026-06-24** — Interaktion in zwei Architekturen vertieft. **Shared Message Pool:** Curator vom End-Filter zum Moderator in der Mitte (früher Cluster-/Fragen-Pass nach Round 1), neue fixe Round 3, in der Experten die in Round 2 gestellten Fragen beantworten; `PoolReaction` um `questions` (Fragen an den Pool) erweitert. **Direct Communication:** Peer-Exchange um eine optionale, einzelne Q&A-Runde erweitert (je Peer max. 1 Frage, kein Zwang → Frage → Antwort → Revision); neue Schemas `PeerQuestionSet`/`PeerAnswerSet`.
 - **2026-06-05** — Re-Design: Cooperative/Competitive → Integration-oriented / Constructive Controversy. Personas A1–A6 festgelegt. Daten eingepflegt (4 Contests × 26 Proposals, Jury-Datei). Baseline-Implementierung aller 6 Konditionen abgeschlossen. Live-Smoke (Centralized + Integration) erfolgreich.
 - **2026-05-26** — Initiale Version erstellt (Struktur + offene Fragen).
